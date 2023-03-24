@@ -1,0 +1,97 @@
+Jan 16 04:16:10.827 2019@LM_INFO@ACE Log Strategy init succ.
+Jan 16 04:16:10.947 2019@LM_INFO@ExtendBufferList size:[128] total:[0] need memory [26265600] ,total use memory [0].
+Jan 16 04:16:10.963 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer bind success 127.0.0.1|31001, svr_info:21|1000001.
+Jan 16 04:16:10.964 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer old_buf, snd:16384, recv:87380.
+Jan 16 04:16:10.965 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer new_buf, snd:249856, recv:249856.
+Jan 16 04:16:10.965 2019@LM_INFO@Inst_Comm_Svrd_App::Run Start.
+Jan 16 04:17:05.929 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|48120] Success. 
+Jan 16 04:17:05.930 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 16 04:17:05.930 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:21|1000001.
+Jan 16 04:17:05.991 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:2|1000001, reactor_index:0!
+Jan 16 04:17:05.995 2019@LM_INFO@Accept peer server[2|1000001],IP|port[127.0.0.1|48120] regist success.
+Jan 16 04:17:26.464 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|48184] Success. 
+Jan 16 04:17:26.465 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 16 04:17:26.465 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:21|1000001.
+Jan 16 04:17:26.642 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:11|1001101, reactor_index:0!
+Jan 16 04:17:26.643 2019@LM_INFO@Accept peer server[11|1001101],IP|port[127.0.0.1|48184] regist success.
+Jan 16 04:17:39.356 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|48233] Success. 
+Jan 16 04:17:39.366 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 16 04:17:39.371 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:21|1000001.
+Jan 16 04:17:39.647 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:8|1001101, reactor_index:0!
+Jan 16 04:17:39.651 2019@LM_INFO@Accept peer server[8|1001101],IP|port[127.0.0.1|48233] regist success.
+Jan 16 04:17:51.550 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|48285] Success. 
+Jan 16 04:17:51.551 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 16 04:17:51.551 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:21|1000001.
+Jan 16 04:17:52.672 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:9|1001101, reactor_index:0!
+Jan 16 04:17:52.695 2019@LM_INFO@Accept peer server[9|1001101],IP|port[127.0.0.1|48285] regist success.
+Jan 16 04:22:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 04:23:09.371 2019@LM_ERROR@Connect or receive expire event,peer server [8|1001101] IP[127.0.0.1|48233] want to close handle. recieve_counter=0
+Jan 16 04:23:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 04:27:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 04:28:09.371 2019@LM_ERROR@Connect or receive expire event,peer server [8|1001101] IP[127.0.0.1|48233] want to close handle. recieve_counter=0
+Jan 16 04:28:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 04:32:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 04:33:09.371 2019@LM_ERROR@Connect or receive expire event,peer server [8|1001101] IP[127.0.0.1|48233] want to close handle. recieve_counter=0
+Jan 16 04:33:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 04:38:21.556 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 04:42:35.936 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 04:43:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 04:47:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 04:48:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 04:52:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 04:57:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 04:58:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 05:02:35.932 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 05:03:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 05:07:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 05:08:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 05:12:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 05:13:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 05:17:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 05:18:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 05:22:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 05:23:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 05:27:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 05:28:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 05:32:35.932 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 05:33:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 05:37:35.930 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 05:38:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 05:42:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 05:47:35.932 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 05:52:35.930 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 05:57:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 05:58:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 06:02:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 06:03:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 06:07:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 06:08:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 06:12:35.932 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 06:13:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 06:17:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 06:22:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 06:27:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 06:28:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 06:32:35.933 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 06:33:21.552 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 06:37:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 06:38:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 06:42:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 06:43:21.554 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 06:47:35.934 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 06:48:21.553 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 06:52:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 06:57:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 06:58:09.374 2019@LM_ERROR@Connect or receive expire event,peer server [8|1001101] IP[127.0.0.1|48233] want to close handle. recieve_counter=0
+Jan 16 07:02:35.930 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 07:07:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 07:08:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 07:12:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 07:13:21.557 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 07:17:35.931 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 07:18:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 07:22:35.930 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 07:23:21.551 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0
+Jan 16 07:27:35.930 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|48120] want to close handle. recieve_counter=0
+Jan 16 07:28:09.371 2019@LM_ERROR@Connect or receive expire event,peer server [8|1001101] IP[127.0.0.1|48233] want to close handle. recieve_counter=0
+Jan 16 07:28:21.554 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|48285] want to close handle. recieve_counter=0

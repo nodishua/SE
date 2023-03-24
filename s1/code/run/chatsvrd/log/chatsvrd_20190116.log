@@ -1,0 +1,57 @@
+Jan 16 04:18:34.134 2019@LM_INFO@Init QY_Log_Report Succ...
+Jan 16 04:18:34.144 2019@LM_INFO@Base_Mmap_Cache::GetMollocTotalSize i:0, size:2197340.
+Jan 16 04:18:34.277 2019@LM_INFO@Base_Mmap_Cache::GetMollocTotalSize i:1, size:2902808.
+Jan 16 04:18:34.279 2019@LM_INFO@Chat_Listen_Data_Mgr::InitListenMgr Succ.
+Jan 16 04:18:34.295 2019@LM_INFO@Chat_Item_Data_Mgr::InitDataMgr Succ.
+Jan 16 04:18:34.377 2019@LM_INFO@Get config db data server_type_=1,server_id_=1000001,lan_ip=2130706433,lan_port=11001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 16 04:18:34.548 2019@LM_INFO@Get config db data server_type_=2,server_id_=1000001,lan_ip=2130706433,lan_port=12001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 16 04:18:34.572 2019@LM_INFO@Get config db data server_type_=3,server_id_=1000001,lan_ip=2130706433,lan_port=13001,wan_ip_1=3232286820,wan_port_1=13001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 16 04:18:34.595 2019@LM_INFO@Get config db data server_type_=4,server_id_=1000001,lan_ip=2130706433,lan_port=14001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 16 04:18:34.635 2019@LM_INFO@Get config db data server_type_=5,server_id_=1000001,lan_ip=2130706433,lan_port=15001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 16 04:18:34.682 2019@LM_INFO@Get config db data server_type_=6,server_id_=1000001,lan_ip=2130706433,lan_port=16001,wan_ip_1=3232286820,wan_port_1=16001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 16 04:18:34.747 2019@LM_INFO@Get config db data server_type_=7,server_id_=1000001,lan_ip=2130706433,lan_port=17001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 16 04:18:34.838 2019@LM_INFO@Get config db data server_type_=10,server_id_=1000001,lan_ip=2130706433,lan_port=20001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 16 04:18:34.874 2019@LM_INFO@Get config db data server_type_=12,server_id_=1000001,lan_ip=2130706433,lan_port=22001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 16 04:18:34.937 2019@LM_INFO@Get config db data server_type_=13,server_id_=1000001,lan_ip=2130706433,lan_port=23001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 16 04:18:34.994 2019@LM_INFO@Get config db data server_type_=14,server_id_=1000001,lan_ip=2130706433,lan_port=24001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 16 04:18:35.012 2019@LM_INFO@Get config db data server_type_=15,server_id_=1000001,lan_ip=2130706433,lan_port=25001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 16 04:18:35.030 2019@LM_INFO@Get config db data server_type_=17,server_id_=1000001,lan_ip=2130706433,lan_port=27001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 16 04:18:35.051 2019@LM_INFO@Get config db data server_type_=18,server_id_=1000001,lan_ip=2130706433,lan_port=28001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 16 04:18:35.109 2019@LM_INFO@Get config db data server_type_=19,server_id_=1000001,lan_ip=2130706433,lan_port=29001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 16 04:18:35.211 2019@LM_INFO@Get config db data server_type_=20,server_id_=1000001,lan_ip=2130706433,lan_port=30001,wan_ip_1=3232286820,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 16 04:18:35.266 2019@LM_INFO@Get config db data server_type_=21,server_id_=1000001,lan_ip=2130706433,lan_port=31001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 16 04:18:35.297 2019@LM_INFO@Get config db data server_type_=22,server_id_=1000001,lan_ip=2130706433,lan_port=32001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=2130706433, udp_wan_ip=3232286820, udp_port=52431, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 16 04:18:35.329 2019@LM_INFO@Get config db data server_type_=8,server_id_=1001101,lan_ip=2130706433,lan_port=18001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Jan 16 04:18:35.523 2019@LM_INFO@Get config db data server_type_=9,server_id_=1001101,lan_ip=2130706433,lan_port=19001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Jan 16 04:18:35.626 2019@LM_INFO@Get config db data server_type_=11,server_id_=1001101,lan_ip=2130706433,lan_port=21001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Jan 16 04:18:35.688 2019@LM_INFO@Get config db data server_type_=8,server_id_=1001201,lan_ip=2130706433,lan_port=18002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Jan 16 04:18:35.719 2019@LM_INFO@Get config db data server_type_=9,server_id_=1001201,lan_ip=2130706433,lan_port=19002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Jan 16 04:18:35.756 2019@LM_INFO@Get config db data server_type_=11,server_id_=1001201,lan_ip=2130706433,lan_port=21002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Jan 16 04:18:35.824 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001201.
+Jan 16 04:18:35.876 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:19|1000001.
+Jan 16 04:18:35.909 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:13|1000001.
+Jan 16 04:18:35.910 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:10|1000001.
+Jan 16 04:18:35.957 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:7|1000001.
+Jan 16 04:18:35.973 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:4|1000001.
+Jan 16 04:18:35.997 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:1|1000001.
+Jan 16 04:18:36.005 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:21|1000001.
+Jan 16 04:18:36.016 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:18|1000001.
+Jan 16 04:18:36.018 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:15|1000001.
+Jan 16 04:18:36.019 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:12|1000001.
+Jan 16 04:18:36.027 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:6|1000001.
+Jan 16 04:18:36.036 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:3|1000001.
+Jan 16 04:18:36.043 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001101.
+Jan 16 04:18:36.044 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001201.
+Jan 16 04:18:36.053 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:20|1000001.
+Jan 16 04:18:36.064 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:17|1000001.
+Jan 16 04:18:36.071 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:14|1000001.
+Jan 16 04:18:36.073 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:5|1000001.
+Jan 16 04:18:36.083 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:2|1000001.
+Jan 16 04:18:36.099 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001101.
+Jan 16 04:18:36.100 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001201.
+Jan 16 04:18:36.102 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:22|1000001.
+Jan 16 04:18:36.108 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001101.
+Jan 16 04:18:36.166 2019@LM_INFO@Read Server Configure File. [./cfg/chatsvrd.conf] .
+Jan 16 04:18:36.180 2019@LM_INFO@Read CommSvrd Server Configure File. [./cfg/chatsvrd.conf] .
+Jan 16 04:18:36.182 2019@LM_INFO@Inst_Chat_Svrd_App::InitInstance end.
+Jan 16 04:18:36.183 2019@LM_INFO@Inst_Chat_Svrd_App::Run.

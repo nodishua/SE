@@ -1,0 +1,434 @@
+Jan 15 10:10:46.500 2019@LM_INFO@ACE Log Strategy init succ.
+Jan 15 10:10:53.190 2019@LM_INFO@ExtendBufferList size:[128] total:[0] need memory [26265600] ,total use memory [0].
+Jan 15 10:10:53.323 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer bind success 127.0.0.1|17001, svr_info:7|1000001.
+Jan 15 10:10:53.323 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer old_buf, snd:16384, recv:87380.
+Jan 15 10:10:53.323 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer new_buf, snd:249856, recv:249856.
+Jan 15 10:10:53.323 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:1|1000001.
+Jan 15 10:10:53.323 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 10:10:53.323 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:5|1000001.
+Jan 15 10:10:53.323 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 10:10:53.323 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Jan 15 10:10:53.324 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 10:10:53.324 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:18|1000001.
+Jan 15 10:10:53.325 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 10:10:53.325 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9001|1.
+Jan 15 10:10:53.325 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 10:10:53.325 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9002|1.
+Jan 15 10:10:53.330 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 10:10:53.330 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9003|1.
+Jan 15 10:10:53.330 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 10:10:53.330 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9005|1.
+Jan 15 10:10:53.331 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 10:10:53.331 2019@LM_INFO@Inst_Comm_Svrd_App::Run Start.
+Jan 15 10:10:53.331 2019@LM_INFO@Connect server[1|1000001] peer socket IP|Port :[127.0.0.1|11001] Success.
+Jan 15 10:10:53.331 2019@LM_INFO@TIMEOUT_STONE Send a few(n>=1) whole pkg To  IP|Port :127.0.0.1|15001 Pkg Len:40 cmd:601, svr_id:1000001, qy_uin:0, trans_id:0.
+Jan 15 10:10:53.331 2019@LM_INFO@Connect server[5|1000001] peer socket IP|Port :[127.0.0.1|15001] Success.
+Jan 15 10:10:53.333 2019@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[127.0.0.1|20001] Success.
+Jan 15 10:10:53.333 2019@LM_INFO@Connect server[18|1000001] peer socket IP|Port :[127.0.0.1|28001] Success.
+Jan 15 10:10:53.333 2019@LM_INFO@Connect server[9001|1] peer socket IP|Port :[127.0.0.1|32101] Success.
+Jan 15 10:10:53.333 2019@LM_INFO@Connect server[9002|1] peer socket IP|Port :[127.0.0.1|33101] Success.
+Jan 15 10:10:53.335 2019@LM_INFO@Connect server[9003|1] peer socket IP|Port :[127.0.0.1|35101] Success.
+Jan 15 10:10:53.338 2019@LM_INFO@Connect server[9005|1] peer socket IP|Port :[127.0.0.1|38101] Success.
+Jan 15 10:10:55.796 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|58839] Success. 
+Jan 15 10:10:55.796 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 10:10:55.796 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 10:10:55.796 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:9|1001101, reactor_index:0!
+Jan 15 10:10:55.796 2019@LM_INFO@Accept peer server[9|1001101],IP|port[127.0.0.1|58839] regist success.
+Jan 15 10:10:56.336 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|58841] Success. 
+Jan 15 10:10:56.336 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 10:10:56.336 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 10:10:56.336 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:20|1000001, reactor_index:0!
+Jan 15 10:10:56.336 2019@LM_INFO@Accept peer server[20|1000001],IP|port[127.0.0.1|58841] regist success.
+Jan 15 10:10:56.635 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|58843] Success. 
+Jan 15 10:10:56.635 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 10:10:56.635 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 10:10:56.635 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:8|1001101, reactor_index:0!
+Jan 15 10:10:56.635 2019@LM_INFO@Accept peer server[8|1001101],IP|port[127.0.0.1|58843] regist success.
+Jan 15 10:10:56.833 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|58845] Success. 
+Jan 15 10:10:56.833 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 10:10:56.833 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 10:10:56.833 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:11|1001101, reactor_index:0!
+Jan 15 10:10:56.833 2019@LM_INFO@Accept peer server[11|1001101],IP|port[127.0.0.1|58845] regist success.
+Jan 15 10:10:58.750 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|58847] Success. 
+Jan 15 10:10:58.750 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 10:10:58.750 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 10:10:58.750 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:2|1000001, reactor_index:0!
+Jan 15 10:10:58.750 2019@LM_INFO@Accept peer server[2|1000001],IP|port[127.0.0.1|58847] regist success.
+Jan 15 10:11:00.735 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|58849] Success. 
+Jan 15 10:11:00.735 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 10:11:00.735 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 10:11:00.735 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:6|1000001, reactor_index:0!
+Jan 15 10:11:00.735 2019@LM_INFO@Accept peer server[6|1000001],IP|port[127.0.0.1|58849] regist success.
+Jan 15 10:15:32.280 2019@LM_INFO@TIMEOUT_STONE Send a few(n>=1) whole pkg To  IP|Port :127.0.0.1|15001 Pkg Len:131 cmd:5547, svr_id:1000001, qy_uin:4294967295, trans_id:7.
+Jan 15 10:15:32.369 2019@LM_ERROR@TIMEOUT_STONE Comm_TCP_Svr_Handler::PreProcessRecvPkg cmd:5548, uin:4294967295, trans_id:7, recv_svr:7|1000001, send_svr:5|1000001.
+Jan 15 10:15:32.369 2019@LM_INFO@TIMEOUT Comm_TCP_Svr_Handler::PreProcessRecvPkg push over cmd:5548, pipe_size:10000000, free_size:9999956, pkg_ptr->send_server_.svr_id_:1000001.
+Jan 15 10:15:52.831 2019@LM_INFO@TIMEOUT_STONE Send a few(n>=1) whole pkg To  IP|Port :127.0.0.1|15001 Pkg Len:131 cmd:5547, svr_id:1000001, qy_uin:4294967295, trans_id:9.
+Jan 15 10:15:52.927 2019@LM_ERROR@TIMEOUT_STONE Comm_TCP_Svr_Handler::PreProcessRecvPkg cmd:5548, uin:4294967295, trans_id:9, recv_svr:7|1000001, send_svr:5|1000001.
+Jan 15 10:15:52.927 2019@LM_INFO@TIMEOUT Comm_TCP_Svr_Handler::PreProcessRecvPkg push over cmd:5548, pipe_size:10000000, free_size:9999956, pkg_ptr->send_server_.svr_id_:1000001.
+Jan 15 10:16:26.337 2019@LM_ERROR@Connect or receive expire event,peer server [20|1000001] IP[127.0.0.1|58841] want to close handle. recieve_counter=0
+Jan 15 10:16:26.833 2019@LM_ERROR@Connect or receive expire event,peer server [11|1001101] IP[127.0.0.1|58845] want to close handle. recieve_counter=0
+Jan 15 10:16:28.751 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|58847] want to close handle. recieve_counter=0
+Jan 15 10:20:11.534 2019@LM_INFO@TIMEOUT_STONE Send a few(n>=1) whole pkg To  IP|Port :127.0.0.1|15001 Pkg Len:131 cmd:5547, svr_id:1000001, qy_uin:4294967295, trans_id:13.
+Jan 15 10:20:11.616 2019@LM_ERROR@TIMEOUT_STONE Comm_TCP_Svr_Handler::PreProcessRecvPkg cmd:5548, uin:4294967295, trans_id:13, recv_svr:7|1000001, send_svr:5|1000001.
+Jan 15 10:20:11.616 2019@LM_INFO@TIMEOUT Comm_TCP_Svr_Handler::PreProcessRecvPkg push over cmd:5548, pipe_size:10000000, free_size:9999956, pkg_ptr->send_server_.svr_id_:1000001.
+Jan 15 10:20:36.359 2019@LM_ERROR@139881429653280: work_pending_i: Interrupted system call
+Jan 15 10:20:36.359 2019@LM_INFO@ExitInstance Succ.Have Fun.!!!
+Jan 15 10:20:36.359 2019@LM_INFO@Has 14 peer want to close. Please wait. ACE that is accursed.
+Jan 15 10:20:36.359 2019@LM_INFO@Connect peer close, server[10|1000001] socket IP|Port :[127.0.0.1|20001].
+Jan 15 10:20:36.359 2019@LM_INFO@Connect peer close, server[9002|1] socket IP|Port :[127.0.0.1|33101].
+Jan 15 10:20:36.359 2019@LM_INFO@Connect peer close, server[9|1001101] socket IP|Port :[127.0.0.1|58839].
+Jan 15 10:20:36.359 2019@LM_INFO@Connect peer close, server[5|1000001] socket IP|Port :[127.0.0.1|15001].
+Jan 15 10:20:36.359 2019@LM_INFO@Connect peer close, server[11|1001101] socket IP|Port :[127.0.0.1|58845].
+Jan 15 10:20:36.359 2019@LM_INFO@Connect peer close, server[9001|1] socket IP|Port :[127.0.0.1|32101].
+Jan 15 10:20:36.359 2019@LM_INFO@Connect peer close, server[2|1000001] socket IP|Port :[127.0.0.1|58847].
+Jan 15 10:20:36.359 2019@LM_INFO@Connect peer close, server[18|1000001] socket IP|Port :[127.0.0.1|28001].
+Jan 15 10:20:36.359 2019@LM_INFO@Connect peer close, server[8|1001101] socket IP|Port :[127.0.0.1|58843].
+Jan 15 10:20:36.359 2019@LM_INFO@Connect peer close, server[9003|1] socket IP|Port :[127.0.0.1|35101].
+Jan 15 10:20:36.359 2019@LM_INFO@Connect peer close, server[20|1000001] socket IP|Port :[127.0.0.1|58841].
+Jan 15 10:20:36.359 2019@LM_INFO@Connect peer close, server[9005|1] socket IP|Port :[127.0.0.1|38101].
+Jan 15 10:20:36.359 2019@LM_INFO@Connect peer close, server[6|1000001] socket IP|Port :[127.0.0.1|58849].
+Jan 15 10:20:36.359 2019@LM_INFO@Connect peer close, server[1|1000001] socket IP|Port :[127.0.0.1|11001].
+Jan 15 10:20:36.359 2019@LM_INFO@Comm_Sock_Handle_Mgr::ClearAndCloseAll left type:1, num:2176.
+Jan 15 10:20:36.360 2019@LM_INFO@Comm_Sock_Handle_Mgr::ClearAndCloseAll left type:2, num:2176.
+Jan 15 10:20:36.361 2019@LM_INFO@Comm_Sock_Handle_Mgr::ClearAndCloseAll left type:3, num:2176.
+Jan 15 10:20:36.395 2019@LM_INFO@Comm_Sock_Handle_Mgr::ClearAndCloseAll left type:4, num:2176.
+Jan 15 10:20:36.396 2019@LM_INFO@Comm_Sock_Handle_Mgr::ClearAndCloseAll left type:5, num:2176.
+Jan 15 10:20:36.454 2019@LM_INFO@ExitInstance Succ.Have Fun.!!!
+Jan 15 10:20:36.454 2019@LM_INFO@Has 0 peer want to close. Please wait. ACE that is accursed.
+Jan 15 13:11:46.322 2019@LM_INFO@ACE Log Strategy init succ.
+Jan 15 13:11:49.509 2019@LM_INFO@ExtendBufferList size:[128] total:[0] need memory [26265600] ,total use memory [0].
+Jan 15 13:11:50.152 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer bind success 127.0.0.1|17001, svr_info:7|1000001.
+Jan 15 13:11:50.204 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer old_buf, snd:16384, recv:87380.
+Jan 15 13:11:50.228 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer new_buf, snd:249856, recv:249856.
+Jan 15 13:11:50.247 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:1|1000001.
+Jan 15 13:11:50.268 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 13:11:50.270 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:5|1000001.
+Jan 15 13:11:50.282 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 13:11:50.284 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Jan 15 13:11:50.291 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 13:11:50.299 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:18|1000001.
+Jan 15 13:11:50.308 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 13:11:50.310 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9001|1.
+Jan 15 13:11:50.319 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 13:11:50.326 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9002|1.
+Jan 15 13:11:50.338 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 13:11:50.346 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9003|1.
+Jan 15 13:11:50.351 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 13:11:50.351 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9005|1.
+Jan 15 13:11:50.364 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 13:11:50.368 2019@LM_INFO@Inst_Comm_Svrd_App::Run Start.
+Jan 15 13:11:50.378 2019@LM_INFO@Connect server[1|1000001] peer socket IP|Port :[127.0.0.1|11001] Success.
+Jan 15 13:11:50.385 2019@LM_INFO@TIMEOUT_STONE Send a few(n>=1) whole pkg To  IP|Port :127.0.0.1|15001 Pkg Len:40 cmd:601, svr_id:1000001, qy_uin:0, trans_id:0.
+Jan 15 13:11:50.474 2019@LM_INFO@Connect server[5|1000001] peer socket IP|Port :[127.0.0.1|15001] Success.
+Jan 15 13:11:50.501 2019@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[127.0.0.1|20001] Success.
+Jan 15 13:11:50.535 2019@LM_INFO@Connect server[18|1000001] peer socket IP|Port :[127.0.0.1|28001] Success.
+Jan 15 13:11:50.564 2019@LM_INFO@Connect server[9001|1] peer socket IP|Port :[127.0.0.1|32101] Success.
+Jan 15 13:11:50.593 2019@LM_INFO@Connect server[9002|1] peer socket IP|Port :[127.0.0.1|33101] Success.
+Jan 15 13:11:50.621 2019@LM_INFO@Connect server[9003|1] peer socket IP|Port :[127.0.0.1|35101] Success.
+Jan 15 13:11:50.646 2019@LM_INFO@Connect server[9005|1] peer socket IP|Port :[127.0.0.1|38101] Success.
+Jan 15 13:11:52.989 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|46395] Success. 
+Jan 15 13:11:53.027 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 13:11:53.249 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 13:11:53.412 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:9|1001101, reactor_index:0!
+Jan 15 13:11:53.541 2019@LM_INFO@Accept peer server[9|1001101],IP|port[127.0.0.1|46395] regist success.
+Jan 15 13:11:53.926 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|46398] Success. 
+Jan 15 13:11:54.002 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 13:11:54.020 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 13:11:54.048 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:6|1000001, reactor_index:0!
+Jan 15 13:11:54.051 2019@LM_INFO@Accept peer server[6|1000001],IP|port[127.0.0.1|46398] regist success.
+Jan 15 13:11:55.610 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|46400] Success. 
+Jan 15 13:11:55.741 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 13:11:55.758 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 13:11:55.870 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|46401] Success. 
+Jan 15 13:11:55.884 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 13:11:55.887 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 13:11:56.035 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:2|1000001, reactor_index:0!
+Jan 15 13:11:56.200 2019@LM_INFO@Accept peer server[2|1000001],IP|port[127.0.0.1|46401] regist success.
+Jan 15 13:11:56.431 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:8|1001101, reactor_index:0!
+Jan 15 13:11:56.564 2019@LM_INFO@Accept peer server[8|1001101],IP|port[127.0.0.1|46400] regist success.
+Jan 15 13:11:59.192 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|46405] Success. 
+Jan 15 13:11:59.194 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 13:11:59.201 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 13:11:59.347 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:20|1000001, reactor_index:0!
+Jan 15 13:11:59.352 2019@LM_INFO@Accept peer server[20|1000001],IP|port[127.0.0.1|46405] regist success.
+Jan 15 13:12:00.247 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|46407] Success. 
+Jan 15 13:12:00.250 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 13:12:00.252 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 13:12:00.586 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:11|1001101, reactor_index:0!
+Jan 15 13:12:00.642 2019@LM_INFO@Accept peer server[11|1001101],IP|port[127.0.0.1|46407] regist success.
+Jan 15 13:16:26.414 2019@LM_INFO@TIMEOUT_STONE Send a few(n>=1) whole pkg To  IP|Port :127.0.0.1|15001 Pkg Len:131 cmd:5547, svr_id:1000001, qy_uin:4294967294, trans_id:15.
+Jan 15 13:16:28.834 2019@LM_ERROR@TIMEOUT_STONE Comm_TCP_Svr_Handler::PreProcessRecvPkg cmd:5548, uin:4294967294, trans_id:15, recv_svr:7|1000001, send_svr:5|1000001.
+Jan 15 13:16:28.907 2019@LM_INFO@TIMEOUT Comm_TCP_Svr_Handler::PreProcessRecvPkg push over cmd:5548, pipe_size:10000000, free_size:9999956, pkg_ptr->send_server_.svr_id_:1000001.
+Jan 15 13:17:23.265 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|46395] want to close handle. recieve_counter=0
+Jan 15 13:17:24.064 2019@LM_ERROR@Connect or receive expire event,peer server [6|1000001] IP[127.0.0.1|46398] want to close handle. recieve_counter=0
+Jan 15 13:17:27.122 2019@LM_ERROR@Connect or receive expire event,peer server [8|1001101] IP[127.0.0.1|46400] want to close handle. recieve_counter=0
+Jan 15 13:17:27.124 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|46401] want to close handle. recieve_counter=0
+Jan 15 13:17:29.247 2019@LM_ERROR@Connect or receive expire event,peer server [20|1000001] IP[127.0.0.1|46405] want to close handle. recieve_counter=0
+Jan 15 13:22:23.249 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|46395] want to close handle. recieve_counter=0
+Jan 15 13:22:24.020 2019@LM_ERROR@Connect or receive expire event,peer server [6|1000001] IP[127.0.0.1|46398] want to close handle. recieve_counter=0
+Jan 15 13:22:25.758 2019@LM_ERROR@Connect or receive expire event,peer server [8|1001101] IP[127.0.0.1|46400] want to close handle. recieve_counter=0
+Jan 15 13:22:25.886 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|46401] want to close handle. recieve_counter=0
+Jan 15 13:22:29.201 2019@LM_ERROR@Connect or receive expire event,peer server [20|1000001] IP[127.0.0.1|46405] want to close handle. recieve_counter=0
+Jan 15 13:22:30.252 2019@LM_ERROR@Connect or receive expire event,peer server [11|1001101] IP[127.0.0.1|46407] want to close handle. recieve_counter=0
+Jan 15 14:23:15.672 2019@LM_INFO@ACE Log Strategy init succ.
+Jan 15 14:23:16.420 2019@LM_INFO@ExtendBufferList size:[128] total:[0] need memory [26265600] ,total use memory [0].
+Jan 15 14:23:16.501 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer bind success 127.0.0.1|17001, svr_info:7|1000001.
+Jan 15 14:23:16.524 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer old_buf, snd:16384, recv:87380.
+Jan 15 14:23:16.583 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer new_buf, snd:249856, recv:249856.
+Jan 15 14:23:16.656 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:1|1000001.
+Jan 15 14:23:16.673 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:23:16.771 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:5|1000001.
+Jan 15 14:23:16.837 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:23:16.839 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Jan 15 14:23:16.850 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:23:16.861 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:18|1000001.
+Jan 15 14:23:16.944 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:23:16.955 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9001|1.
+Jan 15 14:23:17.262 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:23:17.268 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9002|1.
+Jan 15 14:23:17.278 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:23:17.285 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9003|1.
+Jan 15 14:23:17.758 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:23:18.315 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9005|1.
+Jan 15 14:23:21.019 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:23:21.022 2019@LM_INFO@Inst_Comm_Svrd_App::Run Start.
+Jan 15 14:23:21.065 2019@LM_INFO@Connect server[1|1000001] peer socket IP|Port :[127.0.0.1|11001] Success.
+Jan 15 14:23:21.106 2019@LM_INFO@TIMEOUT_STONE Send a few(n>=1) whole pkg To  IP|Port :127.0.0.1|15001 Pkg Len:40 cmd:601, svr_id:1000001, qy_uin:0, trans_id:0.
+Jan 15 14:23:21.143 2019@LM_INFO@Connect server[5|1000001] peer socket IP|Port :[127.0.0.1|15001] Success.
+Jan 15 14:23:21.172 2019@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[127.0.0.1|20001] Success.
+Jan 15 14:23:21.208 2019@LM_INFO@Connect server[18|1000001] peer socket IP|Port :[127.0.0.1|28001] Success.
+Jan 15 14:23:21.224 2019@LM_INFO@Connect server[9001|1] peer socket IP|Port :[127.0.0.1|32101] Success.
+Jan 15 14:23:21.255 2019@LM_INFO@Connect server[9002|1] peer socket IP|Port :[127.0.0.1|33101] Success.
+Jan 15 14:23:21.292 2019@LM_INFO@Connect server[9003|1] peer socket IP|Port :[127.0.0.1|35101] Success.
+Jan 15 14:23:21.327 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|34144] Success. 
+Jan 15 14:23:21.343 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:23:21.357 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 14:23:21.380 2019@LM_INFO@Connect server[9005|1] peer socket IP|Port :[127.0.0.1|38101] Success.
+Jan 15 14:23:21.423 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:8|1001101, reactor_index:0!
+Jan 15 14:23:21.439 2019@LM_INFO@Accept peer server[8|1001101],IP|port[127.0.0.1|34144] regist success.
+Jan 15 14:23:22.272 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|34147] Success. 
+Jan 15 14:23:22.273 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:23:22.276 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 14:23:22.305 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:9|1001101, reactor_index:0!
+Jan 15 14:23:22.322 2019@LM_INFO@Accept peer server[9|1001101],IP|port[127.0.0.1|34147] regist success.
+Jan 15 14:23:23.871 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|34149] Success. 
+Jan 15 14:23:24.676 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:23:24.991 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 14:23:25.004 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:20|1000001, reactor_index:0!
+Jan 15 14:23:25.028 2019@LM_INFO@Accept peer server[20|1000001],IP|port[127.0.0.1|34149] regist success.
+Jan 15 14:23:25.543 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|34152] Success. 
+Jan 15 14:23:25.547 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:23:25.548 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 14:23:25.673 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:11|1001101, reactor_index:0!
+Jan 15 14:23:25.703 2019@LM_INFO@Accept peer server[11|1001101],IP|port[127.0.0.1|34152] regist success.
+Jan 15 14:23:26.072 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|34154] Success. 
+Jan 15 14:23:26.073 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:23:26.076 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 14:23:26.233 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:2|1000001, reactor_index:0!
+Jan 15 14:23:26.252 2019@LM_INFO@Accept peer server[2|1000001],IP|port[127.0.0.1|34154] regist success.
+Jan 15 14:23:26.669 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|34157] Success. 
+Jan 15 14:23:26.670 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:23:26.672 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 14:23:26.915 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:6|1000001, reactor_index:0!
+Jan 15 14:23:26.918 2019@LM_INFO@Accept peer server[6|1000001],IP|port[127.0.0.1|34157] regist success.
+Jan 15 14:28:51.357 2019@LM_ERROR@Connect or receive expire event,peer server [8|1001101] IP[127.0.0.1|34144] want to close handle. recieve_counter=0
+Jan 15 14:28:52.282 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|34147] want to close handle. recieve_counter=0
+Jan 15 14:28:54.991 2019@LM_ERROR@Connect or receive expire event,peer server [20|1000001] IP[127.0.0.1|34149] want to close handle. recieve_counter=0
+Jan 15 14:28:55.549 2019@LM_ERROR@Connect or receive expire event,peer server [11|1001101] IP[127.0.0.1|34152] want to close handle. recieve_counter=0
+Jan 15 14:28:56.076 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|34154] want to close handle. recieve_counter=0
+Jan 15 14:28:56.672 2019@LM_ERROR@Connect or receive expire event,peer server [6|1000001] IP[127.0.0.1|34157] want to close handle. recieve_counter=0
+Jan 15 14:33:51.362 2019@LM_ERROR@Connect or receive expire event,peer server [8|1001101] IP[127.0.0.1|34144] want to close handle. recieve_counter=0
+Jan 15 14:33:52.280 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|34147] want to close handle. recieve_counter=0
+Jan 15 14:33:54.991 2019@LM_ERROR@Connect or receive expire event,peer server [20|1000001] IP[127.0.0.1|34149] want to close handle. recieve_counter=0
+Jan 15 14:33:55.548 2019@LM_ERROR@Connect or receive expire event,peer server [11|1001101] IP[127.0.0.1|34152] want to close handle. recieve_counter=0
+Jan 15 14:33:56.077 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|34154] want to close handle. recieve_counter=0
+Jan 15 14:33:56.680 2019@LM_ERROR@Connect or receive expire event,peer server [6|1000001] IP[127.0.0.1|34157] want to close handle. recieve_counter=0
+Jan 15 14:38:52.276 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|34147] want to close handle. recieve_counter=0
+Jan 15 14:38:54.991 2019@LM_ERROR@Connect or receive expire event,peer server [20|1000001] IP[127.0.0.1|34149] want to close handle. recieve_counter=0
+Jan 15 14:38:55.548 2019@LM_ERROR@Connect or receive expire event,peer server [11|1001101] IP[127.0.0.1|34152] want to close handle. recieve_counter=0
+Jan 15 14:38:56.076 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|34154] want to close handle. recieve_counter=0
+Jan 15 14:38:56.672 2019@LM_ERROR@Connect or receive expire event,peer server [6|1000001] IP[127.0.0.1|34157] want to close handle. recieve_counter=0
+Jan 15 14:43:54.991 2019@LM_ERROR@Connect or receive expire event,peer server [20|1000001] IP[127.0.0.1|34149] want to close handle. recieve_counter=0
+Jan 15 14:43:55.548 2019@LM_ERROR@Connect or receive expire event,peer server [11|1001101] IP[127.0.0.1|34152] want to close handle. recieve_counter=0
+Jan 15 14:43:56.076 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|34154] want to close handle. recieve_counter=0
+Jan 15 14:43:56.672 2019@LM_ERROR@Connect or receive expire event,peer server [6|1000001] IP[127.0.0.1|34157] want to close handle. recieve_counter=0
+Jan 15 14:58:30.608 2019@LM_INFO@ACE Log Strategy init succ.
+Jan 15 14:58:30.709 2019@LM_INFO@yy_dequechunk::initialize [SEND_PIPE] fail.
+Jan 15 14:58:30.755 2019@LM_INFO@ExtendBufferList size:[128] total:[0] need memory [26265600] ,total use memory [0].
+Jan 15 14:58:30.860 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer bind success 127.0.0.1|17001, svr_info:7|1000001.
+Jan 15 14:58:30.869 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer old_buf, snd:16384, recv:87380.
+Jan 15 14:58:30.904 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer new_buf, snd:249856, recv:249856.
+Jan 15 14:58:30.941 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:1|1000001.
+Jan 15 14:58:30.948 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:30.949 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:5|1000001.
+Jan 15 14:58:30.949 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:30.950 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Jan 15 14:58:30.966 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:30.975 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:18|1000001.
+Jan 15 14:58:30.985 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:30.986 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9001|1.
+Jan 15 14:58:30.991 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:31.010 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9002|1.
+Jan 15 14:58:31.022 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:31.036 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9003|1.
+Jan 15 14:58:31.037 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:31.038 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9005|1.
+Jan 15 14:58:31.063 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:31.080 2019@LM_INFO@Inst_Comm_Svrd_App::Run Start.
+Jan 15 14:58:51.083 2019@LM_INFO@ACE Log Strategy init succ.
+Jan 15 14:58:51.085 2019@LM_INFO@ExtendBufferList size:[128] total:[0] need memory [26265600] ,total use memory [0].
+Jan 15 14:58:51.215 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer bind success 127.0.0.1|17001, svr_info:7|1000001.
+Jan 15 14:58:51.251 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer old_buf, snd:16384, recv:87380.
+Jan 15 14:58:51.346 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer new_buf, snd:249856, recv:249856.
+Jan 15 14:58:51.362 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:1|1000001.
+Jan 15 14:58:51.506 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:51.628 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:5|1000001.
+Jan 15 14:58:51.673 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:51.693 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Jan 15 14:58:51.694 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:51.711 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:18|1000001.
+Jan 15 14:58:51.798 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:51.801 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9001|1.
+Jan 15 14:58:51.803 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:51.811 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9002|1.
+Jan 15 14:58:51.822 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:51.838 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9003|1.
+Jan 15 14:58:51.846 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:51.933 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9005|1.
+Jan 15 14:58:51.982 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:51.987 2019@LM_INFO@Inst_Comm_Svrd_App::Run Start.
+Jan 15 14:58:51.988 2019@LM_INFO@Connect server[1|1000001] peer socket IP|Port :[127.0.0.1|11001] Success.
+Jan 15 14:58:52.025 2019@LM_INFO@TIMEOUT_STONE Send a few(n>=1) whole pkg To  IP|Port :127.0.0.1|15001 Pkg Len:40 cmd:601, svr_id:1000001, qy_uin:0, trans_id:0.
+Jan 15 14:58:52.029 2019@LM_INFO@Connect server[5|1000001] peer socket IP|Port :[127.0.0.1|15001] Success.
+Jan 15 14:58:52.114 2019@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[127.0.0.1|20001] Success.
+Jan 15 14:58:52.130 2019@LM_INFO@Connect server[18|1000001] peer socket IP|Port :[127.0.0.1|28001] Success.
+Jan 15 14:58:52.141 2019@LM_INFO@Connect server[9001|1] peer socket IP|Port :[127.0.0.1|32101] Success.
+Jan 15 14:58:52.225 2019@LM_INFO@Connect server[9002|1] peer socket IP|Port :[127.0.0.1|33101] Success.
+Jan 15 14:58:52.232 2019@LM_INFO@Connect server[9003|1] peer socket IP|Port :[127.0.0.1|35101] Success.
+Jan 15 14:58:52.238 2019@LM_INFO@Connect server[9005|1] peer socket IP|Port :[127.0.0.1|38101] Success.
+Jan 15 14:58:52.415 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|36293] Success. 
+Jan 15 14:58:52.416 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:52.418 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 14:58:52.454 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:6|1000001, reactor_index:0!
+Jan 15 14:58:52.459 2019@LM_INFO@Accept peer server[6|1000001],IP|port[127.0.0.1|36293] regist success.
+Jan 15 14:58:57.086 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|36294] Success. 
+Jan 15 14:58:57.089 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:57.136 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 14:58:57.142 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:20|1000001, reactor_index:0!
+Jan 15 14:58:57.155 2019@LM_INFO@Accept peer server[20|1000001],IP|port[127.0.0.1|36294] regist success.
+Jan 15 14:58:57.930 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|36296] Success. 
+Jan 15 14:58:57.935 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:57.937 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 14:58:58.013 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:9|1001101, reactor_index:0!
+Jan 15 14:58:58.035 2019@LM_INFO@Accept peer server[9|1001101],IP|port[127.0.0.1|36296] regist success.
+Jan 15 14:58:58.811 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|36298] Success. 
+Jan 15 14:58:58.812 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:58.832 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 14:58:58.902 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:8|1001101, reactor_index:0!
+Jan 15 14:58:58.942 2019@LM_INFO@Accept peer server[8|1001101],IP|port[127.0.0.1|36298] regist success.
+Jan 15 14:58:59.031 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|36299] Success. 
+Jan 15 14:58:59.130 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:58:59.140 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 14:58:59.228 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:11|1001101, reactor_index:0!
+Jan 15 14:58:59.348 2019@LM_INFO@Accept peer server[11|1001101],IP|port[127.0.0.1|36299] regist success.
+Jan 15 14:59:00.886 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|36302] Success. 
+Jan 15 14:59:00.890 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 14:59:00.892 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 14:59:01.012 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:2|1000001, reactor_index:0!
+Jan 15 14:59:01.014 2019@LM_INFO@Accept peer server[2|1000001],IP|port[127.0.0.1|36302] regist success.
+Jan 15 15:04:22.418 2019@LM_ERROR@Connect or receive expire event,peer server [6|1000001] IP[127.0.0.1|36293] want to close handle. recieve_counter=0
+Jan 15 15:04:27.136 2019@LM_ERROR@Connect or receive expire event,peer server [20|1000001] IP[127.0.0.1|36294] want to close handle. recieve_counter=0
+Jan 15 15:04:27.937 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|36296] want to close handle. recieve_counter=0
+Jan 15 15:04:28.832 2019@LM_ERROR@Connect or receive expire event,peer server [8|1001101] IP[127.0.0.1|36298] want to close handle. recieve_counter=0
+Jan 15 15:04:29.140 2019@LM_ERROR@Connect or receive expire event,peer server [11|1001101] IP[127.0.0.1|36299] want to close handle. recieve_counter=0
+Jan 15 15:04:30.895 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|36302] want to close handle. recieve_counter=0
+Jan 15 15:09:22.418 2019@LM_ERROR@Connect or receive expire event,peer server [6|1000001] IP[127.0.0.1|36293] want to close handle. recieve_counter=0
+Jan 15 15:09:27.142 2019@LM_ERROR@Connect or receive expire event,peer server [20|1000001] IP[127.0.0.1|36294] want to close handle. recieve_counter=0
+Jan 15 15:09:29.140 2019@LM_ERROR@Connect or receive expire event,peer server [11|1001101] IP[127.0.0.1|36299] want to close handle. recieve_counter=0
+Jan 15 15:09:30.892 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|36302] want to close handle. recieve_counter=0
+Jan 15 15:14:22.418 2019@LM_ERROR@Connect or receive expire event,peer server [6|1000001] IP[127.0.0.1|36293] want to close handle. recieve_counter=0
+Jan 15 15:14:27.136 2019@LM_ERROR@Connect or receive expire event,peer server [20|1000001] IP[127.0.0.1|36294] want to close handle. recieve_counter=0
+Jan 15 15:14:29.140 2019@LM_ERROR@Connect or receive expire event,peer server [11|1001101] IP[127.0.0.1|36299] want to close handle. recieve_counter=0
+Jan 15 15:14:30.892 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|36302] want to close handle. recieve_counter=0
+Jan 15 15:19:22.418 2019@LM_ERROR@Connect or receive expire event,peer server [6|1000001] IP[127.0.0.1|36293] want to close handle. recieve_counter=0
+Jan 15 15:19:27.136 2019@LM_ERROR@Connect or receive expire event,peer server [20|1000001] IP[127.0.0.1|36294] want to close handle. recieve_counter=0
+Jan 15 15:19:29.140 2019@LM_ERROR@Connect or receive expire event,peer server [11|1001101] IP[127.0.0.1|36299] want to close handle. recieve_counter=0
+Jan 15 15:19:30.892 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|36302] want to close handle. recieve_counter=0
+Jan 15 15:26:15.958 2019@LM_INFO@ACE Log Strategy init succ.
+Jan 15 15:26:18.256 2019@LM_INFO@ExtendBufferList size:[128] total:[0] need memory [26265600] ,total use memory [0].
+Jan 15 15:26:18.342 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer bind success 127.0.0.1|17001, svr_info:7|1000001.
+Jan 15 15:26:18.398 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer old_buf, snd:16384, recv:87380.
+Jan 15 15:26:18.423 2019@LM_INFO@Comm_Accept_Handle::CreateListenPeer new_buf, snd:249856, recv:249856.
+Jan 15 15:26:18.456 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:1|1000001.
+Jan 15 15:26:18.504 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 15:26:18.562 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:5|1000001.
+Jan 15 15:26:18.574 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 15:26:18.594 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Jan 15 15:26:18.603 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 15:26:18.620 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:18|1000001.
+Jan 15 15:26:18.629 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 15:26:18.639 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9001|1.
+Jan 15 15:26:18.647 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 15:26:18.666 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9002|1.
+Jan 15 15:26:18.674 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 15:26:18.683 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9003|1.
+Jan 15 15:26:18.695 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 15:26:18.703 2019@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:9005|1.
+Jan 15 15:26:18.717 2019@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 15:26:18.734 2019@LM_INFO@Inst_Comm_Svrd_App::Run Start.
+Jan 15 15:26:18.762 2019@LM_INFO@Connect server[1|1000001] peer socket IP|Port :[127.0.0.1|11001] Success.
+Jan 15 15:26:18.805 2019@LM_INFO@TIMEOUT_STONE Send a few(n>=1) whole pkg To  IP|Port :127.0.0.1|15001 Pkg Len:40 cmd:601, svr_id:1000001, qy_uin:0, trans_id:0.
+Jan 15 15:26:18.850 2019@LM_INFO@Connect server[5|1000001] peer socket IP|Port :[127.0.0.1|15001] Success.
+Jan 15 15:26:18.907 2019@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[127.0.0.1|20001] Success.
+Jan 15 15:26:18.937 2019@LM_INFO@Connect server[18|1000001] peer socket IP|Port :[127.0.0.1|28001] Success.
+Jan 15 15:26:18.978 2019@LM_INFO@Connect server[9001|1] peer socket IP|Port :[127.0.0.1|32101] Success.
+Jan 15 15:26:19.018 2019@LM_INFO@Connect server[9002|1] peer socket IP|Port :[127.0.0.1|33101] Success.
+Jan 15 15:26:19.058 2019@LM_INFO@Connect server[9003|1] peer socket IP|Port :[127.0.0.1|35101] Success.
+Jan 15 15:26:19.084 2019@LM_INFO@Connect server[9005|1] peer socket IP|Port :[127.0.0.1|38101] Success.
+Jan 15 15:26:19.416 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|59948] Success. 
+Jan 15 15:26:19.420 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 15:26:19.420 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 15:26:19.421 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:6|1000001, reactor_index:0!
+Jan 15 15:26:19.434 2019@LM_INFO@Accept peer server[6|1000001],IP|port[127.0.0.1|59948] regist success.
+Jan 15 15:26:24.793 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|59949] Success. 
+Jan 15 15:26:24.796 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 15:26:24.798 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 15:26:24.828 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:9|1001101, reactor_index:0!
+Jan 15 15:26:24.840 2019@LM_INFO@Accept peer server[9|1001101],IP|port[127.0.0.1|59949] regist success.
+Jan 15 15:26:25.514 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|59951] Success. 
+Jan 15 15:26:25.515 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 15:26:25.516 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 15:26:25.538 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:8|1001101, reactor_index:0!
+Jan 15 15:26:25.542 2019@LM_INFO@Accept peer server[8|1001101],IP|port[127.0.0.1|59951] regist success.
+Jan 15 15:26:25.578 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|59953] Success. 
+Jan 15 15:26:25.593 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 15:26:25.596 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 15:26:25.615 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:20|1000001, reactor_index:0!
+Jan 15 15:26:25.638 2019@LM_INFO@Accept peer server[20|1000001],IP|port[127.0.0.1|59953] regist success.
+Jan 15 15:26:26.670 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|59955] Success. 
+Jan 15 15:26:26.671 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 15:26:26.673 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 15:26:26.684 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:11|1001101, reactor_index:0!
+Jan 15 15:26:26.695 2019@LM_INFO@Accept peer server[11|1001101],IP|port[127.0.0.1|59955] regist success.
+Jan 15 15:26:27.495 2019@LM_INFO@Accept peer socket IP Address:[127.0.0.1|59957] Success. 
+Jan 15 15:26:27.496 2019@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Jan 15 15:26:27.499 2019@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:7|1000001.
+Jan 15 15:26:27.532 2019@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:2|1000001, reactor_index:0!
+Jan 15 15:26:27.542 2019@LM_INFO@Accept peer server[2|1000001],IP|port[127.0.0.1|59957] regist success.
+Jan 15 15:31:49.420 2019@LM_ERROR@Connect or receive expire event,peer server [6|1000001] IP[127.0.0.1|59948] want to close handle. recieve_counter=0
+Jan 15 15:31:54.802 2019@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|59949] want to close handle. recieve_counter=0
+Jan 15 15:31:55.602 2019@LM_ERROR@Connect or receive expire event,peer server [20|1000001] IP[127.0.0.1|59953] want to close handle. recieve_counter=0
+Jan 15 15:31:56.673 2019@LM_ERROR@Connect or receive expire event,peer server [11|1001101] IP[127.0.0.1|59955] want to close handle. recieve_counter=0
+Jan 15 15:31:57.502 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|59957] want to close handle. recieve_counter=0
+Jan 15 15:36:49.420 2019@LM_ERROR@Connect or receive expire event,peer server [6|1000001] IP[127.0.0.1|59948] want to close handle. recieve_counter=0
+Jan 15 15:36:55.596 2019@LM_ERROR@Connect or receive expire event,peer server [20|1000001] IP[127.0.0.1|59953] want to close handle. recieve_counter=0
+Jan 15 15:36:56.673 2019@LM_ERROR@Connect or receive expire event,peer server [11|1001101] IP[127.0.0.1|59955] want to close handle. recieve_counter=0
+Jan 15 15:36:57.499 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|59957] want to close handle. recieve_counter=0
+Jan 15 15:41:49.420 2019@LM_ERROR@Connect or receive expire event,peer server [6|1000001] IP[127.0.0.1|59948] want to close handle. recieve_counter=0
+Jan 15 15:41:55.596 2019@LM_ERROR@Connect or receive expire event,peer server [20|1000001] IP[127.0.0.1|59953] want to close handle. recieve_counter=0
+Jan 15 15:41:56.674 2019@LM_ERROR@Connect or receive expire event,peer server [11|1001101] IP[127.0.0.1|59955] want to close handle. recieve_counter=0
+Jan 15 15:41:57.500 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|59957] want to close handle. recieve_counter=0
+Jan 15 15:46:49.420 2019@LM_ERROR@Connect or receive expire event,peer server [6|1000001] IP[127.0.0.1|59948] want to close handle. recieve_counter=0
+Jan 15 15:46:55.596 2019@LM_ERROR@Connect or receive expire event,peer server [20|1000001] IP[127.0.0.1|59953] want to close handle. recieve_counter=0
+Jan 15 15:46:56.673 2019@LM_ERROR@Connect or receive expire event,peer server [11|1001101] IP[127.0.0.1|59955] want to close handle. recieve_counter=0
+Jan 15 15:46:57.499 2019@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|59957] want to close handle. recieve_counter=0

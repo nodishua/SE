@@ -1,0 +1,33 @@
+Jan 16 04:18:23.789 2019@LM_INFO@  active LogDBCenterTask[1] succ!
+Jan 16 04:18:24.075 2019@LM_INFO@get_table_no, cur_time:1547630303, table_no:20190116
+Jan 16 04:19:16.476 2019@LM_ERROR@DB Error:[1064]:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT DEFAULT 0,role_level         INT DEFAULT 0,role_vip_level     INT DEFAULT 0,' at line 1.
+ SQL:CREATE TABLE IF NOT EXISTS yt_log.role_net_delay_20190116 (qy_uin             INT UNSIGNED DEFAULT 0,set_id             INT DEFAULT 0,times              INT DEFAULT 0,ping_delay         INT DEFAULT 0,comm_delay         INT DEFAULT 0,role_id            INT UNSIGNED DEFAULT 0, op_time            INT INT DEFAULT 0,role_level         INT DEFAULT 0,role_vip_level     INT DEFAULT 0,channel_id         VARCHAR(65),imei_serial        VARCHAR(65),oper_ip            INT DEFAULT 0,game_id            INT DEFAULT 0,apk_version        VARCHAR(65),plat_form          SMALLINT DEFAULT 0,language           SMALLINT DEFAULT 0,region             VARCHAR(32) )ENGINE=MyISAM DEFAULT CHARSET=utf8;
+Jan 16 04:19:16.593 2019@LM_ERROR@create yt_log.role_net_delay_20190116  db fail! 
+Jan 16 04:20:19.659 2019@LM_ERROR@DB Error:[1062]:Duplicate entry '1547630371-1-15-1000001-201' for key 'PRIMARY'.
+ SQL:INSERT INTO yt_log.cache_report_20190116 SET date_time=1547630371, set_id=1, svr_type=15, svr_id=1000001, cache_type=201, cache_capa=53, cache_size=13; 
+Jan 16 04:20:19.747 2019@LM_ERROR@DB Error:[1062]:Duplicate entry '1547630381-1-15-1000001-201' for key 'PRIMARY'.
+ SQL:INSERT INTO yt_log.cache_report_20190116 SET date_time=1547630381, set_id=1, svr_type=15, svr_id=1000001, cache_type=201, cache_capa=53, cache_size=13; 
+Jan 16 04:42:56.208 2019@LM_INFO@cycles:298624784, log msg count: 10000
+Jan 16 05:00:01.855 2019@LM_INFO@get_table_no, cur_time:1547632801, table_no:20190116
+Jan 16 05:00:01.888 2019@LM_INFO@get_table_no, cur_time:1547636401, table_no:20190116
+Jan 16 05:00:14.342 2019@LM_ERROR@DB Error:[1064]:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT DEFAULT 0,role_level         INT DEFAULT 0,role_vip_level     INT DEFAULT 0,' at line 1.
+ SQL:CREATE TABLE IF NOT EXISTS yt_log.role_net_delay_20190116 (qy_uin             INT UNSIGNED DEFAULT 0,set_id             INT DEFAULT 0,times              INT DEFAULT 0,ping_delay         INT DEFAULT 0,comm_delay         INT DEFAULT 0,role_id            INT UNSIGNED DEFAULT 0, op_time            INT INT DEFAULT 0,role_level         INT DEFAULT 0,role_vip_level     INT DEFAULT 0,channel_id         VARCHAR(65),imei_serial        VARCHAR(65),oper_ip            INT DEFAULT 0,game_id            INT DEFAULT 0,apk_version        VARCHAR(65),plat_form          SMALLINT DEFAULT 0,language           SMALLINT DEFAULT 0,region             VARCHAR(32) )ENGINE=MyISAM DEFAULT CHARSET=utf8;
+Jan 16 05:00:14.379 2019@LM_ERROR@create yt_log.role_net_delay_20190116  db fail! 
+Jan 16 05:05:06.428 2019@LM_INFO@cycles:570442000, log msg count: 20000
+Jan 16 05:26:52.047 2019@LM_INFO@cycles:836724528, log msg count: 30000
+Jan 16 05:48:26.320 2019@LM_INFO@cycles:1098139712, log msg count: 40000
+Jan 16 06:00:01.954 2019@LM_INFO@get_table_no, cur_time:1547636401, table_no:20190116
+Jan 16 06:00:02.001 2019@LM_INFO@get_table_no, cur_time:1547640001, table_no:20190116
+Jan 16 06:00:15.771 2019@LM_ERROR@DB Error:[1064]:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT DEFAULT 0,role_level         INT DEFAULT 0,role_vip_level     INT DEFAULT 0,' at line 1.
+ SQL:CREATE TABLE IF NOT EXISTS yt_log.role_net_delay_20190116 (qy_uin             INT UNSIGNED DEFAULT 0,set_id             INT DEFAULT 0,times              INT DEFAULT 0,ping_delay         INT DEFAULT 0,comm_delay         INT DEFAULT 0,role_id            INT UNSIGNED DEFAULT 0, op_time            INT INT DEFAULT 0,role_level         INT DEFAULT 0,role_vip_level     INT DEFAULT 0,channel_id         VARCHAR(65),imei_serial        VARCHAR(65),oper_ip            INT DEFAULT 0,game_id            INT DEFAULT 0,apk_version        VARCHAR(65),plat_form          SMALLINT DEFAULT 0,language           SMALLINT DEFAULT 0,region             VARCHAR(32) )ENGINE=MyISAM DEFAULT CHARSET=utf8;
+Jan 16 06:00:15.803 2019@LM_ERROR@create yt_log.role_net_delay_20190116  db fail! 
+Jan 16 06:09:12.863 2019@LM_INFO@cycles:1354418007, log msg count: 50000
+Jan 16 06:28:45.044 2019@LM_INFO@cycles:1591534000, log msg count: 60000
+Jan 16 06:50:32.051 2019@LM_INFO@cycles:1865039012, log msg count: 70000
+Jan 16 07:00:01.954 2019@LM_INFO@get_table_no, cur_time:1547640001, table_no:20190116
+Jan 16 07:00:01.956 2019@LM_INFO@get_table_no, cur_time:1547643601, table_no:20190116
+Jan 16 07:00:17.316 2019@LM_ERROR@DB Error:[1064]:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT DEFAULT 0,role_level         INT DEFAULT 0,role_vip_level     INT DEFAULT 0,' at line 1.
+ SQL:CREATE TABLE IF NOT EXISTS yt_log.role_net_delay_20190116 (qy_uin             INT UNSIGNED DEFAULT 0,set_id             INT DEFAULT 0,times              INT DEFAULT 0,ping_delay         INT DEFAULT 0,comm_delay         INT DEFAULT 0,role_id            INT UNSIGNED DEFAULT 0, op_time            INT INT DEFAULT 0,role_level         INT DEFAULT 0,role_vip_level     INT DEFAULT 0,channel_id         VARCHAR(65),imei_serial        VARCHAR(65),oper_ip            INT DEFAULT 0,game_id            INT DEFAULT 0,apk_version        VARCHAR(65),plat_form          SMALLINT DEFAULT 0,language           SMALLINT DEFAULT 0,region             VARCHAR(32) )ENGINE=MyISAM DEFAULT CHARSET=utf8;
+Jan 16 07:00:17.336 2019@LM_ERROR@create yt_log.role_net_delay_20190116  db fail! 
+Jan 16 07:09:22.047 2019@LM_INFO@cycles:2104150144, log msg count: 80000
+Jan 16 07:22:36.399 2019@LM_INFO@get_table_no, cur_time:1547641356, table_no:20190116

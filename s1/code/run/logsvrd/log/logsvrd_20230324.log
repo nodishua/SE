@@ -1,0 +1,41 @@
+Mar 24 09:59:52.343 2023@LM_INFO@  active LogDBCenterTask[1] succ!
+Mar 24 09:59:52.349 2023@LM_INFO@get_table_no, cur_time:1679666392, table_no:20230324
+Mar 24 09:59:55.484 2023@LM_ERROR@DB Error:[1064]:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT DEFAULT 0,role_level         INT DEFAULT 0,role_vip_level     INT DEFAULT 0,' at line 1.
+ SQL:CREATE TABLE IF NOT EXISTS yt_log.role_net_delay_20230324 (qy_uin             INT UNSIGNED DEFAULT 0,set_id             INT DEFAULT 0,times              INT DEFAULT 0,ping_delay         INT DEFAULT 0,comm_delay         INT DEFAULT 0,role_id            INT UNSIGNED DEFAULT 0, op_time            INT INT DEFAULT 0,role_level         INT DEFAULT 0,role_vip_level     INT DEFAULT 0,channel_id         VARCHAR(65),imei_serial        VARCHAR(65),oper_ip            INT DEFAULT 0,game_id            INT DEFAULT 0,apk_version        VARCHAR(65),plat_form          SMALLINT DEFAULT 0,language           SMALLINT DEFAULT 0,region             VARCHAR(32) )ENGINE=MyISAM DEFAULT CHARSET=utf8;
+Mar 24 09:59:55.497 2023@LM_ERROR@create yt_log.role_net_delay_20230324  db fail! 
+Mar 24 10:00:04.097 2023@LM_INFO@get_table_no, cur_time:1679666401, table_no:20230324
+Mar 24 10:00:04.099 2023@LM_INFO@get_table_no, cur_time:1679670001, table_no:20230324
+Mar 24 10:00:07.618 2023@LM_ERROR@DB Error:[1064]:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT DEFAULT 0,role_level         INT DEFAULT 0,role_vip_level     INT DEFAULT 0,' at line 1.
+ SQL:CREATE TABLE IF NOT EXISTS yt_log.role_net_delay_20230324 (qy_uin             INT UNSIGNED DEFAULT 0,set_id             INT DEFAULT 0,times              INT DEFAULT 0,ping_delay         INT DEFAULT 0,comm_delay         INT DEFAULT 0,role_id            INT UNSIGNED DEFAULT 0, op_time            INT INT DEFAULT 0,role_level         INT DEFAULT 0,role_vip_level     INT DEFAULT 0,channel_id         VARCHAR(65),imei_serial        VARCHAR(65),oper_ip            INT DEFAULT 0,game_id            INT DEFAULT 0,apk_version        VARCHAR(65),plat_form          SMALLINT DEFAULT 0,language           SMALLINT DEFAULT 0,region             VARCHAR(32) )ENGINE=MyISAM DEFAULT CHARSET=utf8;
+Mar 24 10:00:07.627 2023@LM_ERROR@create yt_log.role_net_delay_20230324  db fail! 
+Mar 24 10:14:58.459 2023@LM_INFO@  active LogDBCenterTask[1] succ!
+Mar 24 10:14:58.503 2023@LM_INFO@get_table_no, cur_time:1679667298, table_no:20230324
+Mar 24 10:15:02.822 2023@LM_ERROR@DB Error:[1064]:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT DEFAULT 0,role_level         INT DEFAULT 0,role_vip_level     INT DEFAULT 0,' at line 1.
+ SQL:CREATE TABLE IF NOT EXISTS yt_log.role_net_delay_20230324 (qy_uin             INT UNSIGNED DEFAULT 0,set_id             INT DEFAULT 0,times              INT DEFAULT 0,ping_delay         INT DEFAULT 0,comm_delay         INT DEFAULT 0,role_id            INT UNSIGNED DEFAULT 0, op_time            INT INT DEFAULT 0,role_level         INT DEFAULT 0,role_vip_level     INT DEFAULT 0,channel_id         VARCHAR(65),imei_serial        VARCHAR(65),oper_ip            INT DEFAULT 0,game_id            INT DEFAULT 0,apk_version        VARCHAR(65),plat_form          SMALLINT DEFAULT 0,language           SMALLINT DEFAULT 0,region             VARCHAR(32) )ENGINE=MyISAM DEFAULT CHARSET=utf8;
+Mar 24 10:15:02.823 2023@LM_ERROR@create yt_log.role_net_delay_20230324  db fail! 
+Mar 24 10:15:38.043 2023@LM_ERROR@DB Error:[1062]:Duplicate entry '1679667337-1-6-1000001-801' for key 'PRIMARY'.
+ SQL:INSERT INTO yt_log.cache_report_20230324 SET date_time=1679667337, set_id=1, svr_type=6, svr_id=1000001, cache_type=801, cache_capa=256, cache_size=1; 
+Mar 24 10:15:43.010 2023@LM_ERROR@DB Error:[1062]:Duplicate entry '1679667342-1-6-1000001-802' for key 'PRIMARY'.
+ SQL:INSERT INTO yt_log.cache_report_20230324 SET date_time=1679667342, set_id=1, svr_type=6, svr_id=1000001, cache_type=802, cache_capa=101051, cache_size=1; 
+Mar 24 10:16:28.007 2023@LM_ERROR@DB Error:[1062]:Duplicate entry '1679667387-1-6-1000001-801' for key 'PRIMARY'.
+ SQL:INSERT INTO yt_log.cache_report_20230324 SET date_time=1679667387, set_id=1, svr_type=6, svr_id=1000001, cache_type=801, cache_capa=256, cache_size=1; 
+Mar 24 10:16:38.004 2023@LM_ERROR@DB Error:[1062]:Duplicate entry '1679667397-1-6-1000001-801' for key 'PRIMARY'.
+ SQL:INSERT INTO yt_log.cache_report_20230324 SET date_time=1679667397, set_id=1, svr_type=6, svr_id=1000001, cache_type=801, cache_capa=256, cache_size=1; 
+Mar 24 10:17:23.014 2023@LM_ERROR@DB Error:[1062]:Duplicate entry '1679667442-1-6-1000001-802' for key 'PRIMARY'.
+ SQL:INSERT INTO yt_log.cache_report_20230324 SET date_time=1679667442, set_id=1, svr_type=6, svr_id=1000001, cache_type=802, cache_capa=101051, cache_size=1; 
+Mar 24 10:17:28.014 2023@LM_ERROR@DB Error:[1062]:Duplicate entry '1679667447-1-6-1000001-801' for key 'PRIMARY'.
+ SQL:INSERT INTO yt_log.cache_report_20230324 SET date_time=1679667447, set_id=1, svr_type=6, svr_id=1000001, cache_type=801, cache_capa=256, cache_size=1; 
+Mar 24 10:17:33.009 2023@LM_ERROR@DB Error:[1062]:Duplicate entry '1679667452-1-6-1000001-802' for key 'PRIMARY'.
+ SQL:INSERT INTO yt_log.cache_report_20230324 SET date_time=1679667452, set_id=1, svr_type=6, svr_id=1000001, cache_type=802, cache_capa=101051, cache_size=1; 
+Mar 24 10:18:03.009 2023@LM_ERROR@DB Error:[1062]:Duplicate entry '1679667482-1-6-1000001-802' for key 'PRIMARY'.
+ SQL:INSERT INTO yt_log.cache_report_20230324 SET date_time=1679667482, set_id=1, svr_type=6, svr_id=1000001, cache_type=802, cache_capa=101051, cache_size=1; 
+Mar 24 10:18:13.006 2023@LM_ERROR@DB Error:[1062]:Duplicate entry '1679667492-1-6-1000001-802' for key 'PRIMARY'.
+ SQL:INSERT INTO yt_log.cache_report_20230324 SET date_time=1679667492, set_id=1, svr_type=6, svr_id=1000001, cache_type=802, cache_capa=101051, cache_size=1; 
+Mar 24 10:18:23.008 2023@LM_ERROR@DB Error:[1062]:Duplicate entry '1679667502-1-6-1000001-802' for key 'PRIMARY'.
+ SQL:INSERT INTO yt_log.cache_report_20230324 SET date_time=1679667502, set_id=1, svr_type=6, svr_id=1000001, cache_type=802, cache_capa=101051, cache_size=1; 
+Mar 24 10:19:18.005 2023@LM_ERROR@DB Error:[1062]:Duplicate entry '1679667557-1-6-1000001-801' for key 'PRIMARY'.
+ SQL:INSERT INTO yt_log.cache_report_20230324 SET date_time=1679667557, set_id=1, svr_type=6, svr_id=1000001, cache_type=801, cache_capa=256, cache_size=1; 
+Mar 24 10:19:23.008 2023@LM_ERROR@DB Error:[1062]:Duplicate entry '1679667562-1-6-1000001-802' for key 'PRIMARY'.
+ SQL:INSERT INTO yt_log.cache_report_20230324 SET date_time=1679667562, set_id=1, svr_type=6, svr_id=1000001, cache_type=802, cache_capa=101051, cache_size=1; 
+Mar 24 10:20:03.003 2023@LM_ERROR@DB Error:[1062]:Duplicate entry '1679667602-1-6-1000001-802' for key 'PRIMARY'.
+ SQL:INSERT INTO yt_log.cache_report_20230324 SET date_time=1679667602, set_id=1, svr_type=6, svr_id=1000001, cache_type=802, cache_capa=101051, cache_size=2; 

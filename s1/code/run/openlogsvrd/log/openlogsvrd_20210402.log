@@ -1,0 +1,15 @@
+Apr  2 20:42:57.561 2021@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_login_log_report/ServerState_20210402_11.txt.
+Apr  2 20:56:32.936 2021@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_login_log_report/ServerState_20210402_11.txt.
+Apr  2 21:04:19.410 2021@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/CreateChar_20210402_11.txt.
+Apr  2 21:06:29.318 2021@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/AddItem_20210402_11.txt.
+Apr  2 21:06:29.556 2021@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_login_log_report/Login_20210402_11.txt.
+Apr  2 21:06:29.752 2021@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/(null)_20210402_11.txt.
+Apr  2 21:07:13.087 2021@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/OnlineReport_20210402_11.txt.
+Apr  2 21:07:13.093 2021@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_login_log_report/Logout_20210402_11.txt.
+Apr  2 21:22:44.611 2021@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_login_log_report/ServerState_20210402_11.txt.
+Apr  2 21:52:29.197 2021@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_login_log_report/Login_20210402_11.txt.
+Apr  2 21:52:29.955 2021@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/(null)_20210402_11.txt.
+Apr  2 21:53:45.252 2021@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/OSSTaskAccept_20210402_11.txt.
+Apr  2 21:54:58.067 2021@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/AddItem_20210402_11.txt.
+Apr  2 21:54:58.109 2021@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/AddCash_20210402_11.txt.
+Apr  2 21:54:58.113 2021@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/TaskFinish_20210402_11.txt.

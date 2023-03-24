@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Pragma" content="no-cache"/>
+<meta http-equiv="Cache-Control" content="no-cache"/>
+<meta http-equiv="Expires" content="0"/>
+<title>gogo</title>
+<link href="/css/index.css" rel="stylesheet" type="text/css">
+<script language="javascript">
+function getParam(name){   
+	var sReg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");   
+    var sResult = window.location.search.substr(1).match(sReg);   
+    if (sResult != null){  
+    	return unescape(sResult[2]);  
+    }else{
+        return null;
+    }
+}
+function checkForm(){
+	var oUsername = document.getElementById('username');
+	var oUserpwd = document.getElementById('userpwd');
+	if(oUsername.value.length==0){
+		setMsg('用户名不能为空!');
+		oUsername.focus();
+		return false;
+	}
+	if(oUserpwd.value.length==0){
+		setMsg('密码不能为空!');
+		oUserpwd.focus();
+		return false;
+	}
+
+	return true;
+}
+
+function CookieEnable(){ 
+	var result=false; 
+	if(navigator.cookiesEnabled) return true; 
+	document.cookie = "testcookie=yes;"; 
+	var cookieSet = document.cookie; 
+	if (cookieSet.indexOf("testcookie=yes") > -1) result=true; 
+	document.cookie = ""; 
+	return result;
+}
+function setMsg(msg){
+	var oTipsLbl = document.getElementById('tipsLbl');
+	oTipsLbl.innerHTML = '<font color="green">'+msg+'</font>';
+	alert(msg);
+}
+
+window.onload=function(){
+	if(!CookieEnable()){ 
+		setMsg('对不起，您的浏览器的Cookie功能被禁用，请开启！');
+		return;
+	}
+	var tips = getParam('tips');
+	if(tips=='1'){
+		setMsg('登录已过期，请重新登录！');
+	}
+}
+</script>
+</head>
+
+<body>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+    	
+	<label id="tipsLbl" >&nbsp;</label>
+	<table width="350" border="0" cellspacing="0" cellpadding="0" style="margin-right:150px;">
+	<form id="form1" name="form1" method="post" action="login.php" target="dataIFrm" onsubmit="javascript:return checkForm();">
+      <tr>
+        <td colspan="2" style="border-bottom:#666666 solid 1px;">账号登录</td>
+      </tr>
+      <tr>
+        <td width="90">账号：</td>
+        <td width="310"><input type="text" name="username" id="username" style="margin:10px;width:150px;float:left;" /></td>
+      </tr>
+      <tr>
+        <td>密码：</td>
+        <td><input type="password" name="userpwd" id="userpwd" style="margin:10px;width:150px;float:left;" /></td>
+      </tr>
+
+      <tr>
+        <td colspan="2" align="center">
+            <input type="submit" name="Submit" value="登 录" style="margin:10px;" />&nbsp;&nbsp;&nbsp;&nbsp;还没有帐号？<a href="register.html">立即注册</a>
+        </td>
+      </tr>
+	  </form>
+      <tr>
+
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<iframe name="dataIFrm" id="dataIFrm" frameborder="false" scrolling="none;" style="border:none;" width="0" height="0" allowtransparency="true"></iframe>
+</body>
+</html>

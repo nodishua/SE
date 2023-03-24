@@ -1,0 +1,133 @@
+Mar 24 09:58:48.591 2023@LM_INFO@Init QY_Log_Report Succ...
+Mar 24 09:58:48.627 2023@LM_INFO@gate_db_config instance 28711120 ,
+Mar 24 09:58:48.628 2023@LM_INFO@Read DB Conf Configure File. [../../cfg/set_common.conf] .
+Mar 24 09:58:48.628 2023@LM_INFO@Read DB Conf From DB. [127.0.0.1|root|qy22players|3306] .
+Mar 24 09:58:48.629 2023@LM_INFO@Read GameSvrd DB Config Form Mysql [127.0.0.1] Succ.
+Mar 24 09:58:48.634 2023@LM_INFO@QY_DB_Config_Mgr::Initialize Succ.
+Mar 24 09:58:48.637 2023@LM_INFO@Get config db data server_type_=1,server_id_=1000001,lan_ip=2130706433,lan_port=11001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.639 2023@LM_INFO@Get config db data server_type_=2,server_id_=1000001,lan_ip=2130706433,lan_port=12001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.640 2023@LM_INFO@Get config db data server_type_=3,server_id_=1000001,lan_ip=2130706433,lan_port=13001,wan_ip_1=3232286820,wan_port_1=13001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.641 2023@LM_INFO@Get config db data server_type_=4,server_id_=1000001,lan_ip=2130706433,lan_port=14001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.641 2023@LM_INFO@Get config db data server_type_=5,server_id_=1000001,lan_ip=2130706433,lan_port=15001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.642 2023@LM_INFO@Get config db data server_type_=6,server_id_=1000001,lan_ip=2130706433,lan_port=16001,wan_ip_1=3232286820,wan_port_1=16001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.643 2023@LM_INFO@Get config db data server_type_=7,server_id_=1000001,lan_ip=2130706433,lan_port=17001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.644 2023@LM_INFO@Get config db data server_type_=10,server_id_=1000001,lan_ip=2130706433,lan_port=20001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.645 2023@LM_INFO@Get config db data server_type_=12,server_id_=1000001,lan_ip=2130706433,lan_port=22001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.646 2023@LM_INFO@Get config db data server_type_=13,server_id_=1000001,lan_ip=2130706433,lan_port=23001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.647 2023@LM_INFO@Get config db data server_type_=14,server_id_=1000001,lan_ip=2130706433,lan_port=24001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.648 2023@LM_INFO@Get config db data server_type_=15,server_id_=1000001,lan_ip=2130706433,lan_port=25001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.649 2023@LM_INFO@Get config db data server_type_=17,server_id_=1000001,lan_ip=2130706433,lan_port=27001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.651 2023@LM_INFO@Get config db data server_type_=18,server_id_=1000001,lan_ip=2130706433,lan_port=28001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.652 2023@LM_INFO@Get config db data server_type_=19,server_id_=1000001,lan_ip=2130706433,lan_port=29001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.654 2023@LM_INFO@Get config db data server_type_=20,server_id_=1000001,lan_ip=2130706433,lan_port=30001,wan_ip_1=3232286820,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.656 2023@LM_INFO@Get config db data server_type_=21,server_id_=1000001,lan_ip=2130706433,lan_port=31001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.657 2023@LM_INFO@Get config db data server_type_=22,server_id_=1000001,lan_ip=2130706433,lan_port=32001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=2130706433, udp_wan_ip=3232286820, udp_port=52431, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.659 2023@LM_INFO@Get config db data server_type_=8,server_id_=1001101,lan_ip=2130706433,lan_port=18001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.661 2023@LM_INFO@Get config db data server_type_=9,server_id_=1001101,lan_ip=2130706433,lan_port=19001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.664 2023@LM_INFO@Get config db data server_type_=11,server_id_=1001101,lan_ip=2130706433,lan_port=21001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.666 2023@LM_INFO@Get config db data server_type_=8,server_id_=1001201,lan_ip=2130706433,lan_port=18002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.668 2023@LM_INFO@Get config db data server_type_=9,server_id_=1001201,lan_ip=2130706433,lan_port=19002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.670 2023@LM_INFO@Get config db data server_type_=11,server_id_=1001201,lan_ip=2130706433,lan_port=21002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Mar 24 09:58:48.672 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001201.
+Mar 24 09:58:48.673 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:19|1000001.
+Mar 24 09:58:48.674 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:13|1000001.
+Mar 24 09:58:48.675 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:10|1000001.
+Mar 24 09:58:48.675 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:7|1000001.
+Mar 24 09:58:48.676 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:4|1000001.
+Mar 24 09:58:48.676 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:1|1000001.
+Mar 24 09:58:48.677 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:21|1000001.
+Mar 24 09:58:48.677 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:18|1000001.
+Mar 24 09:58:48.678 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:15|1000001.
+Mar 24 09:58:48.678 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:12|1000001.
+Mar 24 09:58:48.679 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:6|1000001.
+Mar 24 09:58:48.679 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:3|1000001.
+Mar 24 09:58:48.679 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001101.
+Mar 24 09:58:48.679 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001201.
+Mar 24 09:58:48.680 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:20|1000001.
+Mar 24 09:58:48.680 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:17|1000001.
+Mar 24 09:58:48.681 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:14|1000001.
+Mar 24 09:58:48.681 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:5|1000001.
+Mar 24 09:58:48.681 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:2|1000001.
+Mar 24 09:58:48.682 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001101.
+Mar 24 09:58:48.682 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001201.
+Mar 24 09:58:48.682 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:22|1000001.
+Mar 24 09:58:48.682 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001101.
+Mar 24 09:58:48.683 2023@LM_INFO@Read Server Configure File. [./cfg/gatesvrd.conf] .
+Mar 24 09:58:48.683 2023@LM_INFO@Read CommSvrd Server Configure File. [./cfg/gatesvrd.conf] .
+Mar 24 09:58:48.684 2023@LM_INFO@Inst_Gate_Svrd_App::InitInstance end.
+Mar 24 09:58:48.685 2023@LM_INFO@Inst_Gate_Svrd_App::Run.
+Mar 24 10:03:58.171 2023@LM_INFO@TIMEOUT_STONE cmd:5008, trans_id:17, uin:10100008, send_svr:1000001|2, recv_svr:1000001|5. 
+Mar 24 10:09:17.041 2023@LM_INFO@TIMEOUT_STONE cmd:5008, trans_id:18, uin:10100008, send_svr:1000001|2, recv_svr:1000001|5. 
+Mar 24 10:13:55.043 2023@LM_INFO@Init QY_Log_Report Succ...
+Mar 24 10:13:55.078 2023@LM_INFO@gate_db_config instance 34134224 ,
+Mar 24 10:13:55.078 2023@LM_INFO@Read DB Conf Configure File. [../../cfg/set_common.conf] .
+Mar 24 10:13:55.078 2023@LM_INFO@Read DB Conf From DB. [127.0.0.1|root|qy22players|3306] .
+Mar 24 10:13:55.079 2023@LM_INFO@Read GameSvrd DB Config Form Mysql [127.0.0.1] Succ.
+Mar 24 10:13:55.083 2023@LM_INFO@QY_DB_Config_Mgr::Initialize Succ.
+Mar 24 10:13:55.087 2023@LM_INFO@Get config db data server_type_=1,server_id_=1000001,lan_ip=2130706433,lan_port=11001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.087 2023@LM_INFO@Get config db data server_type_=2,server_id_=1000001,lan_ip=2130706433,lan_port=12001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.087 2023@LM_INFO@Get config db data server_type_=3,server_id_=1000001,lan_ip=2130706433,lan_port=13001,wan_ip_1=3232286820,wan_port_1=13001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.087 2023@LM_INFO@Get config db data server_type_=4,server_id_=1000001,lan_ip=2130706433,lan_port=14001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.087 2023@LM_INFO@Get config db data server_type_=5,server_id_=1000001,lan_ip=2130706433,lan_port=15001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.087 2023@LM_INFO@Get config db data server_type_=6,server_id_=1000001,lan_ip=2130706433,lan_port=16001,wan_ip_1=3232286820,wan_port_1=16001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.087 2023@LM_INFO@Get config db data server_type_=7,server_id_=1000001,lan_ip=2130706433,lan_port=17001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.087 2023@LM_INFO@Get config db data server_type_=10,server_id_=1000001,lan_ip=2130706433,lan_port=20001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.087 2023@LM_INFO@Get config db data server_type_=12,server_id_=1000001,lan_ip=2130706433,lan_port=22001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.087 2023@LM_INFO@Get config db data server_type_=13,server_id_=1000001,lan_ip=2130706433,lan_port=23001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.087 2023@LM_INFO@Get config db data server_type_=14,server_id_=1000001,lan_ip=2130706433,lan_port=24001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.087 2023@LM_INFO@Get config db data server_type_=15,server_id_=1000001,lan_ip=2130706433,lan_port=25001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.087 2023@LM_INFO@Get config db data server_type_=17,server_id_=1000001,lan_ip=2130706433,lan_port=27001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.088 2023@LM_INFO@Get config db data server_type_=18,server_id_=1000001,lan_ip=2130706433,lan_port=28001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.088 2023@LM_INFO@Get config db data server_type_=19,server_id_=1000001,lan_ip=2130706433,lan_port=29001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.088 2023@LM_INFO@Get config db data server_type_=20,server_id_=1000001,lan_ip=2130706433,lan_port=30001,wan_ip_1=3232286820,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.088 2023@LM_INFO@Get config db data server_type_=21,server_id_=1000001,lan_ip=2130706433,lan_port=31001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.088 2023@LM_INFO@Get config db data server_type_=22,server_id_=1000001,lan_ip=2130706433,lan_port=32001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=2130706433, udp_wan_ip=3232286820, udp_port=52431, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.088 2023@LM_INFO@Get config db data server_type_=8,server_id_=1001101,lan_ip=2130706433,lan_port=18001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.088 2023@LM_INFO@Get config db data server_type_=9,server_id_=1001101,lan_ip=2130706433,lan_port=19001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.088 2023@LM_INFO@Get config db data server_type_=11,server_id_=1001101,lan_ip=2130706433,lan_port=21001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.088 2023@LM_INFO@Get config db data server_type_=8,server_id_=1001201,lan_ip=2130706433,lan_port=18002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.088 2023@LM_INFO@Get config db data server_type_=9,server_id_=1001201,lan_ip=2130706433,lan_port=19002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.088 2023@LM_INFO@Get config db data server_type_=11,server_id_=1001201,lan_ip=2130706433,lan_port=21002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Mar 24 10:13:55.088 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001201.
+Mar 24 10:13:55.088 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:19|1000001.
+Mar 24 10:13:55.088 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:13|1000001.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:10|1000001.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:7|1000001.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:4|1000001.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:1|1000001.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:21|1000001.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:18|1000001.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:15|1000001.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:12|1000001.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:6|1000001.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:3|1000001.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001101.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001201.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:20|1000001.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:17|1000001.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:14|1000001.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:5|1000001.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:2|1000001.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001101.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001201.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:22|1000001.
+Mar 24 10:13:55.089 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001101.
+Mar 24 10:13:55.089 2023@LM_INFO@Read Server Configure File. [./cfg/gatesvrd.conf] .
+Mar 24 10:13:55.089 2023@LM_INFO@Read CommSvrd Server Configure File. [./cfg/gatesvrd.conf] .
+Mar 24 10:13:55.092 2023@LM_INFO@Inst_Gate_Svrd_App::InitInstance end.
+Mar 24 10:13:55.092 2023@LM_INFO@Inst_Gate_Svrd_App::Run.
+Mar 24 10:17:13.543 2023@LM_INFO@TIMEOUT_STONE cmd:5008, trans_id:19, uin:10100008, send_svr:1000001|2, recv_svr:1000001|5. 
+Mar 24 10:18:15.455 2023@LM_INFO@TIMEOUT_STONE cmd:5534, trans_id:20, uin:10100008, send_svr:1000001|2, recv_svr:1000001|5. 
+Mar 24 10:18:15.466 2023@LM_INFO@REGISTER_TEST:Gate_Trans_Register_Role 7
+Mar 24 10:18:15.946 2023@LM_INFO@TIMEOUT_STONE cmd:5006, trans_id:20, uin:10100008, send_svr:1000001|2, recv_svr:1000001|5. 
+Mar 24 10:18:57.419 2023@LM_INFO@TIMEOUT_STONE cmd:5534, trans_id:21, uin:10100008, send_svr:1000001|2, recv_svr:1000001|5. 
+Mar 24 10:18:57.419 2023@LM_INFO@REGISTER_TEST:Gate_Trans_Register_Role 7
+Mar 24 10:18:57.474 2023@LM_ERROR@OnRegisterRoleFromNamesvrd fail!qy_uin=10100008,ret=0,result=120006
+Mar 24 10:18:57.474 2023@LM_ERROR@REGISTER_TEST:Gate_Trans_Register_Role 9
+Mar 24 10:19:04.909 2023@LM_INFO@TIMEOUT_STONE cmd:5534, trans_id:22, uin:10100008, send_svr:1000001|2, recv_svr:1000001|5. 
+Mar 24 10:19:04.909 2023@LM_INFO@REGISTER_TEST:Gate_Trans_Register_Role 7
+Mar 24 10:19:05.342 2023@LM_INFO@TIMEOUT_STONE cmd:5006, trans_id:22, uin:10100008, send_svr:1000001|2, recv_svr:1000001|5. 
+Mar 24 10:19:19.193 2023@LM_INFO@TIMEOUT_STONE cmd:5534, trans_id:23, uin:10100008, send_svr:1000001|2, recv_svr:1000001|5. 
+Mar 24 10:19:19.194 2023@LM_INFO@REGISTER_TEST:Gate_Trans_Register_Role 7
+Mar 24 10:19:19.245 2023@LM_ERROR@OnRegisterRoleFromNamesvrd fail!qy_uin=10100008,ret=0,result=120006
+Mar 24 10:19:19.245 2023@LM_ERROR@REGISTER_TEST:Gate_Trans_Register_Role 9

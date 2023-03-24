@@ -1,0 +1,6 @@
+skill_id招式ID	valid	skill_lvl技能等级	consume_id消耗ID	pro_limit	jingjie_limit	lvl_limit	self_blood_value该技能的精血价值	up_need_blood_exp当前等级需要的血脉之力(对第0级而言，就是合成该血脉需要多少个精血)	attr_type1属性类型1	attr_value1属性值1	attr_type2	attr_value2	attr_type3	attr_value3	attr_type4	attr_value4	attr_Orbs	初始描述	血脉名称	技能图标	技能颜色	增加战力值	大招等级	大招名字	大招描绘	大招图标	法球等级	法球名字	法球描述	法球图标	精血来源ID
+[K][C][S]ID	0	[K][C][S]Lvl	[C][S]ConsumeID	[C][S]Pro_Limit	[C][S]Realm_Limit	[C][S]Lvl_Limit	[C][S]Blood_Exp	[C][S]Need_Blood_Exp	[C][S]Attr1_Type	[C][S]Attr1_Value	[C][S]Attr2_Type	[C][S]Attr2_Value	[C][S]Attr3_Type	[C][S]Attr3_Value	[C][S]Attr4_Type	[C][S]Attr4_Value	[C][S]Orbs	[C]Desc	[C]Name	[C]ImageID	[C]Color	[S]	[C]BishaLvl	[C]BishaName	[C]BishaDes	[C]BishaImageID	[C]OrbsLvl	[C]OrbsName	[C]OrbsDes	[C]OrbsImageID	[C]source_oid
+600001	1	1	10301	0	0	1	0	0	0	0	0	0	0	0	0	0	0	均衡血脉，修正来自装备等处的攻防血属性	青龙血脉	skill11_004	3	0	0	无	无	skill11_004	0	无	无	0	0
+600002	1	1	10301	0	0	1	0	0	0	0	0	0	0	0	0	0	0	均衡血脉，从装备中获得的生命值增加10%，攻击下降10%	白虎血脉	skill11_004	3	0	0	无	无	skill11_004	1	无	无	0	0
+600003	1	1	10301	0	0	1	0	0	3068	10	3071	10	3070	5	0	0	0	防御血脉，从装备中获得的防御增加10%，生命值增加20%，攻击下降25%	玄武血脉	skill11_004	3	0	0	无	无	skill11_004	1	无	无	0	0
+600004	1	1	10301	0	0	1	0	0	0	0	0	0	0	0	0	0	0	进攻血脉，从装备获得攻击增加20%，防御下降20%	朱雀血脉	skill11_004	3	0	0	无	无	skill11_004	1	无	无	0	0

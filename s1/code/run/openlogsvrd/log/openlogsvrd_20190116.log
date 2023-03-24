@@ -1,0 +1,17 @@
+Jan 16 04:17:52.782 2019@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_login_log_report/ServerState_20190116_11.txt.
+Jan 16 04:33:22.191 2019@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/CreateChar_20190116_11.txt.
+Jan 16 04:33:24.329 2019@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/AddItem_20190116_11.txt.
+Jan 16 04:33:25.242 2019@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_login_log_report/Login_20190116_11.txt.
+Jan 16 04:33:25.281 2019@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/(null)_20190116_11.txt.
+Jan 16 04:34:18.594 2019@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/OSSTaskAccept_20190116_11.txt.
+Jan 16 04:34:26.348 2019@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/AddCash_20190116_11.txt.
+Jan 16 04:34:26.349 2019@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/TaskFinish_20190116_11.txt.
+Jan 16 04:35:12.969 2019@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/(null)_20190116_11.txt.
+Jan 16 04:35:23.860 2019@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/RemoveItem_20190116_11.txt.
+Jan 16 04:38:29.473 2019@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/OnlineReport_20190116_11.txt.
+Jan 16 04:40:18.382 2019@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/EnterTrans_20190116_11.txt.
+Jan 16 04:40:18.444 2019@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/ExitTrans_20190116_11.txt.
+Jan 16 04:42:52.816 2019@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/OSSReduceCash_20190116_11.txt.
+Jan 16 04:49:11.294 2019@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/EnhanceItem_20190116_11.txt.
+Jan 16 05:23:00.965 2019@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_log_report/OSSShopBuy_20190116_11.txt.
+Jan 16 07:22:36.155 2019@LM_INFO@Base_FJ_Report::GetFileName file_name:../../run/fj_login_log_report/Logout_20190116_11.txt.

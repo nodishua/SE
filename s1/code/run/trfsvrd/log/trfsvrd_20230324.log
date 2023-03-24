@@ -1,0 +1,285 @@
+Mar 24 10:00:20.268 2023@LM_DEBUG@[db_process_query]SQL:[SELECT svr_type, svr_id,lan_ip,lan_port,wan_ip_1,wan_port_1,wan_ip_2,wan_port_2,udp_lan_ip,udp_wan_ip,udp_port,set_id,game_set_id,idc_no,svr_info FROM yt_cfg.server_info WHERE valid=1 order by svr_id; ]
+Mar 24 10:00:20.271 2023@LM_INFO@Get config db data server_type_=1,server_id_=1000001,lan_ip=2130706433,lan_port=11001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.272 2023@LM_INFO@Get config db data server_type_=2,server_id_=1000001,lan_ip=2130706433,lan_port=12001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.273 2023@LM_INFO@Get config db data server_type_=3,server_id_=1000001,lan_ip=2130706433,lan_port=13001,wan_ip_1=3232286820,wan_port_1=13001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.277 2023@LM_INFO@Get config db data server_type_=4,server_id_=1000001,lan_ip=2130706433,lan_port=14001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.278 2023@LM_INFO@Get config db data server_type_=5,server_id_=1000001,lan_ip=2130706433,lan_port=15001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.280 2023@LM_INFO@Get config db data server_type_=6,server_id_=1000001,lan_ip=2130706433,lan_port=16001,wan_ip_1=3232286820,wan_port_1=16001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.282 2023@LM_INFO@Get config db data server_type_=7,server_id_=1000001,lan_ip=2130706433,lan_port=17001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.285 2023@LM_INFO@Get config db data server_type_=10,server_id_=1000001,lan_ip=2130706433,lan_port=20001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.289 2023@LM_INFO@Get config db data server_type_=12,server_id_=1000001,lan_ip=2130706433,lan_port=22001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.291 2023@LM_INFO@Get config db data server_type_=13,server_id_=1000001,lan_ip=2130706433,lan_port=23001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.294 2023@LM_INFO@Get config db data server_type_=14,server_id_=1000001,lan_ip=2130706433,lan_port=24001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.298 2023@LM_INFO@Get config db data server_type_=15,server_id_=1000001,lan_ip=2130706433,lan_port=25001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.302 2023@LM_INFO@Get config db data server_type_=17,server_id_=1000001,lan_ip=2130706433,lan_port=27001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.306 2023@LM_INFO@Get config db data server_type_=18,server_id_=1000001,lan_ip=2130706433,lan_port=28001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.310 2023@LM_INFO@Get config db data server_type_=19,server_id_=1000001,lan_ip=2130706433,lan_port=29001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.316 2023@LM_INFO@Get config db data server_type_=20,server_id_=1000001,lan_ip=2130706433,lan_port=30001,wan_ip_1=3232286820,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.320 2023@LM_INFO@Get config db data server_type_=21,server_id_=1000001,lan_ip=2130706433,lan_port=31001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.324 2023@LM_INFO@Get config db data server_type_=22,server_id_=1000001,lan_ip=2130706433,lan_port=32001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=2130706433, udp_wan_ip=3232286820, udp_port=52431, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.329 2023@LM_INFO@Get config db data server_type_=8,server_id_=1001101,lan_ip=2130706433,lan_port=18001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.332 2023@LM_INFO@Get config db data server_type_=9,server_id_=1001101,lan_ip=2130706433,lan_port=19001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.338 2023@LM_INFO@Get config db data server_type_=11,server_id_=1001101,lan_ip=2130706433,lan_port=21001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.341 2023@LM_INFO@Get config db data server_type_=8,server_id_=1001201,lan_ip=2130706433,lan_port=18002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.344 2023@LM_INFO@Get config db data server_type_=9,server_id_=1001201,lan_ip=2130706433,lan_port=19002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.347 2023@LM_INFO@Get config db data server_type_=11,server_id_=1001201,lan_ip=2130706433,lan_port=21002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Mar 24 10:00:20.355 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001201.
+Mar 24 10:00:20.356 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:19|1000001.
+Mar 24 10:00:20.357 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:13|1000001.
+Mar 24 10:00:20.357 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:10|1000001.
+Mar 24 10:00:20.359 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:7|1000001.
+Mar 24 10:00:20.360 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:4|1000001.
+Mar 24 10:00:20.360 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:1|1000001.
+Mar 24 10:00:20.362 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:21|1000001.
+Mar 24 10:00:20.363 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:18|1000001.
+Mar 24 10:00:20.364 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:15|1000001.
+Mar 24 10:00:20.364 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:12|1000001.
+Mar 24 10:00:20.366 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:6|1000001.
+Mar 24 10:00:20.367 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:3|1000001.
+Mar 24 10:00:20.367 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001101.
+Mar 24 10:00:20.368 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001201.
+Mar 24 10:00:20.370 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:20|1000001.
+Mar 24 10:00:20.371 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:17|1000001.
+Mar 24 10:00:20.371 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:14|1000001.
+Mar 24 10:00:20.371 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:5|1000001.
+Mar 24 10:00:20.371 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:2|1000001.
+Mar 24 10:00:20.373 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001101.
+Mar 24 10:00:20.373 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001201.
+Mar 24 10:00:20.373 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:22|1000001.
+Mar 24 10:00:20.375 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001101.
+Mar 24 10:00:20.377 2023@LM_INFO@Read Server Configure File. [./cfg/trfsvrd.conf] .
+Mar 24 10:00:20.378 2023@LM_INFO@Read CommSvrd Server Configure File. [./cfg/trfsvrd.conf] .
+Mar 24 10:00:20.378 2023@LM_INFO@Inst_Trf_Svrd_App::InitInstance end.
+Mar 24 10:00:20.379 2023@LM_INFO@Inst_Trf_Svrd_App::Run.
+Mar 24 10:00:20.386 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:00:20.388 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:00:20.392 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:00:30.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:00:40.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:00:50.264 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:00:50.265 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:00:50.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:01:00.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:01:10.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:01:20.264 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:01:20.265 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:01:20.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:01:30.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:01:40.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:01:50.264 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:01:50.265 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:01:50.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:02:00.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:02:10.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:02:20.264 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:02:20.265 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:02:20.381 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:02:30.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:02:40.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:02:50.264 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:02:50.265 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:02:50.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:02:58.025 2023@LM_DEBUG@[ProcessPipePkg:]Len:634 PkgFlag:0x0 SvrPkgFlag:0x4 Cmd:7003 Uin:0 TransID:4257 Sendip:2130706433 Rcvsvr:7|1000001 Sndsvr:6|1000001
+Mar 24 10:02:58.049 2023@LM_DEBUG@32Trf_Trans_Account_Login_Validate::OnInit start,TransID:345.
+Mar 24 10:02:58.080 2023@LM_DEBUG@[Out Pkg head:]Len:634 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28003 Uin:0 TransID:345 Sendip:0 Rcvsvr:9001|1 Sndsvr:7|1000001
+Mar 24 10:02:58.081 2023@LM_DEBUG@32Trf_Trans_Account_Login_Validate::OnInit end,TransID:345,process:1,phase:1101.
+Mar 24 10:02:58.095 2023@LM_DEBUG@Create Trascation ,Command:7003 Transaction ID:345 .
+Mar 24 10:02:58.515 2023@LM_DEBUG@[ProcessPipePkg:]Len:68 PkgFlag:0x0 SvrPkgFlag:0x4 Cmd:28004 Uin:0 TransID:345 Sendip:2130706433 Rcvsvr:7|1000001 Sndsvr:2|101
+Mar 24 10:02:58.520 2023@LM_DEBUG@Find raw Transaction ID: 345. 
+Mar 24 10:02:58.521 2023@LM_DEBUG@32Trf_Trans_Account_Login_Validate::OnActive start,TransID:345,phase:1101.
+Mar 24 10:02:58.528 2023@LM_INFO@Trf_Trans_Account_Login_Vefify::OnGetAccountVerifyFromPlatsvrd data:10100008|1.
+Mar 24 10:02:58.530 2023@LM_DEBUG@[Out Pkg head:]Len:68 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:7004 Uin:0 TransID:4257 Sendip:0 Rcvsvr:6|1000001 Sndsvr:7|1000001
+Mar 24 10:02:58.539 2023@LM_DEBUG@32Trf_Trans_Account_Login_Validate::OnActive end,TransID:345,process:3,phase:1101, src_trans_id:4257.
+Mar 24 10:03:00.382 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:03:10.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:03:20.264 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:03:20.265 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:03:20.382 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:03:30.380 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:03:40.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:03:50.264 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:03:50.265 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:03:50.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:04:00.380 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:04:10.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:04:20.264 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:04:20.266 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:04:20.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:04:30.380 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:04:40.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:04:50.264 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:04:50.265 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:04:50.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:05:00.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:05:01.036 2023@LM_DEBUG@[ProcessPipePkg:]Len:42 PkgFlag:0x0 SvrPkgFlag:0x4 Cmd:7015 Uin:0 TransID:307853 Sendip:2130706433 Rcvsvr:7|1000001 Sndsvr:9|1001101
+Mar 24 10:05:01.039 2023@LM_DEBUG@25Trf_Trans_Load_Bbs_Reward::OnInit start,TransID:346.
+Mar 24 10:05:01.040 2023@LM_DEBUG@[Out Pkg head:]Len:42 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28307 Uin:0 TransID:346 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:05:01.041 2023@LM_DEBUG@25Trf_Trans_Load_Bbs_Reward::OnInit end,TransID:346,process:1,phase:1000.
+Mar 24 10:05:01.048 2023@LM_DEBUG@Create Trascation ,Command:7015 Transaction ID:346 .
+Mar 24 10:05:01.314 2023@LM_DEBUG@[ProcessPipePkg:]Len:44 PkgFlag:0x0 SvrPkgFlag:0x4 Cmd:28308 Uin:0 TransID:346 Sendip:2130706433 Rcvsvr:7|1000001 Sndsvr:8|101
+Mar 24 10:05:01.315 2023@LM_DEBUG@Find raw Transaction ID: 346. 
+Mar 24 10:05:01.316 2023@LM_DEBUG@25Trf_Trans_Load_Bbs_Reward::OnActive start,TransID:346,phase:1000.
+Mar 24 10:05:01.318 2023@LM_DEBUG@[Out Pkg head:]Len:44 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:7016 Uin:0 TransID:307853 Sendip:0 Rcvsvr:9|1001101 Sndsvr:7|1000001
+Mar 24 10:05:01.319 2023@LM_DEBUG@25Trf_Trans_Load_Bbs_Reward::OnActive end,TransID:346,process:3,phase:1000, src_trans_id:307853.
+Mar 24 10:05:10.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:05:20.267 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:05:20.271 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:05:20.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:05:30.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:05:40.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:05:50.264 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:05:50.265 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:05:50.380 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:06:00.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:06:10.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:06:20.264 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:06:20.264 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:06:20.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:06:30.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:06:40.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:06:50.266 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:06:50.278 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:06:50.380 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:07:00.451 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:07:10.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:07:20.265 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:07:20.272 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:07:20.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:07:30.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:07:40.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:07:50.264 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:07:50.277 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:07:50.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:08:00.380 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:08:10.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:08:20.264 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:08:20.271 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:08:20.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:08:22.768 2023@LM_DEBUG@[ProcessPipePkg:]Len:634 PkgFlag:0x0 SvrPkgFlag:0x4 Cmd:7003 Uin:0 TransID:4324 Sendip:2130706433 Rcvsvr:7|1000001 Sndsvr:6|1000001
+Mar 24 10:08:22.773 2023@LM_DEBUG@32Trf_Trans_Account_Login_Validate::OnInit start,TransID:347.
+Mar 24 10:08:22.774 2023@LM_DEBUG@[Out Pkg head:]Len:634 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28003 Uin:0 TransID:347 Sendip:0 Rcvsvr:9001|1 Sndsvr:7|1000001
+Mar 24 10:08:22.777 2023@LM_DEBUG@32Trf_Trans_Account_Login_Validate::OnInit end,TransID:347,process:1,phase:1101.
+Mar 24 10:08:22.802 2023@LM_DEBUG@Create Trascation ,Command:7003 Transaction ID:347 .
+Mar 24 10:08:23.156 2023@LM_DEBUG@[ProcessPipePkg:]Len:68 PkgFlag:0x0 SvrPkgFlag:0x4 Cmd:28004 Uin:0 TransID:347 Sendip:2130706433 Rcvsvr:7|1000001 Sndsvr:2|101
+Mar 24 10:08:23.157 2023@LM_DEBUG@Find raw Transaction ID: 347. 
+Mar 24 10:08:23.157 2023@LM_DEBUG@32Trf_Trans_Account_Login_Validate::OnActive start,TransID:347,phase:1101.
+Mar 24 10:08:23.163 2023@LM_INFO@Trf_Trans_Account_Login_Vefify::OnGetAccountVerifyFromPlatsvrd data:10100008|0.
+Mar 24 10:08:23.166 2023@LM_DEBUG@[Out Pkg head:]Len:68 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:7004 Uin:0 TransID:4324 Sendip:0 Rcvsvr:6|1000001 Sndsvr:7|1000001
+Mar 24 10:08:23.174 2023@LM_DEBUG@32Trf_Trans_Account_Login_Validate::OnActive end,TransID:347,process:3,phase:1101, src_trans_id:4324.
+Mar 24 10:08:30.383 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:08:40.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:08:50.264 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:08:50.265 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:08:50.382 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:09:00.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:09:10.385 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:09:20.281 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:09:20.641 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:09:20.711 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:09:30.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:09:40.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:09:50.264 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:09:50.265 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:09:50.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:10:00.380 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:10:01.038 2023@LM_DEBUG@[ProcessPipePkg:]Len:42 PkgFlag:0x0 SvrPkgFlag:0x4 Cmd:7015 Uin:0 TransID:307859 Sendip:2130706433 Rcvsvr:7|1000001 Sndsvr:9|1001101
+Mar 24 10:10:01.057 2023@LM_DEBUG@25Trf_Trans_Load_Bbs_Reward::OnInit start,TransID:348.
+Mar 24 10:10:01.058 2023@LM_DEBUG@[Out Pkg head:]Len:42 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28307 Uin:0 TransID:348 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:10:01.061 2023@LM_DEBUG@25Trf_Trans_Load_Bbs_Reward::OnInit end,TransID:348,process:1,phase:1000.
+Mar 24 10:10:01.074 2023@LM_DEBUG@Create Trascation ,Command:7015 Transaction ID:348 .
+Mar 24 10:10:01.263 2023@LM_DEBUG@[ProcessPipePkg:]Len:44 PkgFlag:0x0 SvrPkgFlag:0x4 Cmd:28308 Uin:0 TransID:348 Sendip:2130706433 Rcvsvr:7|1000001 Sndsvr:8|101
+Mar 24 10:10:01.267 2023@LM_DEBUG@Find raw Transaction ID: 348. 
+Mar 24 10:10:01.267 2023@LM_DEBUG@25Trf_Trans_Load_Bbs_Reward::OnActive start,TransID:348,phase:1000.
+Mar 24 10:10:01.270 2023@LM_DEBUG@[Out Pkg head:]Len:44 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:7016 Uin:0 TransID:307859 Sendip:0 Rcvsvr:9|1001101 Sndsvr:7|1000001
+Mar 24 10:10:01.273 2023@LM_DEBUG@25Trf_Trans_Load_Bbs_Reward::OnActive end,TransID:348,process:3,phase:1000, src_trans_id:307859.
+Mar 24 10:10:10.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:10:20.264 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:10:20.264 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:10:20.379 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:15:25.575 2023@LM_DEBUG@[db_process_query]SQL:[SELECT svr_type, svr_id,lan_ip,lan_port,wan_ip_1,wan_port_1,wan_ip_2,wan_port_2,udp_lan_ip,udp_wan_ip,udp_port,set_id,game_set_id,idc_no,svr_info FROM yt_cfg.server_info WHERE valid=1 order by svr_id; ]
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=1,server_id_=1000001,lan_ip=2130706433,lan_port=11001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=2,server_id_=1000001,lan_ip=2130706433,lan_port=12001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=3,server_id_=1000001,lan_ip=2130706433,lan_port=13001,wan_ip_1=3232286820,wan_port_1=13001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=4,server_id_=1000001,lan_ip=2130706433,lan_port=14001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=5,server_id_=1000001,lan_ip=2130706433,lan_port=15001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=6,server_id_=1000001,lan_ip=2130706433,lan_port=16001,wan_ip_1=3232286820,wan_port_1=16001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=7,server_id_=1000001,lan_ip=2130706433,lan_port=17001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=10,server_id_=1000001,lan_ip=2130706433,lan_port=20001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=12,server_id_=1000001,lan_ip=2130706433,lan_port=22001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=13,server_id_=1000001,lan_ip=2130706433,lan_port=23001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=14,server_id_=1000001,lan_ip=2130706433,lan_port=24001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=15,server_id_=1000001,lan_ip=2130706433,lan_port=25001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=17,server_id_=1000001,lan_ip=2130706433,lan_port=27001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=18,server_id_=1000001,lan_ip=2130706433,lan_port=28001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=19,server_id_=1000001,lan_ip=2130706433,lan_port=29001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=20,server_id_=1000001,lan_ip=2130706433,lan_port=30001,wan_ip_1=3232286820,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=21,server_id_=1000001,lan_ip=2130706433,lan_port=31001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=22,server_id_=1000001,lan_ip=2130706433,lan_port=32001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=2130706433, udp_wan_ip=3232286820, udp_port=52431, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=8,server_id_=1001101,lan_ip=2130706433,lan_port=18001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=9,server_id_=1001101,lan_ip=2130706433,lan_port=19001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=11,server_id_=1001101,lan_ip=2130706433,lan_port=21001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=8,server_id_=1001201,lan_ip=2130706433,lan_port=18002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=9,server_id_=1001201,lan_ip=2130706433,lan_port=19002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.577 2023@LM_INFO@Get config db data server_type_=11,server_id_=1001201,lan_ip=2130706433,lan_port=21002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001201.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:19|1000001.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:13|1000001.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:10|1000001.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:7|1000001.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:4|1000001.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:1|1000001.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:21|1000001.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:18|1000001.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:15|1000001.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:12|1000001.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:6|1000001.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:3|1000001.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001101.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001201.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:20|1000001.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:17|1000001.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:14|1000001.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:5|1000001.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:2|1000001.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001101.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001201.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:22|1000001.
+Mar 24 10:15:25.578 2023@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001101.
+Mar 24 10:15:25.578 2023@LM_INFO@Read Server Configure File. [./cfg/trfsvrd.conf] .
+Mar 24 10:15:25.578 2023@LM_INFO@Read CommSvrd Server Configure File. [./cfg/trfsvrd.conf] .
+Mar 24 10:15:25.579 2023@LM_INFO@Inst_Trf_Svrd_App::InitInstance end.
+Mar 24 10:15:25.579 2023@LM_INFO@Inst_Trf_Svrd_App::Run.
+Mar 24 10:15:25.589 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:15:25.589 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:15:25.589 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:15:29.336 2023@LM_DEBUG@[ProcessPipePkg:]Len:634 PkgFlag:0x0 SvrPkgFlag:0x4 Cmd:7003 Uin:0 TransID:4373 Sendip:2130706433 Rcvsvr:7|1000001 Sndsvr:6|1000001
+Mar 24 10:15:29.336 2023@LM_DEBUG@32Trf_Trans_Account_Login_Validate::OnInit start,TransID:349.
+Mar 24 10:15:29.338 2023@LM_DEBUG@[Out Pkg head:]Len:634 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28003 Uin:0 TransID:349 Sendip:0 Rcvsvr:9001|1 Sndsvr:7|1000001
+Mar 24 10:15:29.338 2023@LM_DEBUG@32Trf_Trans_Account_Login_Validate::OnInit end,TransID:349,process:1,phase:1101.
+Mar 24 10:15:29.339 2023@LM_DEBUG@Create Trascation ,Command:7003 Transaction ID:349 .
+Mar 24 10:15:29.673 2023@LM_DEBUG@[ProcessPipePkg:]Len:68 PkgFlag:0x0 SvrPkgFlag:0x4 Cmd:28004 Uin:0 TransID:349 Sendip:2130706433 Rcvsvr:7|1000001 Sndsvr:2|101
+Mar 24 10:15:29.673 2023@LM_DEBUG@Find raw Transaction ID: 349. 
+Mar 24 10:15:29.673 2023@LM_DEBUG@32Trf_Trans_Account_Login_Validate::OnActive start,TransID:349,phase:1101.
+Mar 24 10:15:29.674 2023@LM_INFO@Trf_Trans_Account_Login_Vefify::OnGetAccountVerifyFromPlatsvrd data:10100008|0.
+Mar 24 10:15:29.674 2023@LM_DEBUG@[Out Pkg head:]Len:68 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:7004 Uin:0 TransID:4373 Sendip:0 Rcvsvr:6|1000001 Sndsvr:7|1000001
+Mar 24 10:15:29.674 2023@LM_DEBUG@32Trf_Trans_Account_Login_Validate::OnActive end,TransID:349,process:3,phase:1101, src_trans_id:4373.
+Mar 24 10:15:35.579 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:15:45.579 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:15:55.574 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:15:55.574 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:15:55.579 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:16:05.580 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:16:15.583 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:16:25.573 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:16:25.574 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:16:25.579 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:16:35.581 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:16:45.580 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:16:55.579 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:16:55.581 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:16:55.581 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:17:05.582 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:17:15.580 2023@LM_DEBUG@Send Dir Report Data, Success.
+Mar 24 10:17:25.573 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28203 Uin:0 TransID:0 Sendip:0 Rcvsvr:9002|1 Sndsvr:7|1000001
+Mar 24 10:17:25.573 2023@LM_DEBUG@[Out Pkg head:]Len:46 PkgFlag:0x0 SvrPkgFlag:0x0 Cmd:28303 Uin:0 TransID:0 Sendip:0 Rcvsvr:9005|1 Sndsvr:7|1000001
+Mar 24 10:17:25.579 2023@LM_DEBUG@Send Dir Report Data, Success.

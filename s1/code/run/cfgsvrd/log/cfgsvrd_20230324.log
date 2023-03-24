@@ -1,0 +1,174 @@
+Mar 24 09:58:21.542 2023@LM_INFO@Init QY_Log_Report Succ...
+Mar 24 09:58:21.543 2023@LM_INFO@Get config db data server_type_=1,server_id_=1000001,lan_ip=2130706433,lan_port=11001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.544 2023@LM_INFO@Get config db data server_type_=2,server_id_=1000001,lan_ip=2130706433,lan_port=12001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.544 2023@LM_INFO@Get config db data server_type_=3,server_id_=1000001,lan_ip=2130706433,lan_port=13001,wan_ip_1=3232286820,wan_port_1=13001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.545 2023@LM_INFO@Get config db data server_type_=4,server_id_=1000001,lan_ip=2130706433,lan_port=14001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.545 2023@LM_INFO@Get config db data server_type_=5,server_id_=1000001,lan_ip=2130706433,lan_port=15001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.546 2023@LM_INFO@Get config db data server_type_=6,server_id_=1000001,lan_ip=2130706433,lan_port=16001,wan_ip_1=3232286820,wan_port_1=16001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.546 2023@LM_INFO@Get config db data server_type_=7,server_id_=1000001,lan_ip=2130706433,lan_port=17001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.547 2023@LM_INFO@Get config db data server_type_=10,server_id_=1000001,lan_ip=2130706433,lan_port=20001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.548 2023@LM_INFO@Get config db data server_type_=12,server_id_=1000001,lan_ip=2130706433,lan_port=22001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.549 2023@LM_INFO@Get config db data server_type_=13,server_id_=1000001,lan_ip=2130706433,lan_port=23001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.550 2023@LM_INFO@Get config db data server_type_=14,server_id_=1000001,lan_ip=2130706433,lan_port=24001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.551 2023@LM_INFO@Get config db data server_type_=15,server_id_=1000001,lan_ip=2130706433,lan_port=25001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.553 2023@LM_INFO@Get config db data server_type_=17,server_id_=1000001,lan_ip=2130706433,lan_port=27001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.554 2023@LM_INFO@Get config db data server_type_=18,server_id_=1000001,lan_ip=2130706433,lan_port=28001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.555 2023@LM_INFO@Get config db data server_type_=19,server_id_=1000001,lan_ip=2130706433,lan_port=29001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.556 2023@LM_INFO@Get config db data server_type_=20,server_id_=1000001,lan_ip=2130706433,lan_port=30001,wan_ip_1=3232286820,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.558 2023@LM_INFO@Get config db data server_type_=21,server_id_=1000001,lan_ip=2130706433,lan_port=31001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.559 2023@LM_INFO@Get config db data server_type_=22,server_id_=1000001,lan_ip=2130706433,lan_port=32001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=2130706433, udp_wan_ip=3232286820, udp_port=52431, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.560 2023@LM_INFO@Get config db data server_type_=8,server_id_=1001101,lan_ip=2130706433,lan_port=18001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.561 2023@LM_INFO@Get config db data server_type_=9,server_id_=1001101,lan_ip=2130706433,lan_port=19001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.563 2023@LM_INFO@Get config db data server_type_=11,server_id_=1001101,lan_ip=2130706433,lan_port=21001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.564 2023@LM_INFO@Get config db data server_type_=8,server_id_=1001201,lan_ip=2130706433,lan_port=18002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.565 2023@LM_INFO@Get config db data server_type_=9,server_id_=1001201,lan_ip=2130706433,lan_port=19002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.566 2023@LM_INFO@Get config db data server_type_=11,server_id_=1001201,lan_ip=2130706433,lan_port=21002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Mar 24 09:58:21.568 2023@LM_INFO@Size of CFG_SVR_INFO 68 .
+Mar 24 09:58:21.568 2023@LM_INFO@Need 7032 bytes MMAP Memory, Hold 53 Server .
+Mar 24 09:58:21.569 2023@LM_INFO@CfgSvrInfolist::initialize Succ.
+Mar 24 09:58:21.570 2023@LM_INFO@Inst_Cfg_Svr_Info_Mgr::InitSvrInfoManager Succ.
+Mar 24 09:58:21.570 2023@LM_INFO@Inst_Cfg_Svrd_App::InitInstance end.
+Mar 24 09:58:21.570 2023@LM_INFO@Inst_Cfg_Svrd_App::Run.
+Mar 24 09:58:23.925 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 09:58:33.924 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 09:58:43.925 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 09:58:53.924 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 09:59:03.924 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 09:59:13.925 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 09:59:23.924 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 09:59:33.932 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 09:59:43.922 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 09:59:53.925 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:00:03.923 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:00:13.923 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:00:24.381 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:00:33.922 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:00:43.922 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:00:53.924 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:01:03.926 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:01:13.922 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:01:23.922 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:01:33.921 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:01:43.925 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:01:53.924 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:02:03.928 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:02:13.922 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:02:23.923 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:02:33.975 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:02:43.923 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:02:53.922 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:03:03.924 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:03:13.922 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:03:23.898 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:03:33.922 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:03:43.923 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:03:53.922 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:04:03.923 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:04:13.925 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:04:23.923 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:04:33.926 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:04:43.929 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:04:53.921 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:05:03.921 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:05:13.923 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:05:23.922 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:05:33.925 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:05:43.926 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:05:53.922 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:06:03.928 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:06:13.929 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:06:23.929 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:06:33.925 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:06:43.927 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:06:53.930 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:07:04.197 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:07:13.925 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:07:23.929 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:07:33.925 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:07:43.922 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:07:53.923 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:08:03.926 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:08:13.923 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:08:23.926 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:08:33.922 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:08:43.925 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:08:53.929 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:09:03.922 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:09:13.921 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:09:23.930 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:09:33.926 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:09:43.924 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:09:53.926 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:10:03.930 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:10:13.924 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:13:27.971 2023@LM_INFO@Init QY_Log_Report Succ...
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=1,server_id_=1000001,lan_ip=2130706433,lan_port=11001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=2,server_id_=1000001,lan_ip=2130706433,lan_port=12001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=3,server_id_=1000001,lan_ip=2130706433,lan_port=13001,wan_ip_1=3232286820,wan_port_1=13001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=4,server_id_=1000001,lan_ip=2130706433,lan_port=14001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=5,server_id_=1000001,lan_ip=2130706433,lan_port=15001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=6,server_id_=1000001,lan_ip=2130706433,lan_port=16001,wan_ip_1=3232286820,wan_port_1=16001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=7,server_id_=1000001,lan_ip=2130706433,lan_port=17001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=10,server_id_=1000001,lan_ip=2130706433,lan_port=20001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=12,server_id_=1000001,lan_ip=2130706433,lan_port=22001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=13,server_id_=1000001,lan_ip=2130706433,lan_port=23001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=14,server_id_=1000001,lan_ip=2130706433,lan_port=24001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=15,server_id_=1000001,lan_ip=2130706433,lan_port=25001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=17,server_id_=1000001,lan_ip=2130706433,lan_port=27001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=18,server_id_=1000001,lan_ip=2130706433,lan_port=28001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=19,server_id_=1000001,lan_ip=2130706433,lan_port=29001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=20,server_id_=1000001,lan_ip=2130706433,lan_port=30001,wan_ip_1=3232286820,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=21,server_id_=1000001,lan_ip=2130706433,lan_port=31001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=22,server_id_=1000001,lan_ip=2130706433,lan_port=32001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=2130706433, udp_wan_ip=3232286820, udp_port=52431, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=8,server_id_=1001101,lan_ip=2130706433,lan_port=18001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=9,server_id_=1001101,lan_ip=2130706433,lan_port=19001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=11,server_id_=1001101,lan_ip=2130706433,lan_port=21001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=8,server_id_=1001201,lan_ip=2130706433,lan_port=18002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=9,server_id_=1001201,lan_ip=2130706433,lan_port=19002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Get config db data server_type_=11,server_id_=1001201,lan_ip=2130706433,lan_port=21002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Mar 24 10:13:27.972 2023@LM_INFO@Size of CFG_SVR_INFO 68 .
+Mar 24 10:13:27.972 2023@LM_INFO@Need 7032 bytes MMAP Memory, Hold 53 Server .
+Mar 24 10:13:27.972 2023@LM_INFO@CfgSvrInfolist::initialize Succ.
+Mar 24 10:13:27.972 2023@LM_INFO@Inst_Cfg_Svr_Info_Mgr::InitSvrInfoManager Succ.
+Mar 24 10:13:27.973 2023@LM_INFO@Inst_Cfg_Svrd_App::InitInstance end.
+Mar 24 10:13:27.973 2023@LM_INFO@Inst_Cfg_Svrd_App::Run.
+Mar 24 10:13:30.124 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:13:40.125 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:13:50.124 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:14:00.125 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:14:10.131 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:14:20.125 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:14:30.103 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:14:40.128 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:14:50.124 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:15:00.127 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:15:10.126 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:15:20.126 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:15:30.124 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:15:40.124 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:15:50.128 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:16:00.124 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:16:10.133 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:16:20.135 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:16:30.124 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:16:40.124 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:16:50.134 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:17:00.126 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:17:10.127 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:17:20.127 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:17:30.133 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:17:40.134 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:17:50.124 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:18:00.126 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:18:10.134 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:18:20.136 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:18:30.126 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:18:40.127 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:18:50.126 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:19:00.127 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:19:10.124 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:19:20.124 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:19:30.142 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:19:40.124 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:19:50.127 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 
+Mar 24 10:20:00.135 2023@LM_INFO@TIMEOUT_STONE cmd:14003, trans_id:0, uin:0, send_svr:1000001|15, recv_svr:1000001|5. 

@@ -1,0 +1,11 @@
+*/1 * * * * /csj/script/first.sh >/dev/null 2>&1
+12 5,23,17 * * * /csj/script/autobak.sh > /dev/null 2>&1
+* * * * * /usr/bin/php56 /csj/sdk/send_first.php>>/var/log/f.log
+* * * * * /usr/bin/php56 /csj/sdk/send_pay.php>>/var/log/cz.log
+* * * * * /usr/bin/php56 /csj/sdk/send_bonus.php>>/var/log/jl.log
+* * * * * sleep 10; /usr/bin/php56 /csj/sdk/send_pay.php>>/var/log/cz.log
+* * * * * sleep 20; /usr/bin/php56 /csj/sdk/send_pay.php>>/var/log/cz.log
+* * * * * sleep 30; /usr/bin/php56 /csj/sdk/send_pay.php>>/var/log/cz.log
+* * * * * sleep 40; /usr/bin/php56 /csj/sdk/send_pay.php>>/var/log/cz.log
+* * * * * sleep 50; /usr/bin/php56 /csj/sdk/send_pay.php>>/var/log/cz.log
+

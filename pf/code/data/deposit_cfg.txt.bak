@@ -1,0 +1,86 @@
+商品ID（1~73为已提审老ID，不能动【74~99的，不能用，会与韩国ID冲突】，新加的，充值元宝类100~199，周卡月卡类200~250，礼包类251~499，基金类500~599，摇钱树类600~650，幸运星礼包651~799，成长礼包800~1000，预留类型1001开始）74~99的ID不用	有效标志	类型（元宝、周月卡、礼包等等，服务器用于统计，客户端用于显示）1元宝，2周卡，3月卡，4礼包，5基金，6摇钱树，7幸运星礼包，8成长礼包）	商品名称	价格（新台币）	购买次数限制	IOS小额充值次数限制	购买状态限制	首冲成就ID	获得元宝数量（聚宝盆摇宝时，用作标识每一档的位域）	获得奖励ID（周卡、月卡、每日充值礼包之类的通过这个功能实现，以前是道具ID，现在改成奖励ID）	触发红包ID	获得VIP积分	韩国谷歌商品id	韩国OneStore商品id	港澳台新台币计费点	图标	描述	联想渠道编码	酷派渠道编码	三星渠道ID	右上角标签的图片	右上角标签的文字	商品名称动态脚本
+[K][C][S]Id	[S]Valid	[C][S]Type	[C][S]ProductName	[C][S]Price	[C][S]TimeLimist	[C][S]IOSTimesLimist	[C][S]StateLimit	[C][S]DoubleAcm	[C][S]GetNumber	[C][S]GetItemID	[S]RedPacket	[S]VIPScore	[C][S]GooglePID	[C][S]OneStorePID	[C]TwID	[C]Icon	[C]Description	[C]LenovoID	[C]CoopadID	[C]SamsungID	[C]TRTagSprite	[C]TRTagDesc	[C]nameFunc
+8	1	3	月卡	150	0	0	0	2310	280	40507006	0	15	0	0	csj.nt.yueka150	vip_02	首购\n<color=#FF8333FF>6.5</color>折	148130	5	8	base_tagHong	推荐	0
+7	1	2	周卡	90	0	0	0	2309	200	40507005	0	9	0	0	csj.nt.week60	vip_01	首购\n<color=#FF8333FF>6.5</color>折	148129	4	7	base_tagHong	推荐	0
+199	1	1	180元宝	90	0	0	0	2876	180	0	0	9	0	0	csj.nt.90	vip_03	0	0	0	0	base_tagZi	超值	"local a,b = NumRestrictionManager.GetNum(191); if CharStateLimitManager.SingleCheckTimeLimiteState(2051901) and a == 1 then return ds(190531); else return ds(190530); end;"
+1	1	1	300元宝	150	0	261	0	2324	300	40051910	0	15	0	0	csj.nt.150	vip_03	0	148133	8	1	base_tagZi	超值	"local a,b = NumRestrictionManager.GetNum(191); if CharStateLimitManager.SingleCheckTimeLimiteState(2051901) and a == 1 then return ds(180814); else return ds(180808); end;"
+2	1	1	600元宝	300	0	262	0	2325	600	40051911	0	30	0	0	csj.nt.300	vip_04	0	148134	9	2	base_tagZi	超值	"local a,b = NumRestrictionManager.GetNum(192);if CharStateLimitManager.SingleCheckTimeLimiteState(2051901) and a == 1 then return ds(180815); else return ds(180809); end;"
+15	1	1	980元宝	490	0	0	0	2326	980	40051921	0	49	0	0	csj.nt.490	vip_05	0	0	0	0	base_tagZi	超值	"if CharStateLimitManager.SingleCheckTimeLimiteState(2051901) then return ds(180834); else return ds(180833); end;"
+3	1	1	2010元宝	990	0	0	0	2327	2010	40051922	0	99	0	0	csj.nt.990	vip_05	0	148135	10	3	base_tagZi	超值	"if CharStateLimitManager.SingleCheckTimeLimiteState(2051901) then return ds(180816); else return ds(180810); end;"
+4	1	1	3040元宝	1490	0	0	0	2328	3040	40051923	1601001	149	0	0	csj.nt.1490	vip_06	0	148136	11	4	base_tagZi	超值	"if CharStateLimitManager.SingleCheckTimeLimiteState(2051901) then return ds(180817); else return ds(180811); end;"
+5	1	1	4080元宝	1990	0	0	0	2329	4080	40051924	1601002	199	0	0	csj.nt.1990	vip_07	0	148137	12	5	base_tagZi	超值	"if CharStateLimitManager.SingleCheckTimeLimiteState(2051901) then return ds(180818); else return ds(180812); end;"
+6	1	1	6280元宝	2990	0	0	0	2330	6280	40051925	1601003	299	0	0	csj.nt.2990	vip_08	0	148138	13	6	base_tagZi	超值	"if CharStateLimitManager.SingleCheckTimeLimiteState(2051901) then return ds(180819); else return ds(180813); end;"
+9	1	4	每日白银礼包	30	390	0	90000040	0	70	40512010	0	3	0	0	csj.nt.30	item10_005	0	148126	1	9	0	0	0
+10	1	4	每日黄金礼包	90	391	0	90000040	0	200	40512011	0	9	0	0	csj.nt.90	item10_006	0	148127	2	10	0	0	0
+11	1	4	每日白金礼包	150	392	0	90000040	0	330	40512012	0	15	0	0	csj.nt.150	item10_007	0	148128	3	11	0	0	0
+12	1	5	成长基金	300	259	0	0	2307	700	0	0	30	0	0	csj.jj.300	item99_005	0	148131	6	12	0	0	0
+13	1	5	登录基金	450	260	0	0	2308	980	0	0	45	0	0	csj.jj.450	item99_005	0	148132	7	13	0	0	0
+14	1	8	新手成长礼	0	0	0	0	0	0	0	0	0	0	0	csj.gametaiwan.52	item10_005	0	-1	-1	0	0	0	0
+21	1	8	新手豪华礼	0	0	0	0	0	0	0	0	0	0	0	csj.gametaiwan.53	item10_005	0	-1	-1	0	0	0	0
+30	1	7	优惠幸运礼	0	0	0	0	0	0	0	0	0	0	0	csj.gametaiwan.54	item99_005	0	-1	-1	0	0	0	0
+31	1	7	30元幸运礼	30	0	0	0	0	0	0	0	3	0	0	csj.gametaiwan.1	item99_005	0	153305	21	23	0	0	0
+32	1	7	60元幸运礼	60	0	0	0	0	0	0	0	6	0	0	csj.gametaiwan.2	item99_006	0	153306	22	24	0	0	0
+33	1	7	90元幸运礼	90	0	0	0	0	0	0	0	9	0	0	csj.gametaiwan.3	item99_006	0	153307	23	25	0	0	0
+34	1	7	120元幸运礼	120	0	0	0	0	0	0	0	12	0	0	csj.gametaiwan.4	item99_007	0	153308	24	26	0	0	0
+35	1	7	150元幸运礼	150	0	0	0	0	0	0	0	15	0	0	csj.gametaiwan.5	item99_007	0	153309	25	27	0	0	0
+36	1	7	180元幸运礼	180	0	0	0	0	0	0	0	18	0	0	csj.gametaiwan.6	item99_007	0	153310	26	28	0	0	0
+37	1	7	270元幸运礼	270	0	0	0	0	0	0	0	27	0	0	csj.gametaiwan.7	item99_007	0	153311	27	29	0	0	0
+38	1	7	300元幸运礼	300	0	0	0	0	0	0	0	30	0	0	csj.gametaiwan.8	item99_007	0	153312	28	30	0	0	0
+39	1	7	390元幸运礼	390	0	0	0	0	0	0	0	39	0	0	csj.gametaiwan.9	item99_007	0	153313	29	31	0	0	0
+40	1	7	450元幸运礼	450	0	0	0	0	0	0	0	45	0	0	csj.gametaiwan.10	item99_007	0	153314	30	32	0	0	0
+41	1	7	1120元幸运礼	1120	0	0	0	0	0	0	0	112	0	0	csj.gametaiwan.11	item99_007	0	153315	31	33	0	0	0
+42	1	7	1490元幸运礼	1490	0	0	0	0	0	0	0	149	0	0	csj.gametaiwan.12	item99_007	0	153316	32	34	0	0	0
+43	1	7	2090元幸运礼	2090	0	0	0	0	0	0	0	209	0	0	csj.gametaiwan.13	item99_007	0	153317	33	35	0	0	0
+44	1	7	2990元幸运礼	2990	0	0	0	0	0	0	0	299	0	0	csj.gametaiwan.14	item99_007	0	153318	34	36	0	0	0
+46	1	6	30元摇宝	30	134	0	90000040	0	1	0	0	3	0	0	csj.nt.30.box	0	0	153320	36	38	0	0	0
+47	1	6	90元摇宝	90	135	0	90000040	0	2	0	0	9	0	0	csj.nt.60.box	0	0	153321	37	39	0	0	0
+48	1	6	150元摇宝	150	136	0	90000040	0	4	0	0	15	0	0	csj.nt.90.box	0	0	153322	38	40	0	0	0
+49	1	6	300元摇宝	300	137	0	90000040	0	8	0	0	30	0	0	csj.nt.150.box	0	0	153323	39	41	0	0	0
+50	1	8	30元扣豪礼	30	0	0	0	0	0	0	0	3	0	0	csj.gametaiwan.16	item10_005	0	163524	43	14	0	0	0
+51	1	8	60元扣豪礼	60	0	0	0	0	0	0	0	6	0	0	csj.gametaiwan.17	item10_006	0	163525	44	22	0	0	0
+52	1	8	90元扣豪礼	90	0	0	0	0	0	0	0	9	0	0	csj.gametaiwan.18	item10_007	0	163526	45	19	0	0	0
+53	1	8	120元扣豪礼	120	0	0	0	0	0	0	0	12	0	0	csj.gametaiwan.19	item10_005	0	163527	46	17	0	0	0
+54	1	8	150元扣豪礼	150	0	0	0	0	0	0	0	15	0	0	csj.gametaiwan.20	item10_005	0	163528	47	18	0	0	0
+55	1	8	180元扣豪礼	180	0	0	0	0	0	0	0	18	0	0	csj.gametaiwan.21	item99_006	0	163529	48	15	0	0	0
+56	1	8	210元扣豪礼	210	0	0	0	0	0	0	0	21	0	0	csj.gametaiwan.22	item99_006	0	163530	49	16	0	0	0
+57	1	8	240元扣豪礼	240	0	0	0	0	0	0	0	24	0	0	csj.gametaiwan.23	item99_007	0	163531	50	21	0	0	0
+58	1	8	270元扣豪礼	270	0	0	0	0	0	0	0	27	0	0	csj.gametaiwan.24	item99_007	0	163532	51	20	0	0	0
+59	1	8	300元扣豪礼	300	0	0	0	0	0	0	0	30	0	0	csj.gametaiwan.25	item10_005	0	163533	52	42	0	0	0
+60	1	8	330元扣豪礼	330	0	0	0	0	0	0	0	33	0	0	csj.gametaiwan.26	item10_006	0	163534	53	43	0	0	0
+61	1	8	360元扣豪礼	360	0	0	0	0	0	0	0	36	0	0	csj.gametaiwan.27	item10_007	0	163535	54	44	0	0	0
+62	1	8	390元扣豪礼	390	0	0	0	0	0	0	0	39	0	0	csj.gametaiwan.28	item10_005	0	163536	55	45	0	0	0
+63	1	8	420元扣豪礼	420	0	0	0	0	0	0	0	42	0	0	csj.gametaiwan.29	item10_005	0	163537	56	46	0	0	0
+64	1	8	450元扣豪礼	450	0	0	0	0	0	0	0	45	0	0	csj.gametaiwan.30	item99_006	0	163538	57	47	0	0	0
+65	1	5	490元扣豪礼	490	0	0	0	0	0	0	0	49	0	0	csj.gametaiwan.31	item99_006	0	163539	58	48	0	0	0
+67	1	8	540元扣豪礼	540	0	0	0	0	0	0	0	54	0	0	csj.gametaiwan.33	item99_007	0	163541	60	50	0	0	0
+68	1	8	570元扣豪礼	570	0	0	0	0	0	0	0	57	0	0	csj.gametaiwan.34	item10_005	0	163542	61	51	0	0	0
+803	1	8	1190元扣豪礼	1190	0	0	0	0	0	0	0	119	0	0	csj.gametaiwan.63	item10_006	0	0	0	0	0	0	0
+70	1	8	1490元扣豪礼	1490	0	0	0	0	0	0	0	149	0	0	csj.gametaiwan.36	item10_007	0	163544	63	53	0	0	0
+71	1	8	2090元扣豪礼	2090	0	0	0	0	0	0	0	209	0	0	csj.gametaiwan.37	item10_005	0	163545	64	54	0	0	0
+72	1	8	2990元扣豪礼	2990	0	0	0	0	0	0	0	299	0	0	csj.gametaiwan.38	item10_005	0	163546	65	55	0	0	0
+1001	1	8	红包60元宝	30	0	0	0	0	0	0	0	3	0	0	csj.gametaiwan.40	item10_005	0	0	0	0	0	0	0
+1002	1	8	红包180元宝	90	0	0	0	0	0	0	0	9	0	0	csj.gametaiwan.41	item10_006	0	0	0	0	0	0	0
+1003	1	8	红包300元宝	150	0	0	0	0	0	0	0	15	0	0	csj.gametaiwan.42	item10_007	0	0	0	0	0	0	0
+1004	1	8	红包600元宝	300	0	0	0	0	0	0	0	30	0	0	csj.gametaiwan.43	item10_005	0	0	0	0	0	0	0
+1005	1	8	红包980元宝	450	0	0	0	0	0	0	0	45	0	0	csj.gametaiwan.44	item10_005	0	0	0	0	0	0	0
+1006	1	8	红包1580元宝	750	0	0	0	0	0	0	0	75	0	0	csj.gametaiwan.45	item99_006	0	0	0	0	0	0	0
+1101	1	8	主播送礼 60礼卷	30	0	0	0	0	0	0	0	3	0	0	csj.gametaiwan.46	item10_005	0	0	0	0	0	0	0
+1102	1	8	主播送礼 180礼卷	90	0	0	0	0	0	0	0	9	0	0	csj.gametaiwan.47	item10_006	0	0	0	0	0	0	0
+1103	1	8	主播送礼 300礼卷	150	0	0	0	0	0	0	0	15	0	0	csj.gametaiwan.48	item10_007	0	0	0	0	0	0	0
+1104	1	8	主播送礼 600礼卷	300	0	0	0	0	0	0	0	30	0	0	csj.gametaiwan.49	item10_005	0	0	0	0	0	0	0
+1105	1	8	主播送礼 980礼卷	450	0	0	0	0	0	0	0	45	0	0	csj.gametaiwan.50	item10_005	0	0	0	0	0	0	0
+1106	1	8	主播送礼 1580礼卷	750	0	0	0	0	0	0	0	75	0	0	csj.gametaiwan.51	item99_006	0	0	0	0	0	0	0
+1201	1	8	粉丝团按赞1000奖励	0	0	0	0	0	0	0	0	0	0	0	csj.fb.1	item10_005	0	0	0	0	0	0	0
+1202	1	8	粉丝团按赞2000奖励	0	0	0	0	0	0	0	0	0	0	0	csj.fb.2	item10_006	0	0	0	0	0	0	0
+1203	1	8	粉丝团按赞5000奖励	0	0	0	0	0	0	0	0	0	0	0	csj.fb.3	item10_007	0	0	0	0	0	0	0
+1204	1	8	粉丝团按赞8000奖励	0	0	0	0	0	0	0	0	0	0	0	csj.fb.4	item10_005	0	0	0	0	0	0	0
+1205	1	8	粉丝团按赞11000奖励	0	0	0	0	0	0	0	0	0	0	0	csj.fb.5	item10_005	0	0	0	0	0	0	0
+1206	1	8	粉丝团按赞15000奖励	0	0	0	0	0	0	0	0	0	0	0	csj.fb.6	item99_006	0	0	0	0	0	0	0
+1207	1	8	FB每日分享礼包	0	0	0	0	0	0	0	0	0	0	0	csj.fb.7	item10_005	0	0	0	0	0	0	0
+1208	1	8	累积3日分享礼包	0	0	0	0	0	0	0	0	0	0	0	csj.fb.8	item10_006	0	0	0	0	0	0	0
+1209	1	8	累积7天分享礼包	0	0	0	0	0	0	0	0	0	0	0	csj.fb.9	item10_007	0	0	0	0	0	0	0
+1210	1	8	累积15天分享礼包	0	0	0	0	0	0	0	0	0	0	0	csj.fb.10	item10_005	0	0	0	0	0	0	0
+1211	1	8	累积30天分享礼包	0	0	0	0	0	0	0	0	0	0	0	csj.fb.11	item10_005	0	0	0	0	0	0	0
+1212	1	8	累积邀请10名好友	0	0	0	0	0	0	0	0	0	0	0	csj.fb.12	item99_006	0	0	0	0	0	0	0
+1213	1	8	累积邀请50名好友	0	0	0	0	0	0	0	0	0	0	0	csj.fb.13	item10_005	0	0	0	0	0	0	0
+1214	1	8	累积邀请100名好友	0	0	0	0	0	0	0	0	0	0	0	csj.fb.14	item99_006	0	0	0	0	0	0	0

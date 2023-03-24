@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title></title>
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+	<meta name="apple-itunes-app" content="app-id=1315515208"/>
+</head>
+<body>
+    <a id="bu" href=""></a>
+    <script type="text/javascript" src="./js/link.js"></script>
+    <script>
+        new Link({
+            button: document.querySelector("a#bu"),// 按钮
+            androidLink: "",// 安卓的打开链接
+            androidDownloadUrl: "",// 安卓的下载链接
+            androidYyb: false,// android 是否开启应用宝下载
+            iosLink: "com.gametaiwan.csj://aabb",// ios 打开链接
+            ios9Link: "",// ios 的Universal Link
+            iosDownloadUrl: "", // ios 的下载链接
+            iosUniversalLinkEnabled: true, // 是否开启 Universal Link
+            iosYyb: false,// ios 是否开启应用宝下载
+            yybDownloadUrl: "",// 应用宝下载链接
+            autoLaunchApp: true, // 是否打开页面就唤起APP
+            autoRedirectToDownloadUrl: false,// 是否自动跳转到下载页面
+        })
+    </script>
+
+</body>
+</html>

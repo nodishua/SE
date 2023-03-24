@@ -1,0 +1,1 @@
+Logout||11||10100005||2||58||10003||20||10051||china||2||11.0.38||1547641355||{"did":"TAIWAN","dtype":"Handheld","leavetype":"0","onlineinsertime":"10153"}

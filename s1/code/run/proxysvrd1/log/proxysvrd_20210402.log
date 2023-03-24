@@ -1,0 +1,173 @@
+Apr  2 20:40:06.775 2021@LM_INFO@Init QY_Log_Report Succ...
+Apr  2 20:40:06.775 2021@LM_INFO@ProxyProcessInterface::CreatePorxyFactory PROXY_TYPE :3 
+Apr  2 20:40:06.932 2021@LM_INFO@Get config db data server_type_=1,server_id_=1000001,lan_ip=2130706433,lan_port=11001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.932 2021@LM_INFO@Get config db data server_type_=2,server_id_=1000001,lan_ip=2130706433,lan_port=12001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.933 2021@LM_INFO@Get config db data server_type_=3,server_id_=1000001,lan_ip=2130706433,lan_port=13001,wan_ip_1=3232286820,wan_port_1=13001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.934 2021@LM_INFO@Get config db data server_type_=4,server_id_=1000001,lan_ip=2130706433,lan_port=14001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.935 2021@LM_INFO@Get config db data server_type_=5,server_id_=1000001,lan_ip=2130706433,lan_port=15001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.936 2021@LM_INFO@Get config db data server_type_=6,server_id_=1000001,lan_ip=2130706433,lan_port=16001,wan_ip_1=3232286820,wan_port_1=16001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.937 2021@LM_INFO@Get config db data server_type_=7,server_id_=1000001,lan_ip=2130706433,lan_port=17001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.938 2021@LM_INFO@Get config db data server_type_=10,server_id_=1000001,lan_ip=2130706433,lan_port=20001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.940 2021@LM_INFO@Get config db data server_type_=12,server_id_=1000001,lan_ip=2130706433,lan_port=22001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.943 2021@LM_INFO@Get config db data server_type_=13,server_id_=1000001,lan_ip=2130706433,lan_port=23001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.945 2021@LM_INFO@Get config db data server_type_=14,server_id_=1000001,lan_ip=2130706433,lan_port=24001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.947 2021@LM_INFO@Get config db data server_type_=15,server_id_=1000001,lan_ip=2130706433,lan_port=25001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.949 2021@LM_INFO@Get config db data server_type_=17,server_id_=1000001,lan_ip=2130706433,lan_port=27001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.951 2021@LM_INFO@Get config db data server_type_=18,server_id_=1000001,lan_ip=2130706433,lan_port=28001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.953 2021@LM_INFO@Get config db data server_type_=19,server_id_=1000001,lan_ip=2130706433,lan_port=29001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.955 2021@LM_INFO@Get config db data server_type_=20,server_id_=1000001,lan_ip=2130706433,lan_port=30001,wan_ip_1=3232286820,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.957 2021@LM_INFO@Get config db data server_type_=21,server_id_=1000001,lan_ip=2130706433,lan_port=31001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.959 2021@LM_INFO@Get config db data server_type_=22,server_id_=1000001,lan_ip=2130706433,lan_port=32001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=2130706433, udp_wan_ip=3232286820, udp_port=52431, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.961 2021@LM_INFO@Get config db data server_type_=8,server_id_=1001101,lan_ip=2130706433,lan_port=18001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.963 2021@LM_INFO@Get config db data server_type_=9,server_id_=1001101,lan_ip=2130706433,lan_port=19001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.966 2021@LM_INFO@Get config db data server_type_=11,server_id_=1001101,lan_ip=2130706433,lan_port=21001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.968 2021@LM_INFO@Get config db data server_type_=8,server_id_=1001201,lan_ip=2130706433,lan_port=18002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.970 2021@LM_INFO@Get config db data server_type_=9,server_id_=1001201,lan_ip=2130706433,lan_port=19002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.972 2021@LM_INFO@Get config db data server_type_=11,server_id_=1001201,lan_ip=2130706433,lan_port=21002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Apr  2 20:40:06.975 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001201.
+Apr  2 20:40:06.976 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:19|1000001.
+Apr  2 20:40:06.976 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:13|1000001.
+Apr  2 20:40:06.977 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:10|1000001.
+Apr  2 20:40:06.978 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:7|1000001.
+Apr  2 20:40:06.978 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:4|1000001.
+Apr  2 20:40:06.979 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:1|1000001.
+Apr  2 20:40:06.979 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:21|1000001.
+Apr  2 20:40:06.980 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:18|1000001.
+Apr  2 20:40:06.980 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:15|1000001.
+Apr  2 20:40:06.981 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:12|1000001.
+Apr  2 20:40:06.981 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:6|1000001.
+Apr  2 20:40:06.982 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:3|1000001.
+Apr  2 20:40:06.982 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001101.
+Apr  2 20:40:06.983 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001201.
+Apr  2 20:40:06.983 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:20|1000001.
+Apr  2 20:40:06.984 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:17|1000001.
+Apr  2 20:40:06.984 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:14|1000001.
+Apr  2 20:40:06.984 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:5|1000001.
+Apr  2 20:40:06.985 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:2|1000001.
+Apr  2 20:40:06.985 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001101.
+Apr  2 20:40:06.986 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001201.
+Apr  2 20:40:06.986 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:22|1000001.
+Apr  2 20:40:06.986 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001101.
+Apr  2 20:40:06.987 2021@LM_INFO@Read Server Configure File. [./cfg/proxysvrd.conf] .
+Apr  2 20:40:06.987 2021@LM_INFO@Read CommSvrd Server Configure File. [./cfg/proxysvrd.conf] .
+Apr  2 20:40:07.099 2021@LM_INFO@Inst_Proxy_Svrd_App::InitInstance end.
+Apr  2 20:40:07.100 2021@LM_INFO@Inst_Proxy_Svrd_App::Run.
+Apr  2 20:55:56.208 2021@LM_INFO@Init QY_Log_Report Succ...
+Apr  2 20:55:56.277 2021@LM_INFO@ProxyProcessInterface::CreatePorxyFactory PROXY_TYPE :3 
+Apr  2 20:55:59.887 2021@LM_INFO@Get config db data server_type_=1,server_id_=1000001,lan_ip=2130706433,lan_port=11001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.022 2021@LM_INFO@Get config db data server_type_=2,server_id_=1000001,lan_ip=2130706433,lan_port=12001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.028 2021@LM_INFO@Get config db data server_type_=3,server_id_=1000001,lan_ip=2130706433,lan_port=13001,wan_ip_1=3232286820,wan_port_1=13001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.034 2021@LM_INFO@Get config db data server_type_=4,server_id_=1000001,lan_ip=2130706433,lan_port=14001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.039 2021@LM_INFO@Get config db data server_type_=5,server_id_=1000001,lan_ip=2130706433,lan_port=15001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.052 2021@LM_INFO@Get config db data server_type_=6,server_id_=1000001,lan_ip=2130706433,lan_port=16001,wan_ip_1=3232286820,wan_port_1=16001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.069 2021@LM_INFO@Get config db data server_type_=7,server_id_=1000001,lan_ip=2130706433,lan_port=17001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.077 2021@LM_INFO@Get config db data server_type_=10,server_id_=1000001,lan_ip=2130706433,lan_port=20001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.084 2021@LM_INFO@Get config db data server_type_=12,server_id_=1000001,lan_ip=2130706433,lan_port=22001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.087 2021@LM_INFO@Get config db data server_type_=13,server_id_=1000001,lan_ip=2130706433,lan_port=23001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.090 2021@LM_INFO@Get config db data server_type_=14,server_id_=1000001,lan_ip=2130706433,lan_port=24001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.092 2021@LM_INFO@Get config db data server_type_=15,server_id_=1000001,lan_ip=2130706433,lan_port=25001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.096 2021@LM_INFO@Get config db data server_type_=17,server_id_=1000001,lan_ip=2130706433,lan_port=27001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.102 2021@LM_INFO@Get config db data server_type_=18,server_id_=1000001,lan_ip=2130706433,lan_port=28001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.104 2021@LM_INFO@Get config db data server_type_=19,server_id_=1000001,lan_ip=2130706433,lan_port=29001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.110 2021@LM_INFO@Get config db data server_type_=20,server_id_=1000001,lan_ip=2130706433,lan_port=30001,wan_ip_1=3232286820,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.119 2021@LM_INFO@Get config db data server_type_=21,server_id_=1000001,lan_ip=2130706433,lan_port=31001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.127 2021@LM_INFO@Get config db data server_type_=22,server_id_=1000001,lan_ip=2130706433,lan_port=32001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=2130706433, udp_wan_ip=3232286820, udp_port=52431, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.134 2021@LM_INFO@Get config db data server_type_=8,server_id_=1001101,lan_ip=2130706433,lan_port=18001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.141 2021@LM_INFO@Get config db data server_type_=9,server_id_=1001101,lan_ip=2130706433,lan_port=19001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.148 2021@LM_INFO@Get config db data server_type_=11,server_id_=1001101,lan_ip=2130706433,lan_port=21001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.154 2021@LM_INFO@Get config db data server_type_=8,server_id_=1001201,lan_ip=2130706433,lan_port=18002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.159 2021@LM_INFO@Get config db data server_type_=9,server_id_=1001201,lan_ip=2130706433,lan_port=19002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.163 2021@LM_INFO@Get config db data server_type_=11,server_id_=1001201,lan_ip=2130706433,lan_port=21002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Apr  2 20:56:00.169 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001201.
+Apr  2 20:56:00.172 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:19|1000001.
+Apr  2 20:56:00.173 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:13|1000001.
+Apr  2 20:56:00.174 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:10|1000001.
+Apr  2 20:56:00.174 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:7|1000001.
+Apr  2 20:56:00.175 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:4|1000001.
+Apr  2 20:56:00.179 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:1|1000001.
+Apr  2 20:56:00.182 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:21|1000001.
+Apr  2 20:56:00.184 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:18|1000001.
+Apr  2 20:56:00.184 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:15|1000001.
+Apr  2 20:56:00.185 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:12|1000001.
+Apr  2 20:56:00.187 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:6|1000001.
+Apr  2 20:56:00.189 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:3|1000001.
+Apr  2 20:56:00.190 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001101.
+Apr  2 20:56:00.191 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001201.
+Apr  2 20:56:00.192 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:20|1000001.
+Apr  2 20:56:00.195 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:17|1000001.
+Apr  2 20:56:00.196 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:14|1000001.
+Apr  2 20:56:00.197 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:5|1000001.
+Apr  2 20:56:00.197 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:2|1000001.
+Apr  2 20:56:00.197 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001101.
+Apr  2 20:56:00.201 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001201.
+Apr  2 20:56:00.203 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:22|1000001.
+Apr  2 20:56:00.204 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001101.
+Apr  2 20:56:00.205 2021@LM_INFO@Read Server Configure File. [./cfg/proxysvrd.conf] .
+Apr  2 20:56:00.318 2021@LM_INFO@Read CommSvrd Server Configure File. [./cfg/proxysvrd.conf] .
+Apr  2 20:56:01.062 2021@LM_INFO@Inst_Proxy_Svrd_App::InitInstance end.
+Apr  2 20:56:01.064 2021@LM_INFO@Inst_Proxy_Svrd_App::Run.
+Apr  2 21:02:46.716 2021@LM_INFO@Proxy_Data_Mgr::UpdateUserData, size=1, uin=10100007, svr_info=0|0. 
+Apr  2 21:04:19.644 2021@LM_INFO@Proxy_Data_Mgr::UpdateUserData, size=1, uin=10100007, svr_info=8|8. 
+Apr  2 21:04:43.349 2021@LM_INFO@Proxy_Data_Mgr::UpdateUserData, size=1, uin=10100007, svr_info=8|8. 
+Apr  2 21:05:02.383 2021@LM_INFO@Proxy_Data_Mgr::UpdateUserData, size=1, uin=10100007, svr_info=8|8. 
+Apr  2 21:05:37.533 2021@LM_INFO@Proxy_Data_Mgr::UpdateUserData, size=1, uin=10100007, svr_info=8|8. 
+Apr  2 21:06:27.915 2021@LM_INFO@Proxy_Data_Mgr::UpdateUserData, size=1, uin=10100007, svr_info=8|8. 
+Apr  2 21:22:09.942 2021@LM_INFO@Init QY_Log_Report Succ...
+Apr  2 21:22:09.955 2021@LM_INFO@ProxyProcessInterface::CreatePorxyFactory PROXY_TYPE :3 
+Apr  2 21:22:09.979 2021@LM_INFO@Get config db data server_type_=1,server_id_=1000001,lan_ip=2130706433,lan_port=11001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 21:22:09.980 2021@LM_INFO@Get config db data server_type_=2,server_id_=1000001,lan_ip=2130706433,lan_port=12001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 21:22:09.980 2021@LM_INFO@Get config db data server_type_=3,server_id_=1000001,lan_ip=2130706433,lan_port=13001,wan_ip_1=3232286820,wan_port_1=13001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 21:22:09.981 2021@LM_INFO@Get config db data server_type_=4,server_id_=1000001,lan_ip=2130706433,lan_port=14001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 21:22:09.982 2021@LM_INFO@Get config db data server_type_=5,server_id_=1000001,lan_ip=2130706433,lan_port=15001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 21:22:09.984 2021@LM_INFO@Get config db data server_type_=6,server_id_=1000001,lan_ip=2130706433,lan_port=16001,wan_ip_1=3232286820,wan_port_1=16001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 21:22:09.985 2021@LM_INFO@Get config db data server_type_=7,server_id_=1000001,lan_ip=2130706433,lan_port=17001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 21:22:09.987 2021@LM_INFO@Get config db data server_type_=10,server_id_=1000001,lan_ip=2130706433,lan_port=20001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 21:22:09.995 2021@LM_INFO@Get config db data server_type_=12,server_id_=1000001,lan_ip=2130706433,lan_port=22001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 21:22:10.001 2021@LM_INFO@Get config db data server_type_=13,server_id_=1000001,lan_ip=2130706433,lan_port=23001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 21:22:10.006 2021@LM_INFO@Get config db data server_type_=14,server_id_=1000001,lan_ip=2130706433,lan_port=24001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 21:22:10.009 2021@LM_INFO@Get config db data server_type_=15,server_id_=1000001,lan_ip=2130706433,lan_port=25001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 21:22:10.011 2021@LM_INFO@Get config db data server_type_=17,server_id_=1000001,lan_ip=2130706433,lan_port=27001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 21:22:10.013 2021@LM_INFO@Get config db data server_type_=18,server_id_=1000001,lan_ip=2130706433,lan_port=28001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 21:22:10.014 2021@LM_INFO@Get config db data server_type_=19,server_id_=1000001,lan_ip=2130706433,lan_port=29001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 21:22:10.017 2021@LM_INFO@Get config db data server_type_=20,server_id_=1000001,lan_ip=2130706433,lan_port=30001,wan_ip_1=3232286820,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 21:22:10.019 2021@LM_INFO@Get config db data server_type_=21,server_id_=1000001,lan_ip=2130706433,lan_port=31001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 21:22:10.021 2021@LM_INFO@Get config db data server_type_=22,server_id_=1000001,lan_ip=2130706433,lan_port=32001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=2130706433, udp_wan_ip=3232286820, udp_port=52431, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Apr  2 21:22:10.024 2021@LM_INFO@Get config db data server_type_=8,server_id_=1001101,lan_ip=2130706433,lan_port=18001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Apr  2 21:22:10.026 2021@LM_INFO@Get config db data server_type_=9,server_id_=1001101,lan_ip=2130706433,lan_port=19001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Apr  2 21:22:10.028 2021@LM_INFO@Get config db data server_type_=11,server_id_=1001101,lan_ip=2130706433,lan_port=21001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Apr  2 21:22:10.029 2021@LM_INFO@Get config db data server_type_=8,server_id_=1001201,lan_ip=2130706433,lan_port=18002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Apr  2 21:22:10.032 2021@LM_INFO@Get config db data server_type_=9,server_id_=1001201,lan_ip=2130706433,lan_port=19002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Apr  2 21:22:10.034 2021@LM_INFO@Get config db data server_type_=11,server_id_=1001201,lan_ip=2130706433,lan_port=21002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Apr  2 21:22:10.036 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001201.
+Apr  2 21:22:10.037 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:19|1000001.
+Apr  2 21:22:10.037 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:13|1000001.
+Apr  2 21:22:10.038 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:10|1000001.
+Apr  2 21:22:10.040 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:7|1000001.
+Apr  2 21:22:10.040 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:4|1000001.
+Apr  2 21:22:10.041 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:1|1000001.
+Apr  2 21:22:10.041 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:21|1000001.
+Apr  2 21:22:10.042 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:18|1000001.
+Apr  2 21:22:10.042 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:15|1000001.
+Apr  2 21:22:10.043 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:12|1000001.
+Apr  2 21:22:10.043 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:6|1000001.
+Apr  2 21:22:10.044 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:3|1000001.
+Apr  2 21:22:10.044 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001101.
+Apr  2 21:22:10.045 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001201.
+Apr  2 21:22:10.045 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:20|1000001.
+Apr  2 21:22:10.046 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:17|1000001.
+Apr  2 21:22:10.046 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:14|1000001.
+Apr  2 21:22:10.046 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:5|1000001.
+Apr  2 21:22:10.047 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:2|1000001.
+Apr  2 21:22:10.047 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001101.
+Apr  2 21:22:10.047 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001201.
+Apr  2 21:22:10.048 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:22|1000001.
+Apr  2 21:22:10.048 2021@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001101.
+Apr  2 21:22:10.048 2021@LM_INFO@Read Server Configure File. [./cfg/proxysvrd.conf] .
+Apr  2 21:22:10.049 2021@LM_INFO@Read CommSvrd Server Configure File. [./cfg/proxysvrd.conf] .
+Apr  2 21:22:10.054 2021@LM_INFO@Inst_Proxy_Svrd_App::InitInstance end.
+Apr  2 21:22:10.054 2021@LM_INFO@Inst_Proxy_Svrd_App::Run.
+Apr  2 21:45:24.912 2021@LM_INFO@Proxy_Data_Mgr::UpdateUserData, size=1, uin=10100006, svr_info=0|0. 
+Apr  2 21:47:08.468 2021@LM_INFO@Proxy_Data_Mgr::UpdateUserData, size=1, uin=10100006, svr_info=0|0. 
+Apr  2 21:48:41.041 2021@LM_INFO@Proxy_Data_Mgr::UpdateUserData, size=2, uin=10100007, svr_info=0|0. 
+Apr  2 21:49:38.328 2021@LM_INFO@Proxy_Data_Mgr::UpdateUserData, size=2, uin=10100007, svr_info=8|8. 
+Apr  2 21:50:23.323 2021@LM_INFO@Proxy_Data_Mgr::UpdateUserData, size=2, uin=10100007, svr_info=8|8. 

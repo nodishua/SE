@@ -1,0 +1,130 @@
+Mar 24 09:58:51.653 2023@LM_INFO@ACE Log Strategy init succ.
+Mar 24 09:58:51.684 2023@LM_INFO@ExtendBufferList size:[128] total:[0] need memory [26265600] ,total use memory [0].
+Mar 24 09:58:51.692 2023@LM_INFO@Comm_Accept_Handle::CreateListenPeer bind success 127.0.0.1|29001, svr_info:19|1000001.
+Mar 24 09:58:51.693 2023@LM_INFO@Comm_Accept_Handle::CreateListenPeer old_buf, snd:16384, recv:87380.
+Mar 24 09:58:51.694 2023@LM_INFO@Comm_Accept_Handle::CreateListenPeer new_buf, snd:249856, recv:249856.
+Mar 24 09:58:51.695 2023@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:1|1000001.
+Mar 24 09:58:51.697 2023@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 09:58:51.697 2023@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Mar 24 09:58:51.698 2023@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 09:58:51.698 2023@LM_INFO@Inst_Comm_Svrd_App::Run Start.
+Mar 24 09:58:51.702 2023@LM_INFO@Connect server[1|1000001] peer socket IP|Port :[127.0.0.1|11001] Success.
+Mar 24 09:58:51.703 2023@LM_ERROR@Send data error,server[10|1000001] IP|Port [127.0.0.1|20001],Peer:16 errno=111|Connection refused 
+Mar 24 09:58:51.704 2023@LM_INFO@Connect peer close, server[10|1000001] socket IP|Port :[127.0.0.1|20001].
+Mar 24 09:58:51.705 2023@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[0.0.0.0|0] Success.
+Mar 24 09:58:59.654 2023@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Mar 24 09:58:59.654 2023@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 09:58:59.654 2023@LM_ERROR@Send data error,server[10|1000001] IP|Port [127.0.0.1|20001],Peer:16 errno=111|Connection refused 
+Mar 24 09:58:59.655 2023@LM_INFO@Connect peer close, server[10|1000001] socket IP|Port :[127.0.0.1|20001].
+Mar 24 09:58:59.655 2023@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[0.0.0.0|0] Success.
+Mar 24 09:59:00.825 2023@LM_INFO@Accept peer socket IP Address:[127.0.0.1|39972] Success. 
+Mar 24 09:59:00.825 2023@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 09:59:00.825 2023@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:19|1000001.
+Mar 24 09:59:00.881 2023@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:11|1001101, reactor_index:0!
+Mar 24 09:59:00.882 2023@LM_INFO@Accept peer server[11|1001101],IP|port[127.0.0.1|39972] regist success.
+Mar 24 09:59:09.654 2023@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Mar 24 09:59:09.656 2023@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 09:59:09.656 2023@LM_ERROR@Send data error,server[10|1000001] IP|Port [127.0.0.1|20001],Peer:17 errno=111|Connection refused 
+Mar 24 09:59:09.657 2023@LM_INFO@Connect peer close, server[10|1000001] socket IP|Port :[127.0.0.1|20001].
+Mar 24 09:59:09.658 2023@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[0.0.0.0|0] Success.
+Mar 24 09:59:09.833 2023@LM_INFO@Accept peer socket IP Address:[127.0.0.1|40024] Success. 
+Mar 24 09:59:09.833 2023@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 09:59:09.834 2023@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:19|1000001.
+Mar 24 09:59:09.902 2023@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:8|1001101, reactor_index:0!
+Mar 24 09:59:09.903 2023@LM_INFO@Accept peer server[8|1001101],IP|port[127.0.0.1|40024] regist success.
+Mar 24 09:59:19.263 2023@LM_INFO@Accept peer socket IP Address:[127.0.0.1|40079] Success. 
+Mar 24 09:59:19.264 2023@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 09:59:19.265 2023@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:19|1000001.
+Mar 24 09:59:19.367 2023@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:9|1001101, reactor_index:0!
+Mar 24 09:59:19.368 2023@LM_INFO@Accept peer server[9|1001101],IP|port[127.0.0.1|40079] regist success.
+Mar 24 09:59:19.655 2023@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Mar 24 09:59:19.655 2023@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 09:59:19.657 2023@LM_ERROR@Send data error,server[10|1000001] IP|Port [127.0.0.1|20001],Peer:19 errno=111|Connection refused 
+Mar 24 09:59:19.658 2023@LM_INFO@Connect peer close, server[10|1000001] socket IP|Port :[127.0.0.1|20001].
+Mar 24 09:59:19.660 2023@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[0.0.0.0|0] Success.
+Mar 24 09:59:29.654 2023@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Mar 24 09:59:29.656 2023@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 09:59:29.657 2023@LM_ERROR@Send data error,server[10|1000001] IP|Port [127.0.0.1|20001],Peer:19 errno=111|Connection refused 
+Mar 24 09:59:29.661 2023@LM_INFO@Connect peer close, server[10|1000001] socket IP|Port :[127.0.0.1|20001].
+Mar 24 09:59:29.666 2023@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[0.0.0.0|0] Success.
+Mar 24 09:59:38.215 2023@LM_INFO@Accept peer socket IP Address:[127.0.0.1|40189] Success. 
+Mar 24 09:59:38.234 2023@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 09:59:38.236 2023@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:19|1000001.
+Mar 24 09:59:38.469 2023@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:20|1000001, reactor_index:0!
+Mar 24 09:59:38.470 2023@LM_INFO@Accept peer server[20|1000001],IP|port[127.0.0.1|40189] regist success.
+Mar 24 09:59:39.655 2023@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Mar 24 09:59:39.656 2023@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 09:59:39.658 2023@LM_ERROR@Send data error,server[10|1000001] IP|Port [127.0.0.1|20001],Peer:20 errno=111|Connection refused 
+Mar 24 09:59:39.659 2023@LM_INFO@Connect peer close, server[10|1000001] socket IP|Port :[127.0.0.1|20001].
+Mar 24 09:59:39.670 2023@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[0.0.0.0|0] Success.
+Mar 24 09:59:49.654 2023@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Mar 24 09:59:49.657 2023@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 09:59:49.657 2023@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[127.0.0.1|20001] Success.
+Mar 24 10:04:39.834 2023@LM_ERROR@Connect or receive expire event,peer server [8|1001101] IP[127.0.0.1|40024] want to close handle. recieve_counter=0
+Mar 24 10:04:49.265 2023@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|40079] want to close handle. recieve_counter=0
+Mar 24 10:05:08.235 2023@LM_ERROR@Connect or receive expire event,peer server [20|1000001] IP[127.0.0.1|40189] want to close handle. recieve_counter=0
+Mar 24 10:09:39.838 2023@LM_ERROR@Connect or receive expire event,peer server [8|1001101] IP[127.0.0.1|40024] want to close handle. recieve_counter=0
+Mar 24 10:09:49.265 2023@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|40079] want to close handle. recieve_counter=0
+Mar 24 10:10:08.235 2023@LM_ERROR@Connect or receive expire event,peer server [20|1000001] IP[127.0.0.1|40189] want to close handle. recieve_counter=0
+Mar 24 10:13:58.058 2023@LM_INFO@ACE Log Strategy init succ.
+Mar 24 10:13:58.109 2023@LM_INFO@ExtendBufferList size:[128] total:[0] need memory [26265600] ,total use memory [0].
+Mar 24 10:13:58.110 2023@LM_INFO@Comm_Accept_Handle::CreateListenPeer bind success 127.0.0.1|29001, svr_info:19|1000001.
+Mar 24 10:13:58.110 2023@LM_INFO@Comm_Accept_Handle::CreateListenPeer old_buf, snd:16384, recv:87380.
+Mar 24 10:13:58.110 2023@LM_INFO@Comm_Accept_Handle::CreateListenPeer new_buf, snd:249856, recv:249856.
+Mar 24 10:13:58.110 2023@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:1|1000001.
+Mar 24 10:13:58.110 2023@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 10:13:58.110 2023@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Mar 24 10:13:58.110 2023@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 10:13:58.110 2023@LM_INFO@Inst_Comm_Svrd_App::Run Start.
+Mar 24 10:13:58.111 2023@LM_INFO@Connect server[1|1000001] peer socket IP|Port :[127.0.0.1|11001] Success.
+Mar 24 10:13:58.111 2023@LM_ERROR@Send data error,server[10|1000001] IP|Port [127.0.0.1|20001],Peer:16 errno=111|Connection refused 
+Mar 24 10:13:58.112 2023@LM_INFO@Connect peer close, server[10|1000001] socket IP|Port :[127.0.0.1|20001].
+Mar 24 10:13:58.112 2023@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[0.0.0.0|0] Success.
+Mar 24 10:14:06.059 2023@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Mar 24 10:14:06.060 2023@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 10:14:06.060 2023@LM_ERROR@Send data error,server[10|1000001] IP|Port [127.0.0.1|20001],Peer:16 errno=111|Connection refused 
+Mar 24 10:14:06.060 2023@LM_INFO@Connect peer close, server[10|1000001] socket IP|Port :[127.0.0.1|20001].
+Mar 24 10:14:06.060 2023@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[0.0.0.0|0] Success.
+Mar 24 10:14:07.198 2023@LM_INFO@Accept peer socket IP Address:[127.0.0.1|41784] Success. 
+Mar 24 10:14:07.199 2023@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 10:14:07.199 2023@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:19|1000001.
+Mar 24 10:14:07.205 2023@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:11|1001101, reactor_index:0!
+Mar 24 10:14:07.205 2023@LM_INFO@Accept peer server[11|1001101],IP|port[127.0.0.1|41784] regist success.
+Mar 24 10:14:16.059 2023@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Mar 24 10:14:16.060 2023@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 10:14:16.060 2023@LM_ERROR@Send data error,server[10|1000001] IP|Port [127.0.0.1|20001],Peer:17 errno=111|Connection refused 
+Mar 24 10:14:16.060 2023@LM_INFO@Connect peer close, server[10|1000001] socket IP|Port :[127.0.0.1|20001].
+Mar 24 10:14:16.060 2023@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[0.0.0.0|0] Success.
+Mar 24 10:14:16.192 2023@LM_INFO@Accept peer socket IP Address:[127.0.0.1|41836] Success. 
+Mar 24 10:14:16.192 2023@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 10:14:16.192 2023@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:19|1000001.
+Mar 24 10:14:16.196 2023@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:8|1001101, reactor_index:0!
+Mar 24 10:14:16.196 2023@LM_INFO@Accept peer server[8|1001101],IP|port[127.0.0.1|41836] regist success.
+Mar 24 10:14:25.451 2023@LM_INFO@Accept peer socket IP Address:[127.0.0.1|41891] Success. 
+Mar 24 10:14:25.452 2023@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 10:14:25.452 2023@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:19|1000001.
+Mar 24 10:14:25.478 2023@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:9|1001101, reactor_index:0!
+Mar 24 10:14:25.478 2023@LM_INFO@Accept peer server[9|1001101],IP|port[127.0.0.1|41891] regist success.
+Mar 24 10:14:26.059 2023@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Mar 24 10:14:26.059 2023@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 10:14:26.059 2023@LM_ERROR@Send data error,server[10|1000001] IP|Port [127.0.0.1|20001],Peer:19 errno=111|Connection refused 
+Mar 24 10:14:26.059 2023@LM_INFO@Connect peer close, server[10|1000001] socket IP|Port :[127.0.0.1|20001].
+Mar 24 10:14:26.059 2023@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[0.0.0.0|0] Success.
+Mar 24 10:14:36.059 2023@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Mar 24 10:14:36.070 2023@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 10:14:36.070 2023@LM_ERROR@Send data error,server[10|1000001] IP|Port [127.0.0.1|20001],Peer:19 errno=111|Connection refused 
+Mar 24 10:14:36.070 2023@LM_INFO@Connect peer close, server[10|1000001] socket IP|Port :[127.0.0.1|20001].
+Mar 24 10:14:36.070 2023@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[0.0.0.0|0] Success.
+Mar 24 10:14:43.528 2023@LM_INFO@Accept peer socket IP Address:[127.0.0.1|41999] Success. 
+Mar 24 10:14:43.529 2023@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 10:14:43.530 2023@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:19|1000001.
+Mar 24 10:14:43.538 2023@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:20|1000001, reactor_index:0!
+Mar 24 10:14:43.538 2023@LM_INFO@Accept peer server[20|1000001],IP|port[127.0.0.1|41999] regist success.
+Mar 24 10:14:46.059 2023@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Mar 24 10:14:46.059 2023@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 10:14:46.060 2023@LM_ERROR@Send data error,server[10|1000001] IP|Port [127.0.0.1|20001],Peer:20 errno=111|Connection refused 
+Mar 24 10:14:46.060 2023@LM_INFO@Connect peer close, server[10|1000001] socket IP|Port :[127.0.0.1|20001].
+Mar 24 10:14:46.060 2023@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[0.0.0.0|0] Success.
+Mar 24 10:14:56.059 2023@LM_INFO@Comm_Own_Connect_Mgr::ConnectOneSvr ret:60010012, svr:10|1000001.
+Mar 24 10:14:56.059 2023@LM_ERROR@Set Connect Peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Mar 24 10:14:56.060 2023@LM_INFO@Connect server[10|1000001] peer socket IP|Port :[127.0.0.1|20001] Success.

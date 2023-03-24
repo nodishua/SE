@@ -1,0 +1,101 @@
+Apr  2 20:39:15.311 2021@LM_INFO@ACE Log Strategy init succ.
+Apr  2 20:39:15.420 2021@LM_INFO@ExtendBufferList size:[128] total:[0] need memory [26265600] ,total use memory [0].
+Apr  2 20:39:15.489 2021@LM_INFO@Comm_Accept_Handle::CreateListenPeer bind success 127.0.0.1|31001, svr_info:21|1000001.
+Apr  2 20:39:15.490 2021@LM_INFO@Comm_Accept_Handle::CreateListenPeer old_buf, snd:16384, recv:87380.
+Apr  2 20:39:15.491 2021@LM_INFO@Comm_Accept_Handle::CreateListenPeer new_buf, snd:249856, recv:249856.
+Apr  2 20:39:15.492 2021@LM_INFO@Inst_Comm_Svrd_App::Run Start.
+Apr  2 20:40:10.660 2021@LM_INFO@Accept peer socket IP Address:[127.0.0.1|54963] Success. 
+Apr  2 20:40:10.661 2021@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Apr  2 20:40:10.661 2021@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:21|1000001.
+Apr  2 20:40:10.710 2021@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:2|1000001, reactor_index:0!
+Apr  2 20:40:10.711 2021@LM_INFO@Accept peer server[2|1000001],IP|port[127.0.0.1|54963] regist success.
+Apr  2 20:40:42.214 2021@LM_INFO@Accept peer socket IP Address:[127.0.0.1|55052] Success. 
+Apr  2 20:40:42.215 2021@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Apr  2 20:40:42.215 2021@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:21|1000001.
+Apr  2 20:40:42.329 2021@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:11|1001101, reactor_index:0!
+Apr  2 20:40:42.332 2021@LM_INFO@Accept peer server[11|1001101],IP|port[127.0.0.1|55052] regist success.
+Apr  2 20:41:16.047 2021@LM_INFO@Accept peer socket IP Address:[127.0.0.1|55148] Success. 
+Apr  2 20:41:16.047 2021@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Apr  2 20:41:16.048 2021@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:21|1000001.
+Apr  2 20:41:16.124 2021@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:8|1001101, reactor_index:0!
+Apr  2 20:41:16.125 2021@LM_INFO@Accept peer server[8|1001101],IP|port[127.0.0.1|55148] regist success.
+Apr  2 20:42:53.481 2021@LM_INFO@Accept peer socket IP Address:[127.0.0.1|55472] Success. 
+Apr  2 20:42:53.481 2021@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Apr  2 20:42:53.482 2021@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:21|1000001.
+Apr  2 20:42:54.099 2021@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:9|1001101, reactor_index:0!
+Apr  2 20:42:54.110 2021@LM_INFO@Accept peer server[9|1001101],IP|port[127.0.0.1|55472] regist success.
+Apr  2 20:55:24.669 2021@LM_INFO@ACE Log Strategy init succ.
+Apr  2 20:55:24.694 2021@LM_INFO@ExtendBufferList size:[128] total:[0] need memory [26265600] ,total use memory [0].
+Apr  2 20:55:24.839 2021@LM_INFO@Comm_Accept_Handle::CreateListenPeer bind success 127.0.0.1|31001, svr_info:21|1000001.
+Apr  2 20:55:24.840 2021@LM_INFO@Comm_Accept_Handle::CreateListenPeer old_buf, snd:16384, recv:87380.
+Apr  2 20:55:24.841 2021@LM_INFO@Comm_Accept_Handle::CreateListenPeer new_buf, snd:249856, recv:249856.
+Apr  2 20:55:24.881 2021@LM_INFO@Inst_Comm_Svrd_App::Run Start.
+Apr  2 20:55:56.237 2021@LM_INFO@Accept peer socket IP Address:[127.0.0.1|50343] Success. 
+Apr  2 20:55:56.238 2021@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Apr  2 20:55:56.238 2021@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:21|1000001.
+Apr  2 20:55:56.303 2021@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:2|1000001, reactor_index:0!
+Apr  2 20:55:56.304 2021@LM_INFO@Accept peer server[2|1000001],IP|port[127.0.0.1|50343] regist success.
+Apr  2 20:56:16.148 2021@LM_INFO@Accept peer socket IP Address:[127.0.0.1|50416] Success. 
+Apr  2 20:56:16.157 2021@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Apr  2 20:56:16.160 2021@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:21|1000001.
+Apr  2 20:56:16.277 2021@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:11|1001101, reactor_index:0!
+Apr  2 20:56:16.278 2021@LM_INFO@Accept peer server[11|1001101],IP|port[127.0.0.1|50416] regist success.
+Apr  2 20:56:23.238 2021@LM_INFO@Accept peer socket IP Address:[127.0.0.1|50448] Success. 
+Apr  2 20:56:23.238 2021@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Apr  2 20:56:23.239 2021@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:21|1000001.
+Apr  2 20:56:23.477 2021@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:8|1001101, reactor_index:0!
+Apr  2 20:56:23.479 2021@LM_INFO@Accept peer server[8|1001101],IP|port[127.0.0.1|50448] regist success.
+Apr  2 20:56:34.219 2021@LM_INFO@Accept peer socket IP Address:[127.0.0.1|50517] Success. 
+Apr  2 20:56:34.220 2021@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Apr  2 20:56:34.221 2021@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:21|1000001.
+Apr  2 20:56:34.334 2021@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:9|1001101, reactor_index:0!
+Apr  2 20:56:34.334 2021@LM_INFO@Accept peer server[9|1001101],IP|port[127.0.0.1|50517] regist success.
+Apr  2 21:01:26.239 2021@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|50343] want to close handle. recieve_counter=0
+Apr  2 21:01:53.239 2021@LM_ERROR@Connect or receive expire event,peer server [8|1001101] IP[127.0.0.1|50448] want to close handle. recieve_counter=0
+Apr  2 21:02:04.221 2021@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|50517] want to close handle. recieve_counter=0
+Apr  2 21:07:04.221 2021@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|50517] want to close handle. recieve_counter=0
+Apr  2 21:21:21.142 2021@LM_INFO@ACE Log Strategy init succ.
+Apr  2 21:21:21.173 2021@LM_INFO@ExtendBufferList size:[128] total:[0] need memory [26265600] ,total use memory [0].
+Apr  2 21:21:21.762 2021@LM_INFO@Comm_Accept_Handle::CreateListenPeer bind success 127.0.0.1|31001, svr_info:21|1000001.
+Apr  2 21:21:21.765 2021@LM_INFO@Comm_Accept_Handle::CreateListenPeer old_buf, snd:16384, recv:87380.
+Apr  2 21:21:21.766 2021@LM_INFO@Comm_Accept_Handle::CreateListenPeer new_buf, snd:249856, recv:249856.
+Apr  2 21:21:21.769 2021@LM_INFO@Inst_Comm_Svrd_App::Run Start.
+Apr  2 21:22:13.080 2021@LM_INFO@Accept peer socket IP Address:[127.0.0.1|58585] Success. 
+Apr  2 21:22:13.080 2021@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Apr  2 21:22:13.081 2021@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:21|1000001.
+Apr  2 21:22:13.115 2021@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:2|1000001, reactor_index:0!
+Apr  2 21:22:13.117 2021@LM_INFO@Accept peer server[2|1000001],IP|port[127.0.0.1|58585] regist success.
+Apr  2 21:22:31.704 2021@LM_INFO@Accept peer socket IP Address:[127.0.0.1|58643] Success. 
+Apr  2 21:22:31.704 2021@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Apr  2 21:22:31.705 2021@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:21|1000001.
+Apr  2 21:22:31.780 2021@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:11|1001101, reactor_index:0!
+Apr  2 21:22:31.781 2021@LM_INFO@Accept peer server[11|1001101],IP|port[127.0.0.1|58643] regist success.
+Apr  2 21:22:41.537 2021@LM_INFO@Accept peer socket IP Address:[127.0.0.1|58687] Success. 
+Apr  2 21:22:41.538 2021@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Apr  2 21:22:41.541 2021@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:21|1000001.
+Apr  2 21:22:41.630 2021@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:8|1001101, reactor_index:0!
+Apr  2 21:22:41.631 2021@LM_INFO@Accept peer server[8|1001101],IP|port[127.0.0.1|58687] regist success.
+Apr  2 21:22:51.430 2021@LM_INFO@Accept peer socket IP Address:[127.0.0.1|58746] Success. 
+Apr  2 21:22:51.430 2021@LM_ERROR@Accept peer SO_RCVBUF:249856 SO_SNDBUF 249856.
+Apr  2 21:22:51.431 2021@LM_INFO@Comm_Accept_Handle accept success  self_svr_info:21|1000001.
+Apr  2 21:22:51.609 2021@LM_ERROR@Comm_TCP_Svr_Handler::PreProcessRecvPkg peer_svr_info:9|1001101, reactor_index:0!
+Apr  2 21:22:51.612 2021@LM_INFO@Accept peer server[9|1001101],IP|port[127.0.0.1|58746] regist success.
+Apr  2 21:27:43.122 2021@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|58585] want to close handle. recieve_counter=0
+Apr  2 21:28:11.541 2021@LM_ERROR@Connect or receive expire event,peer server [8|1001101] IP[127.0.0.1|58687] want to close handle. recieve_counter=0
+Apr  2 21:28:21.440 2021@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|58746] want to close handle. recieve_counter=0
+Apr  2 21:32:43.081 2021@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|58585] want to close handle. recieve_counter=0
+Apr  2 21:33:11.541 2021@LM_ERROR@Connect or receive expire event,peer server [8|1001101] IP[127.0.0.1|58687] want to close handle. recieve_counter=0
+Apr  2 21:33:21.431 2021@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|58746] want to close handle. recieve_counter=0
+Apr  2 21:37:43.081 2021@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|58585] want to close handle. recieve_counter=0
+Apr  2 21:38:11.541 2021@LM_ERROR@Connect or receive expire event,peer server [8|1001101] IP[127.0.0.1|58687] want to close handle. recieve_counter=0
+Apr  2 21:38:21.431 2021@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|58746] want to close handle. recieve_counter=0
+Apr  2 21:42:43.081 2021@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|58585] want to close handle. recieve_counter=0
+Apr  2 21:43:11.541 2021@LM_ERROR@Connect or receive expire event,peer server [8|1001101] IP[127.0.0.1|58687] want to close handle. recieve_counter=0
+Apr  2 21:43:21.431 2021@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|58746] want to close handle. recieve_counter=0
+Apr  2 21:47:43.081 2021@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|58585] want to close handle. recieve_counter=0
+Apr  2 21:48:11.541 2021@LM_ERROR@Connect or receive expire event,peer server [8|1001101] IP[127.0.0.1|58687] want to close handle. recieve_counter=0
+Apr  2 21:48:21.431 2021@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|58746] want to close handle. recieve_counter=0
+Apr  2 21:52:43.081 2021@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|58585] want to close handle. recieve_counter=0
+Apr  2 21:53:21.431 2021@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|58746] want to close handle. recieve_counter=0
+Apr  2 21:57:43.081 2021@LM_ERROR@Connect or receive expire event,peer server [2|1000001] IP[127.0.0.1|58585] want to close handle. recieve_counter=0
+Apr  2 21:58:21.431 2021@LM_ERROR@Connect or receive expire event,peer server [9|1001101] IP[127.0.0.1|58746] want to close handle. recieve_counter=0

@@ -1,0 +1,8 @@
+国家	货币代码	国家缩写	货币缩写	区域缩写（跟IP文件的前缀一样）
+中国	140	CHA	CNY	CN
+马来西亚	068	MA	MYR	MY
+新加坡	109	SI	SGD	SG
+泰国	048	TH	THB	TH
+美国	001	USA	USD	US
+新西兰	076	NZ	NZD	NZ
+菲律宾	033	PH	PHP	PH

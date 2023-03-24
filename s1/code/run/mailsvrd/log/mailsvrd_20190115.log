@@ -1,0 +1,497 @@
+Jan 15 10:10:01.760 2019@LM_INFO@Read DB Conf Configure File. [../../cfg/set_common.conf] .
+Jan 15 10:10:01.761 2019@LM_INFO@Read DB Conf From DB. [127.0.0.1|root|qy22players|3306] .
+Jan 15 10:10:01.762 2019@LM_INFO@Read MailSvrd DB Config Form Mysql [127.0.0.1] Succ.
+Jan 15 10:10:02.297 2019@LM_INFO@QY_DB_Config_Mgr::Initialize Succ.
+Jan 15 10:10:02.297 2019@LM_INFO@Pkg_Malloc_Mgr::Pkg_Malloc_Mgr init num256.
+Jan 15 10:10:07.207 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=0
+Jan 15 10:10:07.230 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=1
+Jan 15 10:10:07.239 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=2
+Jan 15 10:10:07.256 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=3
+Jan 15 10:10:07.839 2019@LM_INFO@Get config db data server_type_=1,server_id_=1000001,lan_ip=2130706433,lan_port=11001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.839 2019@LM_INFO@Get config db data server_type_=2,server_id_=1000001,lan_ip=2130706433,lan_port=12001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.839 2019@LM_INFO@Get config db data server_type_=3,server_id_=1000001,lan_ip=2130706433,lan_port=13001,wan_ip_1=3232286820,wan_port_1=13001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.839 2019@LM_INFO@Get config db data server_type_=4,server_id_=1000001,lan_ip=2130706433,lan_port=14001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.839 2019@LM_INFO@Get config db data server_type_=5,server_id_=1000001,lan_ip=2130706433,lan_port=15001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.839 2019@LM_INFO@Get config db data server_type_=6,server_id_=1000001,lan_ip=2130706433,lan_port=16001,wan_ip_1=3232286820,wan_port_1=16001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.839 2019@LM_INFO@Get config db data server_type_=7,server_id_=1000001,lan_ip=2130706433,lan_port=17001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.839 2019@LM_INFO@Get config db data server_type_=10,server_id_=1000001,lan_ip=2130706433,lan_port=20001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.839 2019@LM_INFO@Get config db data server_type_=12,server_id_=1000001,lan_ip=2130706433,lan_port=22001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.839 2019@LM_INFO@Get config db data server_type_=13,server_id_=1000001,lan_ip=2130706433,lan_port=23001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.839 2019@LM_INFO@Get config db data server_type_=14,server_id_=1000001,lan_ip=2130706433,lan_port=24001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.839 2019@LM_INFO@Get config db data server_type_=15,server_id_=1000001,lan_ip=2130706433,lan_port=25001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.839 2019@LM_INFO@Get config db data server_type_=17,server_id_=1000001,lan_ip=2130706433,lan_port=27001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.839 2019@LM_INFO@Get config db data server_type_=18,server_id_=1000001,lan_ip=2130706433,lan_port=28001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.839 2019@LM_INFO@Get config db data server_type_=19,server_id_=1000001,lan_ip=2130706433,lan_port=29001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.840 2019@LM_INFO@Get config db data server_type_=20,server_id_=1000001,lan_ip=2130706433,lan_port=30001,wan_ip_1=3232286820,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.840 2019@LM_INFO@Get config db data server_type_=21,server_id_=1000001,lan_ip=2130706433,lan_port=31001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.840 2019@LM_INFO@Get config db data server_type_=22,server_id_=1000001,lan_ip=2130706433,lan_port=32001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=2130706433, udp_wan_ip=3232286820, udp_port=52431, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.840 2019@LM_INFO@Get config db data server_type_=8,server_id_=1001101,lan_ip=2130706433,lan_port=18001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.840 2019@LM_INFO@Get config db data server_type_=9,server_id_=1001101,lan_ip=2130706433,lan_port=19001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.840 2019@LM_INFO@Get config db data server_type_=11,server_id_=1001101,lan_ip=2130706433,lan_port=21001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.840 2019@LM_INFO@Get config db data server_type_=8,server_id_=1001201,lan_ip=2130706433,lan_port=18002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.840 2019@LM_INFO@Get config db data server_type_=9,server_id_=1001201,lan_ip=2130706433,lan_port=19002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.840 2019@LM_INFO@Get config db data server_type_=11,server_id_=1001201,lan_ip=2130706433,lan_port=21002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001201.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:19|1000001.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:13|1000001.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:10|1000001.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:7|1000001.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:4|1000001.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:1|1000001.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:21|1000001.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:18|1000001.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:15|1000001.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:12|1000001.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:6|1000001.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:3|1000001.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001101.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001201.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:20|1000001.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:17|1000001.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:14|1000001.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:5|1000001.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:2|1000001.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001101.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001201.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:22|1000001.
+Jan 15 10:10:07.840 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001101.
+Jan 15 10:10:07.840 2019@LM_INFO@Read Server Configure File. [./cfg/mailsvrd.conf] .
+Jan 15 10:10:07.840 2019@LM_INFO@Read CommSvrd Server Configure File. [./cfg/mailsvrd.conf] .
+Jan 15 10:10:07.840 2019@LM_INFO@Inst_Mail_Svrd_App::InitInstance end.
+Jan 15 10:10:07.840 2019@LM_INFO@Inst_Mail_Svrd_App::Run.
+Jan 15 10:10:07.841 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:10:37.275 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:11:07.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:11:37.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:12:07.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:12:37.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:13:07.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:13:37.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:14:07.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:14:37.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:15:07.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:15:37.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:16:07.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:16:37.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:17:07.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:17:37.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:18:07.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:18:37.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:19:07.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:19:37.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:20:07.190 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 10:20:36.351 2019@LM_INFO@Inst_Mail_Svrd_App Run end.
+Jan 15 10:20:37.613 2019@LM_INFO@Inst_MAIL_Svrd_App::ExitInstance begin.
+Jan 15 13:10:58.490 2019@LM_INFO@Read DB Conf Configure File. [../../cfg/set_common.conf] .
+Jan 15 13:10:58.695 2019@LM_INFO@Read DB Conf From DB. [127.0.0.1|root|qy22players|3306] .
+Jan 15 13:10:58.818 2019@LM_INFO@Read MailSvrd DB Config Form Mysql [127.0.0.1] Succ.
+Jan 15 13:11:00.252 2019@LM_INFO@QY_DB_Config_Mgr::Initialize Succ.
+Jan 15 13:11:00.276 2019@LM_INFO@Pkg_Malloc_Mgr::Pkg_Malloc_Mgr init num256.
+Jan 15 13:11:03.301 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=0
+Jan 15 13:11:03.322 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=1
+Jan 15 13:11:03.368 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=2
+Jan 15 13:11:03.408 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=3
+Jan 15 13:11:03.872 2019@LM_INFO@Get config db data server_type_=1,server_id_=1000001,lan_ip=2130706433,lan_port=11001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 13:11:03.888 2019@LM_INFO@Get config db data server_type_=2,server_id_=1000001,lan_ip=2130706433,lan_port=12001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 13:11:03.899 2019@LM_INFO@Get config db data server_type_=3,server_id_=1000001,lan_ip=2130706433,lan_port=13001,wan_ip_1=3232286820,wan_port_1=13001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 13:11:03.960 2019@LM_INFO@Get config db data server_type_=4,server_id_=1000001,lan_ip=2130706433,lan_port=14001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 13:11:03.966 2019@LM_INFO@Get config db data server_type_=5,server_id_=1000001,lan_ip=2130706433,lan_port=15001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.072 2019@LM_INFO@Get config db data server_type_=6,server_id_=1000001,lan_ip=2130706433,lan_port=16001,wan_ip_1=3232286820,wan_port_1=16001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.084 2019@LM_INFO@Get config db data server_type_=7,server_id_=1000001,lan_ip=2130706433,lan_port=17001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.099 2019@LM_INFO@Get config db data server_type_=10,server_id_=1000001,lan_ip=2130706433,lan_port=20001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.119 2019@LM_INFO@Get config db data server_type_=12,server_id_=1000001,lan_ip=2130706433,lan_port=22001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.130 2019@LM_INFO@Get config db data server_type_=13,server_id_=1000001,lan_ip=2130706433,lan_port=23001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.146 2019@LM_INFO@Get config db data server_type_=14,server_id_=1000001,lan_ip=2130706433,lan_port=24001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.196 2019@LM_INFO@Get config db data server_type_=15,server_id_=1000001,lan_ip=2130706433,lan_port=25001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.232 2019@LM_INFO@Get config db data server_type_=17,server_id_=1000001,lan_ip=2130706433,lan_port=27001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.245 2019@LM_INFO@Get config db data server_type_=18,server_id_=1000001,lan_ip=2130706433,lan_port=28001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.259 2019@LM_INFO@Get config db data server_type_=19,server_id_=1000001,lan_ip=2130706433,lan_port=29001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.270 2019@LM_INFO@Get config db data server_type_=20,server_id_=1000001,lan_ip=2130706433,lan_port=30001,wan_ip_1=3232286820,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.303 2019@LM_INFO@Get config db data server_type_=21,server_id_=1000001,lan_ip=2130706433,lan_port=31001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.326 2019@LM_INFO@Get config db data server_type_=22,server_id_=1000001,lan_ip=2130706433,lan_port=32001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=2130706433, udp_wan_ip=3232286820, udp_port=52431, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.342 2019@LM_INFO@Get config db data server_type_=8,server_id_=1001101,lan_ip=2130706433,lan_port=18001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.364 2019@LM_INFO@Get config db data server_type_=9,server_id_=1001101,lan_ip=2130706433,lan_port=19001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.382 2019@LM_INFO@Get config db data server_type_=11,server_id_=1001101,lan_ip=2130706433,lan_port=21001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.412 2019@LM_INFO@Get config db data server_type_=8,server_id_=1001201,lan_ip=2130706433,lan_port=18002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.440 2019@LM_INFO@Get config db data server_type_=9,server_id_=1001201,lan_ip=2130706433,lan_port=19002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.464 2019@LM_INFO@Get config db data server_type_=11,server_id_=1001201,lan_ip=2130706433,lan_port=21002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Jan 15 13:11:04.473 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001201.
+Jan 15 13:11:04.483 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:19|1000001.
+Jan 15 13:11:04.484 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:13|1000001.
+Jan 15 13:11:04.491 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:10|1000001.
+Jan 15 13:11:04.499 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:7|1000001.
+Jan 15 13:11:04.500 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:4|1000001.
+Jan 15 13:11:04.509 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:1|1000001.
+Jan 15 13:11:04.510 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:21|1000001.
+Jan 15 13:11:04.528 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:18|1000001.
+Jan 15 13:11:04.533 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:15|1000001.
+Jan 15 13:11:04.534 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:12|1000001.
+Jan 15 13:11:04.535 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:6|1000001.
+Jan 15 13:11:04.548 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:3|1000001.
+Jan 15 13:11:04.557 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001101.
+Jan 15 13:11:04.558 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001201.
+Jan 15 13:11:04.559 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:20|1000001.
+Jan 15 13:11:04.560 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:17|1000001.
+Jan 15 13:11:04.578 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:14|1000001.
+Jan 15 13:11:04.584 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:5|1000001.
+Jan 15 13:11:04.584 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:2|1000001.
+Jan 15 13:11:04.585 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001101.
+Jan 15 13:11:04.586 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001201.
+Jan 15 13:11:04.595 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:22|1000001.
+Jan 15 13:11:04.606 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001101.
+Jan 15 13:11:04.608 2019@LM_INFO@Read Server Configure File. [./cfg/mailsvrd.conf] .
+Jan 15 13:11:04.619 2019@LM_INFO@Read CommSvrd Server Configure File. [./cfg/mailsvrd.conf] .
+Jan 15 13:11:04.628 2019@LM_INFO@Inst_Mail_Svrd_App::InitInstance end.
+Jan 15 13:11:04.628 2019@LM_INFO@Inst_Mail_Svrd_App::Run.
+Jan 15 13:11:04.629 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:11:33.269 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:12:03.269 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:12:33.306 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:13:03.269 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:13:33.272 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:14:03.296 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:14:33.269 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:15:03.273 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:15:33.270 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:16:03.271 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:16:33.285 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:17:03.355 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:17:33.281 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:18:03.307 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:18:33.299 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:19:03.273 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:19:33.477 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:20:03.292 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:20:33.281 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:21:03.269 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:21:33.269 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:22:03.269 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:22:33.269 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 13:23:03.269 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:22:32.891 2019@LM_INFO@Read DB Conf Configure File. [../../cfg/set_common.conf] .
+Jan 15 14:22:32.934 2019@LM_INFO@Read DB Conf From DB. [127.0.0.1|root|qy22players|3306] .
+Jan 15 14:22:33.060 2019@LM_INFO@Read MailSvrd DB Config Form Mysql [127.0.0.1] Succ.
+Jan 15 14:22:35.907 2019@LM_INFO@QY_DB_Config_Mgr::Initialize Succ.
+Jan 15 14:22:35.955 2019@LM_INFO@Pkg_Malloc_Mgr::Pkg_Malloc_Mgr init num256.
+Jan 15 14:22:40.182 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=0
+Jan 15 14:22:40.689 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=1
+Jan 15 14:22:40.737 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=2
+Jan 15 14:22:40.770 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=3
+Jan 15 14:22:42.188 2019@LM_INFO@Get config db data server_type_=1,server_id_=1000001,lan_ip=2130706433,lan_port=11001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:22:42.212 2019@LM_INFO@Get config db data server_type_=2,server_id_=1000001,lan_ip=2130706433,lan_port=12001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:22:42.316 2019@LM_INFO@Get config db data server_type_=3,server_id_=1000001,lan_ip=2130706433,lan_port=13001,wan_ip_1=3232286820,wan_port_1=13001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:22:42.528 2019@LM_INFO@Get config db data server_type_=4,server_id_=1000001,lan_ip=2130706433,lan_port=14001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:22:42.597 2019@LM_INFO@Get config db data server_type_=5,server_id_=1000001,lan_ip=2130706433,lan_port=15001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:22:42.602 2019@LM_INFO@Get config db data server_type_=6,server_id_=1000001,lan_ip=2130706433,lan_port=16001,wan_ip_1=3232286820,wan_port_1=16001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:22:42.775 2019@LM_INFO@Get config db data server_type_=7,server_id_=1000001,lan_ip=2130706433,lan_port=17001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:22:43.441 2019@LM_INFO@Get config db data server_type_=10,server_id_=1000001,lan_ip=2130706433,lan_port=20001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:22:43.556 2019@LM_INFO@Get config db data server_type_=12,server_id_=1000001,lan_ip=2130706433,lan_port=22001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:22:43.619 2019@LM_INFO@Get config db data server_type_=13,server_id_=1000001,lan_ip=2130706433,lan_port=23001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:22:43.684 2019@LM_INFO@Get config db data server_type_=14,server_id_=1000001,lan_ip=2130706433,lan_port=24001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:22:43.909 2019@LM_INFO@Get config db data server_type_=15,server_id_=1000001,lan_ip=2130706433,lan_port=25001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:22:43.956 2019@LM_INFO@Get config db data server_type_=17,server_id_=1000001,lan_ip=2130706433,lan_port=27001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:22:44.112 2019@LM_INFO@Get config db data server_type_=18,server_id_=1000001,lan_ip=2130706433,lan_port=28001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:22:44.159 2019@LM_INFO@Get config db data server_type_=19,server_id_=1000001,lan_ip=2130706433,lan_port=29001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:22:44.183 2019@LM_INFO@Get config db data server_type_=20,server_id_=1000001,lan_ip=2130706433,lan_port=30001,wan_ip_1=3232286820,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:22:44.242 2019@LM_INFO@Get config db data server_type_=21,server_id_=1000001,lan_ip=2130706433,lan_port=31001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:22:44.242 2019@LM_INFO@Get config db data server_type_=22,server_id_=1000001,lan_ip=2130706433,lan_port=32001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=2130706433, udp_wan_ip=3232286820, udp_port=52431, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:22:44.359 2019@LM_INFO@Get config db data server_type_=8,server_id_=1001101,lan_ip=2130706433,lan_port=18001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Jan 15 14:22:44.568 2019@LM_INFO@Get config db data server_type_=9,server_id_=1001101,lan_ip=2130706433,lan_port=19001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Jan 15 14:22:44.665 2019@LM_INFO@Get config db data server_type_=11,server_id_=1001101,lan_ip=2130706433,lan_port=21001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Jan 15 14:22:44.682 2019@LM_INFO@Get config db data server_type_=8,server_id_=1001201,lan_ip=2130706433,lan_port=18002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Jan 15 14:22:44.717 2019@LM_INFO@Get config db data server_type_=9,server_id_=1001201,lan_ip=2130706433,lan_port=19002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Jan 15 14:22:44.772 2019@LM_INFO@Get config db data server_type_=11,server_id_=1001201,lan_ip=2130706433,lan_port=21002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Jan 15 14:22:44.924 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001201.
+Jan 15 14:22:44.930 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:19|1000001.
+Jan 15 14:22:44.932 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:13|1000001.
+Jan 15 14:22:44.976 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:10|1000001.
+Jan 15 14:22:45.000 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:7|1000001.
+Jan 15 14:22:45.000 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:4|1000001.
+Jan 15 14:22:45.005 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:1|1000001.
+Jan 15 14:22:45.016 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:21|1000001.
+Jan 15 14:22:45.022 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:18|1000001.
+Jan 15 14:22:45.056 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:15|1000001.
+Jan 15 14:22:45.058 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:12|1000001.
+Jan 15 14:22:45.078 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:6|1000001.
+Jan 15 14:22:45.087 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:3|1000001.
+Jan 15 14:22:45.119 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001101.
+Jan 15 14:22:45.119 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001201.
+Jan 15 14:22:45.124 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:20|1000001.
+Jan 15 14:22:45.129 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:17|1000001.
+Jan 15 14:22:45.130 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:14|1000001.
+Jan 15 14:22:45.136 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:5|1000001.
+Jan 15 14:22:45.149 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:2|1000001.
+Jan 15 14:22:45.150 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001101.
+Jan 15 14:22:45.157 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001201.
+Jan 15 14:22:45.174 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:22|1000001.
+Jan 15 14:22:45.175 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001101.
+Jan 15 14:22:45.182 2019@LM_INFO@Read Server Configure File. [./cfg/mailsvrd.conf] .
+Jan 15 14:22:45.280 2019@LM_INFO@Read CommSvrd Server Configure File. [./cfg/mailsvrd.conf] .
+Jan 15 14:22:45.291 2019@LM_INFO@Inst_Mail_Svrd_App::InitInstance end.
+Jan 15 14:22:45.380 2019@LM_INFO@Inst_Mail_Svrd_App::Run.
+Jan 15 14:22:45.427 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:23:10.211 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:23:40.201 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:24:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:24:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:25:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:25:40.174 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:26:10.212 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:26:40.185 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:27:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:27:40.170 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:28:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:28:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:29:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:29:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:30:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:30:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:31:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:31:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:32:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:32:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:33:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:33:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:34:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:34:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:35:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:35:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:36:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:36:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:37:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:37:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:38:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:38:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:39:10.170 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:39:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:40:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:40:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:41:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:41:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:42:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:42:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:43:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:43:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:44:10.171 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:44:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:45:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:45:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:46:10.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:46:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:47:10.175 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:47:40.169 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:57:43.235 2019@LM_INFO@Read DB Conf Configure File. [../../cfg/set_common.conf] .
+Jan 15 14:57:43.333 2019@LM_INFO@Read DB Conf From DB. [127.0.0.1|root|qy22players|3306] .
+Jan 15 14:57:43.339 2019@LM_INFO@Read MailSvrd DB Config Form Mysql [127.0.0.1] Succ.
+Jan 15 14:57:44.298 2019@LM_INFO@QY_DB_Config_Mgr::Initialize Succ.
+Jan 15 14:57:44.303 2019@LM_INFO@Pkg_Malloc_Mgr::Pkg_Malloc_Mgr init num256.
+Jan 15 14:57:46.530 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=0
+Jan 15 14:57:46.548 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=1
+Jan 15 14:57:46.567 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=2
+Jan 15 14:57:46.586 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=3
+Jan 15 14:57:46.866 2019@LM_INFO@Get config db data server_type_=1,server_id_=1000001,lan_ip=2130706433,lan_port=11001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:57:46.880 2019@LM_INFO@Get config db data server_type_=2,server_id_=1000001,lan_ip=2130706433,lan_port=12001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:57:46.897 2019@LM_INFO@Get config db data server_type_=3,server_id_=1000001,lan_ip=2130706433,lan_port=13001,wan_ip_1=3232286820,wan_port_1=13001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:57:46.921 2019@LM_INFO@Get config db data server_type_=4,server_id_=1000001,lan_ip=2130706433,lan_port=14001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:57:46.939 2019@LM_INFO@Get config db data server_type_=5,server_id_=1000001,lan_ip=2130706433,lan_port=15001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:57:46.942 2019@LM_INFO@Get config db data server_type_=6,server_id_=1000001,lan_ip=2130706433,lan_port=16001,wan_ip_1=3232286820,wan_port_1=16001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:57:46.974 2019@LM_INFO@Get config db data server_type_=7,server_id_=1000001,lan_ip=2130706433,lan_port=17001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:57:46.999 2019@LM_INFO@Get config db data server_type_=10,server_id_=1000001,lan_ip=2130706433,lan_port=20001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:57:47.021 2019@LM_INFO@Get config db data server_type_=12,server_id_=1000001,lan_ip=2130706433,lan_port=22001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:57:47.032 2019@LM_INFO@Get config db data server_type_=13,server_id_=1000001,lan_ip=2130706433,lan_port=23001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:57:47.053 2019@LM_INFO@Get config db data server_type_=14,server_id_=1000001,lan_ip=2130706433,lan_port=24001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:57:47.068 2019@LM_INFO@Get config db data server_type_=15,server_id_=1000001,lan_ip=2130706433,lan_port=25001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:57:47.092 2019@LM_INFO@Get config db data server_type_=17,server_id_=1000001,lan_ip=2130706433,lan_port=27001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:57:47.111 2019@LM_INFO@Get config db data server_type_=18,server_id_=1000001,lan_ip=2130706433,lan_port=28001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:57:47.130 2019@LM_INFO@Get config db data server_type_=19,server_id_=1000001,lan_ip=2130706433,lan_port=29001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:57:47.158 2019@LM_INFO@Get config db data server_type_=20,server_id_=1000001,lan_ip=2130706433,lan_port=30001,wan_ip_1=3232286820,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:57:47.170 2019@LM_INFO@Get config db data server_type_=21,server_id_=1000001,lan_ip=2130706433,lan_port=31001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:57:47.203 2019@LM_INFO@Get config db data server_type_=22,server_id_=1000001,lan_ip=2130706433,lan_port=32001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=2130706433, udp_wan_ip=3232286820, udp_port=52431, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 14:57:47.228 2019@LM_INFO@Get config db data server_type_=8,server_id_=1001101,lan_ip=2130706433,lan_port=18001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Jan 15 14:57:47.250 2019@LM_INFO@Get config db data server_type_=9,server_id_=1001101,lan_ip=2130706433,lan_port=19001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Jan 15 14:57:47.268 2019@LM_INFO@Get config db data server_type_=11,server_id_=1001101,lan_ip=2130706433,lan_port=21001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Jan 15 14:57:47.289 2019@LM_INFO@Get config db data server_type_=8,server_id_=1001201,lan_ip=2130706433,lan_port=18002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Jan 15 14:57:47.306 2019@LM_INFO@Get config db data server_type_=9,server_id_=1001201,lan_ip=2130706433,lan_port=19002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Jan 15 14:57:47.327 2019@LM_INFO@Get config db data server_type_=11,server_id_=1001201,lan_ip=2130706433,lan_port=21002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Jan 15 14:57:47.342 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001201.
+Jan 15 14:57:47.350 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:19|1000001.
+Jan 15 14:57:47.359 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:13|1000001.
+Jan 15 14:57:47.369 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:10|1000001.
+Jan 15 14:57:47.370 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:7|1000001.
+Jan 15 14:57:47.378 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:4|1000001.
+Jan 15 14:57:47.387 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:1|1000001.
+Jan 15 14:57:47.391 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:21|1000001.
+Jan 15 14:57:47.392 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:18|1000001.
+Jan 15 14:57:47.404 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:15|1000001.
+Jan 15 14:57:47.405 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:12|1000001.
+Jan 15 14:57:47.411 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:6|1000001.
+Jan 15 14:57:47.420 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:3|1000001.
+Jan 15 14:57:47.427 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001101.
+Jan 15 14:57:47.428 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001201.
+Jan 15 14:57:47.429 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:20|1000001.
+Jan 15 14:57:47.429 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:17|1000001.
+Jan 15 14:57:47.430 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:14|1000001.
+Jan 15 14:57:47.446 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:5|1000001.
+Jan 15 14:57:47.447 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:2|1000001.
+Jan 15 14:57:47.448 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001101.
+Jan 15 14:57:47.456 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001201.
+Jan 15 14:57:47.465 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:22|1000001.
+Jan 15 14:57:47.473 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001101.
+Jan 15 14:57:47.479 2019@LM_INFO@Read Server Configure File. [./cfg/mailsvrd.conf] .
+Jan 15 14:57:47.480 2019@LM_INFO@Read CommSvrd Server Configure File. [./cfg/mailsvrd.conf] .
+Jan 15 14:57:47.485 2019@LM_INFO@Inst_Mail_Svrd_App::InitInstance end.
+Jan 15 14:57:47.486 2019@LM_INFO@Inst_Mail_Svrd_App::Run.
+Jan 15 14:57:47.493 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:58:16.539 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:58:46.506 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:59:16.605 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 14:59:46.504 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:00:16.510 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:00:46.512 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:01:16.504 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:01:46.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:02:16.516 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:02:46.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:03:16.582 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:03:46.560 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:04:16.539 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:04:46.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:05:16.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:05:46.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:06:16.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:06:46.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:07:16.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:07:46.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:08:16.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:08:46.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:09:16.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:09:46.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:10:16.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:10:46.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:11:16.505 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:11:46.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:12:16.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:12:46.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:13:16.507 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:13:46.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:14:16.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:14:46.506 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:15:16.506 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:15:46.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:16:16.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:16:46.505 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:17:16.507 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:17:46.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:18:16.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:18:46.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:19:16.503 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:25:31.004 2019@LM_INFO@Read DB Conf Configure File. [../../cfg/set_common.conf] .
+Jan 15 15:25:31.030 2019@LM_INFO@Read DB Conf From DB. [127.0.0.1|root|qy22players|3306] .
+Jan 15 15:25:31.037 2019@LM_INFO@Read MailSvrd DB Config Form Mysql [127.0.0.1] Succ.
+Jan 15 15:25:32.375 2019@LM_INFO@QY_DB_Config_Mgr::Initialize Succ.
+Jan 15 15:25:32.392 2019@LM_INFO@Pkg_Malloc_Mgr::Pkg_Malloc_Mgr init num256.
+Jan 15 15:25:35.907 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=0
+Jan 15 15:25:35.934 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=1
+Jan 15 15:25:35.957 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=2
+Jan 15 15:25:35.984 2019@LM_INFO@TransMangerWithNotify<ACE_MT_SYNCH>::ActiveNotifyTask before TaskClone(), index=3
+Jan 15 15:25:36.413 2019@LM_INFO@Get config db data server_type_=1,server_id_=1000001,lan_ip=2130706433,lan_port=11001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.428 2019@LM_INFO@Get config db data server_type_=2,server_id_=1000001,lan_ip=2130706433,lan_port=12001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.459 2019@LM_INFO@Get config db data server_type_=3,server_id_=1000001,lan_ip=2130706433,lan_port=13001,wan_ip_1=3232286820,wan_port_1=13001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.479 2019@LM_INFO@Get config db data server_type_=4,server_id_=1000001,lan_ip=2130706433,lan_port=14001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.525 2019@LM_INFO@Get config db data server_type_=5,server_id_=1000001,lan_ip=2130706433,lan_port=15001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.553 2019@LM_INFO@Get config db data server_type_=6,server_id_=1000001,lan_ip=2130706433,lan_port=16001,wan_ip_1=3232286820,wan_port_1=16001,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.561 2019@LM_INFO@Get config db data server_type_=7,server_id_=1000001,lan_ip=2130706433,lan_port=17001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.577 2019@LM_INFO@Get config db data server_type_=10,server_id_=1000001,lan_ip=2130706433,lan_port=20001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.605 2019@LM_INFO@Get config db data server_type_=12,server_id_=1000001,lan_ip=2130706433,lan_port=22001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.616 2019@LM_INFO@Get config db data server_type_=13,server_id_=1000001,lan_ip=2130706433,lan_port=23001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.642 2019@LM_INFO@Get config db data server_type_=14,server_id_=1000001,lan_ip=2130706433,lan_port=24001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.650 2019@LM_INFO@Get config db data server_type_=15,server_id_=1000001,lan_ip=2130706433,lan_port=25001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.675 2019@LM_INFO@Get config db data server_type_=17,server_id_=1000001,lan_ip=2130706433,lan_port=27001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.692 2019@LM_INFO@Get config db data server_type_=18,server_id_=1000001,lan_ip=2130706433,lan_port=28001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.698 2019@LM_INFO@Get config db data server_type_=19,server_id_=1000001,lan_ip=2130706433,lan_port=29001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.713 2019@LM_INFO@Get config db data server_type_=20,server_id_=1000001,lan_ip=2130706433,lan_port=30001,wan_ip_1=3232286820,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.744 2019@LM_INFO@Get config db data server_type_=21,server_id_=1000001,lan_ip=2130706433,lan_port=31001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.769 2019@LM_INFO@Get config db data server_type_=22,server_id_=1000001,lan_ip=2130706433,lan_port=32001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=2130706433, udp_wan_ip=3232286820, udp_port=52431, set_no_=1, game_set_id=0,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.788 2019@LM_INFO@Get config db data server_type_=8,server_id_=1001101,lan_ip=2130706433,lan_port=18001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.803 2019@LM_INFO@Get config db data server_type_=9,server_id_=1001101,lan_ip=2130706433,lan_port=19001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.826 2019@LM_INFO@Get config db data server_type_=11,server_id_=1001101,lan_ip=2130706433,lan_port=21001,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=11,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.843 2019@LM_INFO@Get config db data server_type_=8,server_id_=1001201,lan_ip=2130706433,lan_port=18002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.866 2019@LM_INFO@Get config db data server_type_=9,server_id_=1001201,lan_ip=2130706433,lan_port=19002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.894 2019@LM_INFO@Get config db data server_type_=11,server_id_=1001201,lan_ip=2130706433,lan_port=21002,wan_ip_1=0,wan_port_1=0,wan_ip_2=0,wan_port_2=0,udp_lan_ip=0, udp_wan_ip=0, udp_port=0, set_no_=1, game_set_id=12,idc_no_=0,cfg_info_=.
+Jan 15 15:25:36.918 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001201.
+Jan 15 15:25:36.925 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:19|1000001.
+Jan 15 15:25:36.926 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:13|1000001.
+Jan 15 15:25:36.935 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:10|1000001.
+Jan 15 15:25:36.945 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:7|1000001.
+Jan 15 15:25:36.946 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:4|1000001.
+Jan 15 15:25:36.964 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:1|1000001.
+Jan 15 15:25:36.972 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:21|1000001.
+Jan 15 15:25:36.973 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:18|1000001.
+Jan 15 15:25:36.980 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:15|1000001.
+Jan 15 15:25:36.985 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:12|1000001.
+Jan 15 15:25:36.988 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:6|1000001.
+Jan 15 15:25:36.989 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:3|1000001.
+Jan 15 15:25:37.005 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001101.
+Jan 15 15:25:37.009 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:9|1001201.
+Jan 15 15:25:37.013 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:20|1000001.
+Jan 15 15:25:37.014 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:17|1000001.
+Jan 15 15:25:37.016 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:14|1000001.
+Jan 15 15:25:37.028 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:5|1000001.
+Jan 15 15:25:37.029 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:2|1000001.
+Jan 15 15:25:37.030 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001101.
+Jan 15 15:25:37.030 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:11|1001201.
+Jan 15 15:25:37.031 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:22|1000001.
+Jan 15 15:25:37.046 2019@LM_INFO@ReLoadSvrList server_info set_no:1, svr_info:8|1001101.
+Jan 15 15:25:37.050 2019@LM_INFO@Read Server Configure File. [./cfg/mailsvrd.conf] .
+Jan 15 15:25:37.050 2019@LM_INFO@Read CommSvrd Server Configure File. [./cfg/mailsvrd.conf] .
+Jan 15 15:25:37.058 2019@LM_INFO@Inst_Mail_Svrd_App::InitInstance end.
+Jan 15 15:25:37.061 2019@LM_INFO@Inst_Mail_Svrd_App::Run.
+Jan 15 15:25:37.062 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:26:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:26:35.883 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:27:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:27:36.002 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:28:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:28:35.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:29:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:29:35.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:30:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:30:35.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:31:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:31:35.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:32:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:32:35.879 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:33:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:33:35.879 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:34:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:34:35.884 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:35:05.883 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:35:35.883 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:36:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:36:35.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:37:05.883 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:37:35.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:38:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:38:35.881 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:39:05.882 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:39:35.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:40:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:40:35.879 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:41:05.880 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:41:35.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:42:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:42:35.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:43:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:43:35.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:44:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:44:35.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:45:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:45:35.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:46:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:46:35.879 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:47:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:47:35.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:48:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:48:35.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:49:05.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.
+Jan 15 15:49:35.878 2019@LM_ERROR@MailAppEventHandler::handle_timeout map_of_state_num:0.

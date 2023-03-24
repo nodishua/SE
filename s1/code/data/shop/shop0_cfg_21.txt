@@ -1,0 +1,2 @@
+序列号	道具ID	消耗类型1(1货币、2道具、3consume)	货币ID1	价格1	次数限制ID	显示状态限制	购买状态限制	显示颜色（1红2蓝3青4紫99灰）	显示文字（1新品2稀有3极品4限时5绝版大量7超值8豪华9）	商品原价	商品特效	额外参数1	商品说明	限制说明
+[K][C][S]id	[C][S]ItemId	[C][S]CostType1	[C][S]CoinId1	[C][S]Price1	[C][S]numLimt	[C][S]showLimt	[C][S]BuyLimt	[C]TRTagSprite	[C]showRedNode	[C]nameScript	[C][S]special_effect	[C][S]param1	没用	没用
